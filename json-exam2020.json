@@ -1,0 +1,1272 @@
+{
+  "exam_id": "concours-fmp-fmd-med-arabic-2020",
+  "exam_title": "مباراة ولوج كليات الطب والصيدلة وكليتي طب الأسنان - السنة الجامعية 2020-2021 - غشت 2020",
+  "language": "ar",
+  "duration_hours": 3,
+  "total_questions": 80,
+  "note": "correct_answer values were merged from the official corrigé/answer key sheet (bubble grid image) for this exam. Each question is worth 1 point (uniform weighting).",
+  "instructions": [
+    "L'épreuve est constituée de quatre composantes d'une durée totale de 2 heures.",
+    "Chaque question comporte 5 propositions (A, B, C, D et E), une seule proposition est juste.",
+    "Chaque candidat(e) a le droit d'utiliser une seule feuille réponse non remplaçable.",
+    "Avec un stylo à bille (bleu ou noir) cochez sur la feuille réponse à l'intérieur de la case correspondante à chaque réponse juste.",
+    "L'utilisation de la calculatrice est INTERDITE.",
+    "L'utilisation du Blanco sur la feuille réponse est INTERDITE.",
+    "Toute réponse fausse vaut 0 à la question.",
+    "L'épreuve comporte 56 QCM réparties en quatre composantes."
+  ],
+  "grading_rules": "L'examen est noté sur 20 points (20/20) répartis entre les différentes matières. Les coefficients sont indiqués pour certaines sections : le coefficient 1 est attribué aux modules de physique (ondes) et de chimie (cinétique). Les questions sont à choix multiples avec 5 propositions (A à E) pour chaque question. Le concours comprend 80 questions au total, réparties en plusieurs composantes : Biologie/Génétique (Q1-Q20), Physique (Q21-Q38), Chimie (Q39-Q60) et Mathématiques (Q61-Q80). L'examen est destiné aux candidats aux facultés de médecine, de pharmacie et de médecine dentaire pour l'année universitaire 2020-2021, session d'août 2020.",
+  "components": [
+    {
+      "id": "sciences_vie",
+      "label_ar": "علوم الحياة",
+      "order": 1,
+      "range": [
+        1,
+        20
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "physique",
+      "label_ar": "الفيزياء",
+      "order": 2,
+      "range": [
+        21,
+        40
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "chimie",
+      "label_ar": "الكيمياء",
+      "order": 3,
+      "range": [
+        41,
+        60
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "mathematiques",
+      "label_ar": "الرياضيات",
+      "order": 4,
+      "range": [
+        61,
+        80
+      ],
+      "coefficient": 1
+    }
+  ],
+  "exam_pdf": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/pdf-exam2020/pdf-exam2020.pdf"
+    }
+  ],
+  "answer_images": [
+    {
+      "image1": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/answare-exam2020/Screenshot%202026-07-05%20061931.png"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "component": "sciences_vie",
+      "question_text": "يتم تعبير الخبر الوراثي عند ذوات النواة الحقيقة عبر مرحلتين:",
+      "options": {
+        "A": "النسخ في مستوى السيتوبلازم و الترجمة في مستوى النواة؛",
+        "B": "المضاعفة في مستوى النواة و النسخ في مستوى السيتوبلازم؛",
+        "C": "المضاعفة في مستوى السيتوبلازم و النسخ في مستوى النواة؛",
+        "D": "المضاعفة في مستوى السيتوبلازم و الترجمة في مستوى النواة؛",
+        "E": "النسخ في مستوى النواة و الترجمة في مستوى السيتوبلازم."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/1.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "component": "sciences_vie",
+      "question_text": "خلال الطور الاستوائي من الانقسام غير المباشر يتشكل كل صبغي من:",
+      "options": {
+        "A": "صبغيين مكثفين يتكون كل منهما من خييط واحد من ADN؛",
+        "B": "صبغي غير مكثف يتكون من خييطين من ADN؛",
+        "C": "صبغيين مكثفين يتكون كل منهما من خييطين من ADN؛",
+        "D": "صبغي غير مكثف يتكون من خييط واحد من ADN؛",
+        "E": "صبغيين غير مكثفين يتكون كل منهما من خييطين من ADN."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/2.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "component": "sciences_vie",
+      "question_text": "يرتبط قانون نقاوة الأمشاج بـ:",
+      "options": {
+        "A": "التقاء الحليلين المحددين للمظهرين الخارجيين المتعارضين عند الهجين؛",
+        "B": "افتراق حليلي المورثة المحددة للمظهرين الخارجيين المتعارضين عند الهجين خلال تشكل الأمشاج؛",
+        "C": "الافتراق المستقل لأزواج الحليلات المسؤولة عن صفتين مختلفتين خلال تشكل الأمشاج عند الهجين؛",
+        "D": "الافتراق المستقل لأزواج الحليلات المسؤولة عن صفتين مختلفتين خلال تشكل الأمشاج عند الاقتران؛",
+        "E": "التقاء الحليلين المحددين للمظهرين الخارجيين المتعارضين عند متشابه الاقتران."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/3.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "component": "sciences_vie",
+      "question_text": "يتضمن كل ARNt ناقل (ARN ناقل):",
+      "options": {
+        "A": "مضاد وحدة رمزية يرتبط بـ ARNm ليؤمَن الترجمة؛",
+        "B": "وحدة رمزية ترتبط بـ ARNm لتؤمَن النسخ؛",
+        "C": "مضاد وحدة رمزية يرتبط بـ ARNm ليؤمَن المضاعفة؛",
+        "D": "مضاد وحدة رمزية يرتبط بـ ARNm ليؤمَن النسخ؛",
+        "E": "وحدة رمزية ترتبط بـ ARNm لتؤمَن الترجمة."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/4.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "component": "sciences_vie",
+      "question_text": "الخريطة العمَلية (الخريطة الوراثية) هي تمثيل بياني لتموضع:",
+      "options": {
+        "A": "الصبغيات يتم إنجازها بناء على حساب نسبة المورثات المرتبطة عند الخلف إثر تزاوج اختباري؛",
+        "B": "الصبغيات يتم إنجازها بناء على حساب نسبة التركيبات الجديدة عند الخلف إثر تزاوج اختباري؛",
+        "C": "المورثات على الصبغيات المستقلة يتم إنجازها بناء على حساب نسبة المورثات المستقلة عند الخلف إثر تزاوج اختباري؛",
+        "D": "المورثات على الصبغيات المستقلة يتم إنجازها بناء على حساب نسبة الصبغيات المستقلة عند الخلف إثر تزاوج اختباري؛",
+        "E": "المورثات على الصبغيات يتم إنجازها بناء على حساب نسبة التركيبات الجديدة عند الخلف إثر تزاوج اختباري."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/5.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "component": "sciences_vie",
+      "question_text": "بخصوص الطفرات:",
+      "options": {
+        "A": "تكون دائما مفيدة للفرد الحامل لها؛",
+        "B": "تخفض من التنوع الوراثي للساكنة؛",
+        "C": "يمكن أن تعطي للفرد الحامل لها أفضلية انتقائية؛",
+        "D": "تنتقل إلى الخلف حينما تصيب الخلايا الجسدية؛",
+        "E": "تنجم عنها دائما أمراض وراثية."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/6.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "component": "sciences_vie",
+      "question_text": "تطور الساكنة:",
+      "options": {
+        "A": "يرتبط بتغيرات وراثية عشوائية مستقلة عن خصائص الوسط؛",
+        "B": "تتدخل فيه آليات تُمَكَن من تنويع وتعقيد الذخيرة الوراثية مما يؤدي دائما إلى ظهور مظاهر خارجية تفضيلية؛",
+        "C": "يرتبط دائما بارتفاع التنوع الوراثي داخل الساكنة؛",
+        "D": "تتدخل فيه آليات تُمَكَن من تنويع وتعقيد الذخيرة الوراثية مما يؤدي دائما إلى ظهور مظاهر خارجية غير تفضيلية؛",
+        "E": "مستحيل دون تغير المحتوى الجيني للساكنة."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/7.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "component": "sciences_vie",
+      "question_text": "جزيئة ARN:",
+      "options": {
+        "A": "لا تتواجد إلا في سيتوبلازم الخلية؛",
+        "B": "لا ترتبط أبدا بأي بروتيين؛",
+        "C": "تتكون من أربعة نوكليوتيدات: A و T و G و C؛",
+        "D": "يقتصر تدخلها على نسخ المورثات؛",
+        "E": "يمكن أن تتضمن وحدات رمزية بدون معنى."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/8.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "component": "sciences_vie",
+      "question_text": "في التشخيص قبل الولادي عند الإنسان، هناك عدة تقنيات تمَكَن من إنجاز الخريطة الصبغية من بينها التقنيتين الآتيتين:",
+      "options": {
+        "A": "أخذ عينة من السائل السلوي و اقتطاع عينة من الخلايا الحميلية؛",
+        "B": "التصوير بالأشعة و اقتطاع عينة من الخلايا الحميلية؛",
+        "C": "التصوير بالصدى و أخذ عينة من السائل السلوي؛",
+        "D": "التصوير بالصدى و اقتطاع عينة من الخلايا الحميلية؛",
+        "E": "التصوير بالأشعة و أخذ عينة من السائل السلوي."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/9.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "component": "sciences_vie",
+      "question_text": "النوع:",
+      "options": {
+        "A": "أقل تنوعا وراثيا من الساكنة؛",
+        "B": "توزيعه الجغرافي محدود؛",
+        "C": "يتم تعريفه بالاقتصار على معيار التشابه في المظهر الخارجي؛",
+        "D": "لا تظهر فيه تغيرات في الأنماط الوراثية بين الأفراد؛",
+        "E": "يخضع لعوامل التغير الوراثي."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/10.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "component": "sciences_vie",
+      "question_text": "نعتبر التزاوجات الآتية: التزاوج 1: بين دجاجة من سلالة نقية ذات عُرف عاد وديك ذو عُرف مُورَّد، أعطى هذا التزاوج خلفا يكون من أفراد ذات عُرف مُورَّد. التزاوج 2: بين ديك ودجاجة لهما أرجل قصيرة: أعطى هذا التزاوج خلفا يكون 2/3 من الأفراد بأرجل قصيرة و 1/3 من الأفراد بأرجل عادية. التزاوج 3: بين ديك بعُرف مُورَّد وأرجل قصيرة ودجاجة بعُرف عاد وأرجل عادية: أعطى هذا التزاوج خلفا يكون 50% من الأفراد بعرف مُورَّد وأرجل قصيرة و50% من الأفراد بعرف عاد وأرجل عادية. انطلاقا من مختلف هذه التزاوجات، وعلما أن المورثتين المدروستين مستقلتين، يمكن كتابة النمط الوراثي لديك التزاوج 3 على النحو الآتي: (نرمز لشكل العرف بـ R و r ولشكل الأرجل بـ C و c)",
+      "options": {
+        "A": "(R//r, C//C)",
+        "B": "(R//r, C//c)",
+        "C": "(R//R, C//c)",
+        "D": "(R//R, C//C)",
+        "E": "(R//r, c//c)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/11.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "component": "sciences_vie",
+      "question_text": "تقدم الوثيقة الآتية الخريطة الصبغية لحميل. انطلاقا من هذه الوثيقة يمكن أن نستنتج أن هذه الخريطة لخلية حميل ذكر 2n+1=47 ناتجة عن التحام:",
+      "options": {
+        "A": "مشيج خريطته الصبغية عادية مع مشيج ناجم عن خلل في توزيع الصبغيات خلال الطور التمهيدي II؛",
+        "B": "مشيجين خريطتيهما الصبغية غير عاديتين ناجمة كل منهما عن خلل في توزيع الصبغيات خلال الطور الانفصالي I؛",
+        "C": "مشيجين خريطتيهما الصبغية غير عاديتين ناجمة كل منهما عن خلل في توزيع الصبغيات خلال الطور الانفصالي II؛",
+        "D": "مشيج خريطته الصبغية عادية مع مشيج ناجم عن خلل في توزيع الصبغيات خلال الطور الانفصالي I؛",
+        "E": "مشيج خريطته الصبغية عادية مع مشيج ناجم عن انقسام اختزالي طوراه التمهيدي I والتمهيدي II عرفا خللا في توزيع الصبغيات."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/12.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "component": "sciences_vie",
+      "question_text": "تقدم الوثيقة الآتية تطور كمية ADN في النواة بدءاً من تشكل الحيوان المنوي انطلاقا من الخلية الأم في الخصية، حتى الحصول على جنين على بخليتين. تُبَيَن هذه الوثيقة:",
+      "options": {
+        "A": "مُضاعَفَتَين لـ ADN وثلاثة انقسامات خلوية، كما تُبرز أن الإخصاب يتجلى في التحام نواتي أمشاج أحادية الصيغة الصبغية تعرضت بها للمضاعفة؛",
+        "B": "مُضاعَفَتَين لـ ADN وثلاثة انقسامات خلوية، كما تُبرز أن الإخصاب يتجلى في التحام نواتي أمشاج أحادية الصيغة الصبغية لم تتعرض بها للمضاعفة؛",
+        "C": "مُضاعَفَتَين لـ ADN وانقسامين خلويين، كما تُبرز أن الإخصاب يتجلى في التحام نواتي أمشاج أحادية الصيغة الصبغية تعرضت بها للمضاعفة؛",
+        "D": "مُضاعَفَتَين لـ ADN وانقسامين خلويين، كما تُبرز أن الإخصاب يتجلى في التحام نواتي أمشاج أحادية الصيغة الصبغية لم تتعرض بها للمضاعفة؛",
+        "E": "مضاعَفَة واحدة لـ ADN وثلاثة انقسامات خلوية، كما تُبرز أن الإخصاب يتجلى في التحام نواتي أمشاج أحادية الصيغة الصبغية تعرضت بها للمضاعفة."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/13.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "component": "sciences_vie",
+      "question_text": "مضاد الوحدة الرمزية لـ ARNt المقابل للوحدة الرمزية CAG الرامزة للحمض الأميني Gln هو:",
+      "options": {
+        "A": "5'-CUU-3'",
+        "B": "5'-GUC-3'",
+        "C": "5'-GTG-3'",
+        "D": "5'-CUG-3'",
+        "E": "5'-GTC-3'"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/14.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "component": "sciences_vie",
+      "question_text": "ينجم مرض M عن نشاط منعدم للأنزيم E. تمثل شجرة النسب الآتية كيفية انتقال هذا المرض. تعبر النسب المأوية عن النشاط الأنزيمي عند أفراد هذه العائلة. يمكن أن نستنتج أن هذا المرض:",
+      "options": {
+        "A": "متنحي وغير مرتبط بالصبغيات الجنسية؛",
+        "B": "متنحي ومرتبط بالصبغي الجنسي X؛",
+        "C": "متنحي ومرتبط بالصبغي الجنسي Y؛",
+        "D": "سائد وغير مرتبط بالصبغيات الجنسية؛",
+        "E": "سائد ومرتبط بالصبغي الجنسي X."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/15.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "component": "sciences_vie",
+      "question_text": "تردد إصابة الذكور بمرض وراثي متنحي مرتبط بالصبغي الجنسي X يسمى بمتلازمة Hunter هو 1/1000. تردد إصابة الإناث بهذا المرض هو: (باعتبار الساكنة في حالة توازن)",
+      "options": {
+        "A": "1/100 000",
+        "B": "1/150 000",
+        "C": "1/50 000",
+        "D": "1/10000",
+        "E": "1/1000 000"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/16.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "component": "sciences_vie",
+      "question_text": "نتوفر على ثلاث أنزيمات الفصل التالية التي تقطع ADN في مواقع محددة: Hpa I, Hind III, Eco RI. ونتوفر على متتالية ADN معطاة في الوثيقة. ستتعرض متتالية ADN أعلاه للقطع من طرف:",
+      "options": {
+        "A": "Hpa I؛",
+        "B": "Hpa I و Eco RI؛",
+        "C": "Eco RI؛",
+        "D": "Eco RI و Hind III؛",
+        "E": "Hind III و Hpa I."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/17.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "component": "sciences_vie",
+      "question_text": "تمثل الوثيقة الآتية بعض مراحل الانقسام الاختزالي: (جزيء مركزي - مغزل الانقسام - صبغي بصبغيين - موقع الاختناق). من خلال تحليل هذه الأشكال يمكن أن نستنتج أن:",
+      "options": {
+        "A": "الشكل 1 يمثل خلية خلال الطور التمهيدي I الذي يمكن من التخليط الضمصبغي وأن الشكل 3 يمثل خلية خلال الطور الانفصالي I الذي يمكن من التخليط البيصبغي؛",
+        "B": "الشكل 2 يمثل خلية خلال الطور الاستوائي I الذي يمكن من التخليط الضمصبغي وأن الشكل 3 يمثل خلية خلال الطور الانفصالي I الذي يمكن من التخليط البيصبغي؛",
+        "C": "الشكل 3 يمثل خلية خلال الطور الانفصالي I الذي يمكن من الشكل 4 يمثل خلية خلال الطور النهائي I الذي يكون سابقا للتخليط البيصبغي؛",
+        "D": "الشكل 1 يمثل خلية خلال الطور التمهيدي I الذي يمكن من الشكل 4 يمثل خلية خلال الطور النهائي I الذي يكون سابقا للتخليط البيصبغي؛",
+        "E": "الشكل 2 يمثل خلية خلال الطور الاستوائي I الذي يمكن من الشكل 4 يمثل خلية خلال الطور النهائي I الذي يكون تابعا للتخليط البيصبغي."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/18.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "component": "sciences_vie",
+      "question_text": "أراد بستاني تحسين حديقة زهور، ومن أجل ذلك زاوج بين نبتة ذات أزهار بيضاء وسيقان ملساء مع نبتة أزهار وردية وسيقان مشوَّكَة. حصل على جيل أول F1 يتكون من نباتات ذات أزهار وردية وسيقان مشوَّكَة. أعطى التزاوج بين أفراد F1 النتائج الآتية: 126 نبتة بأزهار وردية وسيقان مُشوَّكَة؛ 59 نبتة بأزهار وردية وسيقان ملساء؛ 52 نبتة بأزهار بيضاء وسيقان مُشوَّكَة؛ 21 نبتة بأزهار بيضاء وسيقان ملساء. تدل أعداد المظاهر الخارجية المحصل عليها في الجيل الثاني F2 على أن المورثتان المدروستان:",
+      "options": {
+        "A": "مرتبطتان وأن تخليط المظاهر الخارجية الجديدة ناتجة عن تخليط ضمصبغي خلال تشكل الأمشاج عند هجناء F1؛",
+        "B": "مستقلتان وأن تخليط المظاهر الخارجية الجديدة ناتجة عن تخليط ضمصبغي خلال تشكل الأمشاج عند هجناء F1؛",
+        "C": "مرتبطتان وأن تخليط المظاهر الخارجية الجديدة ناتجة عن تخليط بيصبغي خلال تشكل الأمشاج عند هجناء F1؛",
+        "D": "مستقلتان وأن تخليط المظاهر الخارجية الجديدة ناتجة عن تخليط بيصبغي خلال تشكل الأمشاج عند هجناء F1؛",
+        "E": "مستقلتان وأن تخليط المظاهر الخارجية الجديدة ناتجة عن تخليط بيصبغي متبوع بتخليط ضمصبغي خلال تشكل الأمشاج عند هجناء F1."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/19.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "component": "sciences_vie",
+      "question_text": "يقدم الشكل الآتي خلية منبرية لنبتة الزنبق خلال الانقسام. يمثل هذا الشكل خلية بـ:",
+      "options": {
+        "A": "2n = 24، خلال الطور الانفصالي من الانقسام غير المباشر؛",
+        "B": "2n = 24، خلال الطور التمهيدي I من الانقسام الاختزالي؛",
+        "C": "2n = 12، خلال الطور الاستوائي من الانقسام غير المباشر؛",
+        "D": "2n = 12، خلال الطور الانفصالي II من الانقسام الاختزالي؛",
+        "E": "2n = 24، خلال الطور الانفصالي I من الانقسام الاختزالي."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/20.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "component": "physique",
+      "question_text": "تحدث، عند اللحظة t0=0، بواسطة هزاز لحوضي للموجات، في النقطة S من السطح الحر للماء، موجة جيبية متوالية ترددها N. استطالة النقطة S هي ys(t)=5.10^-3.cos(2π.N.t). يعطي الشكل أسفله مقطعا رأسيا لسطح الماء عند اللحظة t=0,1s. قيمة طول الموجة هي:",
+      "options": {
+        "A": "λ = 0,5 cm",
+        "B": "λ = 2,5 cm",
+        "C": "λ = 1 cm",
+        "D": "λ = 2 cm",
+        "E": "λ = 1,5 cm"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/21.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "component": "physique",
+      "question_text": "سرعة انتشار الموجة على سطح الماء هي:",
+      "options": {
+        "A": "v = 0,20 m.s-1",
+        "B": "v = 0,25 m.s-1",
+        "C": "v = 0,30 m.s-1",
+        "D": "v = 0,40 m.s-1",
+        "E": "v = 0,45 m.s-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/22.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "component": "physique",
+      "question_text": "استطالة نقطة M من سطح الماء توجد على المسافة 0,4m من S هي:",
+      "options": {
+        "A": "yM(t) = 5.10-3.sin(20πt - π)",
+        "B": "yM(t) = 5.10-3.cos(20πt - π)",
+        "C": "yM(t) = 5.10-3.cos(40πt + π)",
+        "D": "yM(t) = 5.10-3.cos(40πt)",
+        "E": "yM(t) = 5.10-3.cos(30πt)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/23.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "component": "physique",
+      "question_text": "طول الموجة لإشعاع مرئي تردده ν=5.10^14 Hz، في وسط شفاف معامل انكساره n، هو λ=400nm. معطى: سرعة انتشار الضوء في الفراغ c=3.10^8 m.s-1. قيمة طول الموجة λ0 للإشعاع الضوئي في الفراغ هي:",
+      "options": {
+        "A": "λ0 = 760 nm",
+        "B": "λ0 = 850 nm",
+        "C": "λ0 = 600 nm",
+        "D": "λ0 = 570 nm",
+        "E": "λ0 = 320 nm"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/24.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "component": "physique",
+      "question_text": "قيمة معامل الانكسار n هي:",
+      "options": {
+        "A": "n = 1,33",
+        "B": "n = 1,5",
+        "C": "n = 1,8",
+        "D": "n = 2,0",
+        "E": "n = 1,0"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/25.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "component": "physique",
+      "question_text": "يتسبب انقباض القلب في تعزيز الدورة الدموية، مما يؤدي إلى انبعاث موجة (النبض le pouls) تنتشر في الشرايين، حيث تتمدد أغشيتها عند ارتفاع ضغط الدم. يعبر عن سرعة انتشار النبض بالعلاقة v=1/√(ρ.D) حيث ρ الكتلة الحجمية للدم و D معامل مرونة الشريان. بعد المعامل D هو:",
+      "options": {
+        "A": "L.M-1.T-2",
+        "B": "L.M.T2",
+        "C": "L.M-1.T2",
+        "D": "L.M-1.T-1",
+        "E": "L.M-2.T-2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/26.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "component": "physique",
+      "question_text": "بالنسبة لشخص: D=0,5/ΔP (S.I)، حيث ΔP يمثل تغير الضغط الدموي الناتج عن النبض. معطيات: √20=4,5؛ √13=3,6؛ ΔP=5 cmHg؛ ρ=10^3 kg.m-3؛ 1 cmHg=1,3 kPa. قيمة سرعة انتشار النبض هي:",
+      "options": {
+        "A": "v = 3,6 m.s-1",
+        "B": "v = 4,0 m.s-1",
+        "C": "v = 5,0 m.s-1",
+        "D": "v = 2,6 m.s-1",
+        "E": "v = 4,5 m.s-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/27.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "component": "physique",
+      "question_text": "يأخذ الشخص على التوالي نبضه على مستوى نقطة M من العنق ثم على مستوى نقطة N من المعصم. توجد النقطة M على المسافة 20 cm من القلب والنقطة N على المسافة 80 cm من القلب. نعتبر أن النبض ينتشر بالسرعة نفسها بين القلب والنقطة M وبين القلب والنقطة N. التأخر الزمني بين وصول النبض إلى M ووصوله إلى N هو:",
+      "options": {
+        "A": "Δt = 0,17 s",
+        "B": "Δt = 1,7 s",
+        "C": "Δt = 170 s",
+        "D": "Δt = 6 s",
+        "E": "Δt = 0,22 s"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/28.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "component": "physique",
+      "question_text": "تعطي الوثيقة الجانبية استطالة حركة نقطة M خلال انتشار تشوه طول حبل. توجد النقطة M على المسافة 1,5 m من المنبع S. نعتبر أن التشوه انطلق من S عند اللحظة t0=0. يصل التشوه إلى النقطة M عند اللحظة:",
+      "options": {
+        "A": "t = 0,50 s",
+        "B": "t = 0,10 s",
+        "C": "t = 0,20 s",
+        "D": "t = 0,15 s",
+        "E": "t = 0,25 s"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/29.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "component": "physique",
+      "question_text": "طول التشوه هو:",
+      "options": {
+        "A": "ℓ = 0,175 m",
+        "B": "ℓ = 0,255 m",
+        "C": "ℓ = 0,375 m",
+        "D": "ℓ = 0,320 m",
+        "E": "ℓ = 0,125 m"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/30.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "component": "physique",
+      "question_text": "نضيء خيطا رفيعا قطره a بواسطة جهاز لازر يبعث إشعاعا طول موجته λ1=670 nm. نشاهد على شاشة توجد على المسافة D=1,5 m من الخيط شكلا للحيود. عرض البقعة المركزية L1 هو 2 cm. نعوض جهاز اللازر بجهاز آخر يعطي إشعاعا طول موجته λ2=560 nm. معطى: 56/67=0,84. عرض البقعة المركزية L2 في هذه الحالة هو:",
+      "options": {
+        "A": "L2 = 1,5 cm",
+        "B": "L2 = 1,7 cm",
+        "C": "L2 = 2,3 cm",
+        "D": "L2 = 2,6 cm",
+        "E": "L2 = 3,2 cm"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/31.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "component": "physique",
+      "question_text": "بالنسبة للإشعاعين، الفرق الزاوي الأكبر هو:",
+      "options": {
+        "A": "θ = 9,2.10-2 rad",
+        "B": "θ = 8,3.10-2 rad",
+        "C": "θ = 5,7.10-3 rad",
+        "D": "θ = 6,7.10-3 rad",
+        "E": "θ = 2,4.10-2 rad"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/32.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "component": "physique",
+      "question_text": "الحديد 59-26Fe إشعاعي النشاط β-. نتوفر، عند اللحظة t0=0، على عينة من الحديد 59-26Fe، نقيس نشاطها الإشعاعي a0. نقيس النشاط الإشعاعي a(t) للعينة، خلال كل 10 أيام. نلاحظ أن a(t)/a(t+10)=1,17. النواة المتولدة خلال هذا التفتت هي:",
+      "options": {
+        "A": "59-24Cr",
+        "B": "59-25Mn",
+        "C": "58-27Co",
+        "D": "59-27Co",
+        "E": "60-26Fe"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/33.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "component": "physique",
+      "question_text": "معطيات: قانون التناقص الإشعاعي يكتب N(t)=N0.e^(-λt)؛ ln(1,17)=0,157. قيمة الثابتة الإشعاعية للحديد 59-26Fe هي:",
+      "options": {
+        "A": "λ = 1,57.10-4 jours-1",
+        "B": "λ = 1,57.10-2 jours-1",
+        "C": "λ = 1,57.10-7 s-1",
+        "D": "λ = 1,57.10-2 s-1",
+        "E": "λ = 1,57.10-6 jours-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/34.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "component": "physique",
+      "question_text": "نواة البيزموث 212-83Bi إشعاعية النشاط. تعطي الكتابتين المتتاليتين التاليتين تفتتي هذه النواة: 212-83Bi → (1) → 212-Z1Po → α → A2-82Pb. طراز التفتت (1) وقيمتي Z1 و A2 هما:",
+      "options": {
+        "A": "α، Z1 = 84، A2 = 208",
+        "B": "β-، Z1 = 84، A2 = 208",
+        "C": "β-، Z1 = 82، A2 = 208",
+        "D": "α، Z1 = 81، A2 = 208",
+        "E": "β-، Z1 = 84، A2 = 212"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/35.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "component": "physique",
+      "question_text": "تحتوي صخرة مشعة كتلتها m0=1 tonne عند اللحظة t0=0 على 0,5% من الأورانيوم 235. معطيات: عمر النصف للأورانيوم 235: t1/2=7.10^8 ans=2,20.10^16 s؛ M(U)=235 g.mol-1؛ NA=6,02.10^23 mol-1؛ 64/11=5,82؛ 47×0,128=6,02؛ ln2=0,7. عدد نوى الأورانيوم 235 في الصخرة عند اللحظة t0=0 هو:",
+      "options": {
+        "A": "N0 = 2,35.10^24",
+        "B": "N0 = 1,28.10^25",
+        "C": "N0 = 6,02.10^25",
+        "D": "N0 = 7,25.10^26",
+        "E": "N0 = 8,50.10^26"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/36.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "component": "physique",
+      "question_text": "النشاط الإشعاعي a0 للأورانيوم 235 في الصخرة عند t0=0 هو:",
+      "options": {
+        "A": "a0 = 7.10^8 Bq",
+        "B": "a0 = 6.10^8 Bq",
+        "C": "a0 = 4,07.10^8 Bq",
+        "D": "a0 = 3.10^7 Bq",
+        "E": "a0 = 1,5.10^7 Bq"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/37.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "component": "physique",
+      "question_text": "عند اللحظة t=28.10^8 ans، يكون النشاط الإشعاعي للأورانيوم 235 هو:",
+      "options": {
+        "A": "0,5.a0",
+        "B": "0,25.a0",
+        "C": "0,125.a0",
+        "D": "6,25.10-2.a0",
+        "E": "3,125.10-2.a0"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/38.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "component": "physique",
+      "question_text": "ينتج عن تفتت نواة الراديوم 226-88Ra، نواة متولدة Ry-X و دقيقة α. قيمتا x و y هما:",
+      "options": {
+        "A": "x = 88 ؛ y = 226",
+        "B": "x = 87 ؛ y = 226",
+        "C": "x = 87 ؛ y = 222",
+        "D": "x = 86 ؛ y = 222",
+        "E": "x = 89 ؛ y = 226"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/39.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "component": "physique",
+      "question_text": "تركيب النواة المتولدة Rny هو:",
+      "options": {
+        "A": "86 بروتون، 222 نوترون",
+        "B": "86 بروتون، 136 نوترون",
+        "C": "87 بروتون، 135 نوترون",
+        "D": "89 بروتون، 137 نوترون",
+        "E": "88 بروتون، 138 نوترون"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/40.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "component": "chimie",
+      "question_text": "ندخل في حوجلة كمية من المسحوق الزنك، ونصب عليه حجما V=75 mL من محلول مائي لحمض الكبريتيك. معادلة التفاعل الحاصل هي: Zn(s) + 2H3O+(aq) → Zn2+(aq) + H2(g) + 2H2O(l). يمثل منحنى الشكل الجانبي تغيرات التقدم x للتفاعل بدلالة الزمن. معطيات: vmoy=(1/V).(Δx/Δt)؛ 75×45=3375؛ 3375×35≈1,19.10^5. قيمة التقدم النهائي xf هي:",
+      "options": {
+        "A": "xf = 29,8 mmol",
+        "B": "xf = 28,5 mmol",
+        "C": "xf = 27,8 mmol",
+        "D": "xf = 25,6 mmol",
+        "E": "xf = 29,8 mol"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/41.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "component": "chimie",
+      "question_text": "قيمة زمن نصف التفاعل هي:",
+      "options": {
+        "A": "t1/2 = 60 min",
+        "B": "t1/2 = 45 min",
+        "C": "t1/2 = 40 min",
+        "D": "t1/2 = 35 min",
+        "E": "t1/2 = 30 min"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/42.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "component": "chimie",
+      "question_text": "قيمة السرعة الحجمية المتوسطة للتفاعل بين اللحظتين t0=0 و ti=90 min هي:",
+      "options": {
+        "A": "vmoy = 4.10-3 mol.L-1.min-1",
+        "B": "vmoy = 5,33.10-3 mol.L-1.min-1",
+        "C": "vmoy = 6,67.10-3 mol.L-1.min-1",
+        "D": "vmoy = 8.10-3 mol.L-1.min-1",
+        "E": "vmoy = 3,5.10-3 mol.L-1.min-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/43.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "component": "chimie",
+      "question_text": "عند اللحظة t0=0 نضيف حجما من الماء الأوكسيجيني إلى حجم من محلول برمنغنات البوتاسيوم المحمض. يتأكسد الماء الأوكسيجيني H2O2(l) بأيونات البرمنغنات MnO4-(aq) وفق المعادلة: 5H2O2(l) + 2MnO4-(aq) + 6H+(aq) → 5O2(g) + 2Mn2+(aq) + 8H2O(l). المزدوجتان (مختزل/مؤكسد) المتدخلتان في التفاعل هما:",
+      "options": {
+        "A": "MnO4-(aq)/Mn2+(aq) و H2O2(l)/O2(g)",
+        "B": "MnO4-(aq)/Mn2+(aq) و O2(g)/H2O2(l)",
+        "C": "Mn2+(aq)/MnO4-(aq) و O2(g)/H2O2(l)",
+        "D": "MnO4-(aq)/Mn2+(aq) و H2O2(l)/H2O2(l)",
+        "E": "MnO4-(aq)/Mn2+(aq) و H2O2(l)/H+(aq)"
+      },
+      "shared_context": "يستعمل هذا السؤال جدولا (t بالدقائق و [Mn2+] بالمول/لتر) لا يتضمن صورة، بل بيانات نصية: t(min)=0,4,8,14,24,44,66,100,120 و [Mn2+](mol.L-1)=0,0.10,0.20,0.28,0.40,0.50,0.54,0.56,0.56",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/44.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "component": "chimie",
+      "question_text": "قيمة زمن نصف التفاعل هي:",
+      "options": {
+        "A": "t1/2 = 10 min",
+        "B": "t1/2 = 14 min",
+        "C": "t1/2 = 24 min",
+        "D": "t1/2 = 44 min",
+        "E": "t1/2 = 60 min"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/45.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "component": "chimie",
+      "question_text": "معطيات: الحجم المولي Vm=24 L.mol-1؛ V=10 mL؛ حجم الخليط V=24 L.mol-1. قيمة حجم ثاني أكسيجين المتكون عند اللحظة t=24 min هي:",
+      "options": {
+        "A": "v = 48.10-2 L",
+        "B": "v = 4,8.10-2 L",
+        "C": "v = 36.10-2 L",
+        "D": "v = 12.10-2 L",
+        "E": "v = 24.10-2 L"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/46.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "component": "chimie",
+      "question_text": "قيمة كمية المادة البدئية للماء الأوكسيجيني هي:",
+      "options": {
+        "A": "n0 = 5,6.10-2 mol",
+        "B": "n0 = 2,8.10-3 mol",
+        "C": "n0 = 1,4.10-2 mol",
+        "D": "n0 = 1,4.10-3 mol",
+        "E": "n0 = 2,8.10-2 mol"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/47.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "component": "chimie",
+      "question_text": "نعتبر محلولا مائيا لحمض الإيثانويك (S) تركيزه C=10-2 mol.L-1. أعطى قياس موصلية المحلول القيمة σ=1,56.10-2 S.m-1. معطيات: log2=0,3؛ λ2=λCH3COO-=4 mS.m2.mol-1؛ λ1=λH3O+=35 mS.m2.mol-1. تركيز أيونات الأوكسونيوم في المحلول (S) هو:",
+      "options": {
+        "A": "[H3O+(aq)] = 8.10-4 mol.L-1",
+        "B": "[H3O+(aq)] = 4.10-4 mol.L-1",
+        "C": "[H3O+(aq)] = 2.10-4 mol.L-1",
+        "D": "[H3O+(aq)] = 4.10-5 mol.L-1",
+        "E": "[H3O+(aq)] = 8.10-5 mol.L-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/48.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "component": "chimie",
+      "question_text": "قيمة pH المحلول عند التوازن هي:",
+      "options": {
+        "A": "pH = 3,1",
+        "B": "pH = 3,4",
+        "C": "pH = 3,6",
+        "D": "pH = 3,8",
+        "E": "pH = 4,2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/49.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "component": "chimie",
+      "question_text": "نعرف نسبة التقدم النهائي بالعلاقة τ=xf/xmax. قيمة نسبة التقدم النهائي للتفاعل هي:",
+      "options": {
+        "A": "τ = 4%",
+        "B": "τ = 2%",
+        "C": "τ = 1%",
+        "D": "τ = 0,4%",
+        "E": "τ = 0,2%"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/50.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "component": "chimie",
+      "question_text": "نذيب قرصا من الإيبوبروفين في الحجم Ve من محلول مائي فنحصل على محلول (S). نعاير المحلول (S) بواسطة محلول مائي لهيدروكسيد الصوديوم تركيزه CB=0,20 mol.L-1. الحجم المضاف عند التكافؤ هو VB,E=9,7 mL. معطى: M(ibuprofène)=206 g.mol-1. قيمة كتلة الإيبوبروفين الموجودة في القرص هي:",
+      "options": {
+        "A": "mibu = 0,4 mg",
+        "B": "mibu = 4 mg",
+        "C": "mibu = 4.10-2 mg",
+        "D": "mibu = 400 mg",
+        "E": "mibu = 500 mg"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/51.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "component": "chimie",
+      "question_text": "نأخذ الكتلة m=10g من خل تجاري، ونضيف إليها الماء للحصول على محلول مائي (SA) لحمض الإيثانويك حجمه V=100 mL. نعاير الحجم VA=20 mL من المحلول (SA) بواسطة محلول مائي تركيزه CB=0,10 mol.L-1 لهيدروكسيد الصوديوم (SB). الحجم المضاف عند التكافؤ هو VB,E=16,4 mL. معطيات: pKA(CH3COOH(aq)/CH3COO-(aq))=4,8؛ M(CH3COOH)=60 g.mol-1. تمثل درجة الحمضية لخل تجاري كتلة حمض الإيثانويك الخالص بـ(g) الموجودة في 100g من الخل. درجة حمضية هذا الخل هي:",
+      "options": {
+        "A": "7°",
+        "B": "4,9°",
+        "C": "11,2°",
+        "D": "9°",
+        "E": "12°"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/52.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "component": "chimie",
+      "question_text": "قيمتا التقدم النهائي للتفاعل xf و pH الوسط التفاعلي بالنسبة للحجم VB=8,2 mL هما:",
+      "options": {
+        "A": "xf = 8,2.10-4 mol ، pH = 4",
+        "B": "xf = 4,2.10-4 mol ، pH = 4,8",
+        "C": "xf = 4,2.10-4 mol ، pH = 4",
+        "D": "xf = 6,2.10-4 mol ، pH = 5",
+        "E": "xf = 8,2.10-4 mol ، pH = 4,8"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/53.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "component": "chimie",
+      "question_text": "قيمة pH لمحلول مائي (S) لحمض البنزويك حجمه V=1L وتركيزه C=0,1mol.L-1، عند درجة الحرارة 25°C، هي pH=2,6. معطيات: 1-10^-1,6≈1؛ 10^0,4=2,5؛ 10^0,8=6,3. قيمة التقدم النهائي لتفاعل حمض البنزويك مع الماء هي:",
+      "options": {
+        "A": "xf = 2,5.10-3 mol",
+        "B": "xf = 1,4.10-3 mol",
+        "C": "xf = 2,5.10-2 mol"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/54.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "component": "chimie",
+      "question_text": "يعبر عن ثابتة الحمضية KA للمزدوجة (C6H5COOH(aq)/C6H5COO-(aq)) بالعلاقة:",
+      "options": {
+        "A": "KA = 10^-pH/(C-10^-pH)",
+        "B": "KA = 10^-2pH/(C(1-10^-pH))",
+        "C": "KA = 10^-2pH/(C-10^-pH)",
+        "D": "KA = C.10^-2pH/(1-10^-pH)",
+        "E": "KA = 10^-pH/(1-10^-2pH)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/55.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "component": "chimie",
+      "question_text": "قيمة ثابتة الحمضية KA للمزدوجة (C6H5COOH(aq)/C6H5COO-(aq)) هي:",
+      "options": {
+        "A": "KA = 2.10-5",
+        "B": "KA = 6,3.10-5",
+        "C": "KA = 4.10-4",
+        "D": "KA = 6,3.10-10",
+        "E": "KA = 4.10-7"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/56.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "component": "chimie",
+      "question_text": "أعطى قياس pH محلول مائي (S) للأمونياك تركيزه C القيمة pH=10,3. لدينا بالنسبة لهذا المحلول: log[NH3]/[NH4+]=1,1. تعبير نسبة التقدم النهائي للتفاعل الحاصل هي:",
+      "options": {
+        "A": "τ = 10^-pH/(C.Ke)",
+        "B": "τ = 10^pH/(C.Ke)",
+        "C": "τ = 10^-pH.Ke/C",
+        "D": "τ = 10^pH.Ke/C",
+        "E": "τ = C.10^pH/Ke"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/57.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "component": "chimie",
+      "question_text": "قيمة pKA للمزدوجة (NH4+(aq)/NH3(aq)) هي:",
+      "options": {
+        "A": "pKA = 9,8",
+        "B": "pKA = 5,4",
+        "C": "pKA = 10,3",
+        "D": "pKA = 4,1",
+        "E": "pKA = 9,2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/58.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "component": "chimie",
+      "question_text": "نضيف إلى الحجم VA=20 mL من محلول مائي لحمض اللاكتيك C3H6O3 تركيزه CA=3.10-2 mol.L-1، الحجم VB=10 mL من محلول مائي لهيدروكسيد الصوديوم تركيزه CB=1,5.10-2 mol.L-1. قيمة pH الخليط هي pH=3,3. معطى: 10^-10,7=2.10-11. يعبر عن التقدم النهائي xf للتفاعل الحاصل بالعلاقة:",
+      "options": {
+        "A": "xf = CB.VB - (VA+VB).10^(pH-pKe)",
+        "B": "xf = CA.VA - (VA+VB).10^(pH-pKe)",
+        "C": "xf = CB.VB + (VA+VB).10^(pH-pKe)",
+        "D": "xf = CA.VA + (VA+VB).10^(pH-pKe)",
+        "E": "xf = CA.VA + (VA+VB).10^(pKe-pH)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/59.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "component": "chimie",
+      "question_text": "قيمة التركيز [C3H5O3-(aq)] هي:",
+      "options": {
+        "A": "[C3H5O3-(aq)] = 5.10-2 mol.L-1",
+        "B": "[C3H5O3-(aq)] = 2.10-2 mol.L-1",
+        "C": "[C3H5O3-(aq)] = 1,5.10-2 mol.L-1",
+        "D": "[C3H5O3-(aq)] = 5.10-3 mol.L-1",
+        "E": "[C3H5O3-(aq)] = 1,5.10-4 mol.L-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/60.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "component": "mathematiques",
+      "question_text": "إذا كان z عدد عقدي معياره √2 و عمدته π/3 فإن z^8 يساوي:",
+      "options": {
+        "A": "8 + i8√3",
+        "B": "-8 + i8√3",
+        "C": "-8 - i8√3",
+        "D": "8 - i8√3",
+        "E": "4 + i4√3"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/61.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "component": "mathematiques",
+      "question_text": "إذا كان θ عدد حقيقي فإن cos^3(θ) يساوي:",
+      "options": {
+        "A": "(1/8)(cos3θ + 3cosθ)",
+        "B": "(1/4)(cos3θ + 3cosθ)",
+        "C": "(1/4)(sin3θ + 3sinθ)",
+        "D": "(1/8)(3cosθ - cos3θ)",
+        "E": "(1/8)(sin3θ + 3sinθ)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/62.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "component": "mathematiques",
+      "question_text": "إذا كان x من المجال ]0,1[ فإن lim(n→+∞) (1-x)^n(1+x)^n تساوي:",
+      "options": {
+        "A": "+∞",
+        "B": "-∞",
+        "C": "0",
+        "D": "-1",
+        "E": "1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/63.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "component": "mathematiques",
+      "question_text": "مجموعة تعريف الدالة f: x ↦ f(x) = (1/(x-1))ln(1+1/x) هي:",
+      "options": {
+        "A": "]-∞,-1[ ∪ ]0,+∞[",
+        "B": "]-1,1[ ∪ ]1,+∞[",
+        "C": "]-∞,-1[ ∪ ]1,+∞[",
+        "D": "]-∞,-1[ ∪ ]0,1[ ∪ ]1,+∞[",
+        "E": "]-1,1["
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/64.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "component": "mathematiques",
+      "question_text": "إذا كان f(x) = (x^2-x)e^(1/x) فإن f'(x) تساوي:",
+      "options": {
+        "A": "(2x-1)e^(1/x)",
+        "B": "(1 - 1/x)e^(1/x)",
+        "C": "(1/x - 1)e^(1/x)",
+        "D": "(2x - 2 + 1/x)e^(1/x)",
+        "E": "(2x - 1/x)e^(1/x)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/65.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "component": "mathematiques",
+      "question_text": "إذا كان z عدد عقدي بحيث: arg(z+1) ≡ π/3 [2π] و arg(z-1) ≡ 2π/3 [2π] فإن z يساوي:",
+      "options": {
+        "A": "√3 i",
+        "B": "2√3 i",
+        "C": "-√3 i",
+        "D": "-2√3 i",
+        "E": "1 + √3 i"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/66.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "component": "mathematiques",
+      "question_text": "إذا كان z = 1 + ie^(iθ/2) بحيث θ ∈ ]-π,π[ فإن |z| يساوي:",
+      "options": {
+        "A": "2",
+        "B": "2cos(θ/2)",
+        "C": "2cos((θ+π)/4)",
+        "D": "cos((θ+π)/4)",
+        "E": "2sin(θ/4)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/67.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "component": "mathematiques",
+      "question_text": "لدينا lim(n→+∞) ((n-1)/(n+1))^(2n) تساوي:",
+      "options": {
+        "A": "0",
+        "B": "e^-4",
+        "C": "e^4",
+        "D": "e",
+        "E": "1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/68.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "component": "mathematiques",
+      "question_text": "إذا كانت (un)n∈N* متتالية هندسية حدها الأول u1=2 و أساسها q=1/3 فإن الجداء u1×u2×u3×...×un يساوي (n≥1):",
+      "options": {
+        "A": "2^n.3^(n(n-1)/2)",
+        "B": "2^n / 3^(n(n-1)/2)",
+        "C": "2^n / 3^(n(n+1)/2)",
+        "D": "2^n.3^(n(n+1)/2)",
+        "E": "1/(2^n.3^(n(n-1)/2))"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/69.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "component": "mathematiques",
+      "question_text": "(∀x ∈ ℝ); f(x) = (x-5)(x-4)(x-3)(x-2)(x-1). فإن f'(1) يساوي:",
+      "options": {
+        "A": "24",
+        "B": "1",
+        "C": "0",
+        "D": "5",
+        "E": "-24"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/70.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "component": "mathematiques",
+      "question_text": "لتكن f الدالة المعرفة كما يلي: f(x) = 2lnx / (x(1+(lnx)^2)). الدالة الأصلية للدالة f على المجال ]0,+∞[ والتي تنعدم في 1 هي:",
+      "options": {
+        "A": "ln((lnx)^2 + 1)",
+        "B": "(lnx)^2",
+        "C": "2x ln((lnx)^2 + 1)",
+        "D": "x lnx / (lnx + 1)",
+        "E": "2lnx / ((lnx)^2 + 1)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/71.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "component": "mathematiques",
+      "question_text": "التكامل ∫0^1 (2t+3)/(t+2) dt يساوي:",
+      "options": {
+        "A": "ln(3/2)",
+        "B": "2 + ln(3/2)",
+        "C": "2 - ln(2/3)",
+        "D": "2 + ln(2/3)",
+        "E": "ln(2/3)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/72.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "component": "mathematiques",
+      "question_text": "المستوى العقدي منشوب إلى معلم متعامد ممنظم (O,u⃗,v⃗). مجموعة النقط M التي لحقها z بحيث z + 1/z ∈ ℝ هي:",
+      "options": {
+        "A": "المحور الحقيقي محروم من النقطة O",
+        "B": "الدائرة التي مركزها O وشعاعها 1",
+        "C": "المحور الحقيقي محروم من النقطتين A(-1) و B(1)",
+        "D": "الدائرة التي مركزها O وشعاعها 1 محرومة من النقطتين A(-1) و B(1)",
+        "E": "اتحاد المحور الحقيقي محروم من النقطة O والدائرة التي مركزها O وشعاعها 1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/73.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "component": "mathematiques",
+      "question_text": "لتكن (wn)n∈ℕ المتتالية المعرفة بما يلي: (∀n∈ℕ); wn+1 = (wn-1)^2 + 1 و w0 = 1/2. إذا كانت (wn)n∈ℕ متقاربة فإن lim(n→+∞) wn تساوي:",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "1",
+        "D": "1/2",
+        "E": "-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/74.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "component": "mathematiques",
+      "question_text": "ليكن a من المجال ]0,+∞[ و f الدالة المعرفة بما يلي: f(x) = 1 + x.ln√(1+a/x). لدينا lim(x→+∞) f(x) تساوي:",
+      "options": {
+        "A": "1",
+        "B": "1 + a/2",
+        "C": "1 + a",
+        "D": "+∞",
+        "E": "a"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/75.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "component": "mathematiques",
+      "question_text": "ليكن ABC مثلث متساوي الساقين رأسه A بحيث: AB = AC = 10. المساحة القصوية للمثلث ABC هي:",
+      "options": {
+        "A": "25√2/2",
+        "B": "50",
+        "C": "100",
+        "D": "10",
+        "E": "5√2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/76.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "component": "mathematiques",
+      "question_text": "إذا كان (∀x∈ℝ+*) ؛ f(x) = x^3 + 3lnx + 1، فإن العدد المشتق (f^-1)'(2) يساوي:",
+      "options": {
+        "A": "1/3",
+        "B": "1/6",
+        "C": "1/5",
+        "D": "1/4",
+        "E": "1/2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/77.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "component": "mathematiques",
+      "question_text": "التكامل ∫0^(π/2) sin(x)e^x dx يساوي:",
+      "options": {
+        "A": "(1+e^(π/2))/2",
+        "B": "(e+e^(π/2))/2",
+        "C": "(1-e^(π/2))/2",
+        "D": "1 + e^(π/2)",
+        "E": "1 - e^(π/2)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/78.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "component": "mathematiques",
+      "question_text": "نعتبر الدالة f المعرفة بما يلي: (∀x∈ℝ); f(x) = e^(-x^2/2). تأطير للدالة المشتقة f' على المجال [0,1] هو:",
+      "options": {
+        "A": "0 ≤ f'(x) ≤ 1/√e",
+        "B": "-1/√e ≤ f'(x) ≤ 0",
+        "C": "-1/2 ≤ f'(x) ≤ 0",
+        "D": "0 ≤ f'(x) ≤ √e",
+        "E": "-1/e ≤ f'(x) ≤ -1/2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/79.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "component": "mathematiques",
+      "question_text": "لتكن f(x) = √(x^3+2x^2+3) - ax√(x+b) حيث a و b عددين حقيقيين. تقبل f نهاية منتهية عند +∞ إذا وفقط إذا كان:",
+      "options": {
+        "A": "a > 0 و b > 0",
+        "B": "a = 1 و b > 0",
+        "C": "a = 1 و b = 2",
+        "D": "a = 1 و b = 0",
+        "E": "a > 0 و b = 0"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/questions-exam2020/80.png",
+      "correct_answer": "B",
+      "points": 1
+    }
+  ]
+}
