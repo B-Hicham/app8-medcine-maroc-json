@@ -58,6 +58,11 @@
       "coefficient": 1
     }
   ],
+  "pdf_cardre_reference": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/Cadre%20de%20reference/Cadre%20de%20reference.pdf"
+    }
+  ],
   "exam_pdf": [
     {
       "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2020/pdf-exam2020/pdf-exam2020.pdf"
