@@ -1,0 +1,1261 @@
+{
+  "exam_id": "concours-fmp-fmd-med-french-2021",
+  "exam_title": "مباراة ولوج كليات الطب والصيدلة وكليتي طب الأسنان برسم السنة الجامعية 2021-2022 – يوليوز 2021 (الصيغة الفرنسية للاختبار)",
+  "language": "fr",
+  "duration_hours": 3,
+  "total_questions": 80,
+  "note": "correct_answer values were merged from the official corrigé/answer key sheet (bubble grid image) for this exam, cross-checked by independently solving the computable (physics/chemistry/math) questions and verifying the genetics logic. Each question is worth 1 point (uniform weighting).",
+  "instructions": [
+    "L'épreuve est constituée de quatre composantes d'une durée totale de 2 heures.",
+    "Chaque question comporte 5 propositions (A, B, C, D et E), une seule proposition est juste.",
+    "Chaque candidat(e) a le droit d'utiliser une seule feuille réponse non remplaçable.",
+    "Avec un stylo à bille (bleu ou noir) cochez sur la feuille réponse à l'intérieur de la case correspondante à chaque réponse juste.",
+    "L'utilisation de la calculatrice est INTERDITE.",
+    "L'utilisation du Blanco sur la feuille réponse est INTERDITE.",
+    "Toute réponse fausse vaut 0 à la question.",
+    "L'épreuve comporte 80 QCM réparties en quatre composantes."
+  ],
+  "grading_rules": "L'examen est noté sur 20 points (20/20) répartis entre les différentes matières. Le coefficient 1 est attribué à chaque composante : Sciences de la Vie, Physique, Chimie et Mathématiques. Les questions sont à choix multiples avec 5 propositions (A à E) pour chaque question. Le concours comprend 80 questions au total, réparties en quatre composantes : Sciences de la Vie (Q1-Q20), Physique (Q21-Q40), Chimie (Q41-Q60) et Mathématiques (Q61-Q80). L'examen est destiné aux candidats aux facultés de médecine, de pharmacie et de médecine dentaire pour l'année universitaire 2021-2022, session de juillet 2021 (version francophone).",
+  "components": [
+    {
+      "id": "sciences_vie",
+      "label_ar": "علوم الحياة",
+      "order": 1,
+      "range": [1, 20],
+      "coefficient": 1
+    },
+    {
+      "id": "physique",
+      "label_ar": "الفيزياء",
+      "order": 2,
+      "range": [21, 40],
+      "coefficient": 1
+    },
+    {
+      "id": "chimie",
+      "label_ar": "الكيمياء",
+      "order": 3,
+      "range": [41, 60],
+      "coefficient": 1
+    },
+    {
+      "id": "mathematiques",
+      "label_ar": "الرياضيات",
+      "order": 4,
+      "range": [61, 80],
+      "coefficient": 1
+    }
+  ],
+  "exam_pdf": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/pdf-exam2021/pdf-exam2021.pdf"
+    }
+  ],
+  "answer_images": [
+    {
+      "image1": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/correction-exam2021/correction-fmpd-2021.jpg"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "component": "sciences_vie",
+      "question_text": "Les produits de la glycolyse sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/1.png",
+      "options": {
+        "A": "l'ATP, le pyruvate et le NADH,H+ ;",
+        "B": "l'ATP, le pyruvate et le dioxyde de carbone ;",
+        "C": "le dioxyde de carbone, le pyruvate et le NADH,H+ ;",
+        "D": "le dioxyde de carbone, l'acétyl-CoA et le pyruvate ;",
+        "E": "l'ATP, l'acétyl-CoA et le pyruvate."
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "component": "sciences_vie",
+      "question_text": "Dans le muscle strié squelettique, la troponine :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/2.png",
+      "options": {
+        "A": "permet de relier l'actine à la myosine ;",
+        "B": "reste toujours fixée sur la tropomyosine pendant le cycle de contraction musculaire ;",
+        "C": "a une faible affinité aux ions calcium ;",
+        "D": "est la partie de l'actine qui s'unit à la myosine ;",
+        "E": "cache les sites de liaison de la myosine à l'actine."
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "component": "sciences_vie",
+      "question_text": "Concernant la réplication d'ADN, elle est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/3.png",
+      "options": {
+        "A": "bidirectionnelle, se fait dans le sens 5' vers 3' et 3' vers 5' et permet la synthèse de deux brins antiparallèles aux brins qui servent de matrice ;",
+        "B": "unidirectionnelle, se fait dans le sens 5' vers 3' et permet la synthèse de deux brins parallèles aux brins qui servent de matrice ;",
+        "C": "bidirectionnelle, se fait dans le sens 5' vers 3' et permet la synthèse de deux brins antiparallèles aux brins qui servent de matrice ;",
+        "D": "unidirectionnelle, se fait dans le sens 5' vers 3' et permet la synthèse de deux brins antiparallèles aux brins qui servent de matrice ;",
+        "E": "unidirectionnelle, se fait dans le sens 3' vers 5' et permet la synthèse de deux brins antiparallèles aux brins qui servent de matrice."
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "component": "sciences_vie",
+      "question_text": "L'ARN se distingue de l'ADN par :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/4.png",
+      "options": {
+        "A": "le sucre qui est un ribose et par une base azotée différente ;",
+        "B": "le sucre qui est un ribose et par deux bases azotées différentes ;",
+        "C": "le sucre qui est un désoxyribose et par quatre bases azotées différentes ;",
+        "D": "le sucre qui est un ribose et par plusieurs bases azotées différentes ;",
+        "E": "le sucre qui est un désoxyribose et par la présence de la base azotée uracile."
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "component": "sciences_vie",
+      "question_text": "À propos de la traduction :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/5.png",
+      "options": {
+        "A": "La synthèse d'ARN se fait dans le sens 3' vers 5' et s'arrête dans un codon stop ;",
+        "B": "Une molécule d'ARN interagit avec plusieurs ribosomes à la fois et se fait dans le sens 5' vers 3' ;",
+        "C": "Une molécule d'ARN interagit avec un ribosome à la fois et se fait dans le sens 5' vers 3' ;",
+        "D": "La traduction d'ADN peut débuter dans le noyau d'une cellule eucaryote et s'achève toujours dans le cytoplasme ;",
+        "E": "La traduction d'ADN se fait toujours dans le cytoplasme d'une cellule eucaryote et s'arrête dans un codon stop."
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "component": "sciences_vie",
+      "question_text": "Concernant le monohybridisme et le dihybridisme :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/6.png",
+      "options": {
+        "A": "Un croisement monohybride implique un seul parent, tandis qu'un croisement dihybride implique deux parents ;",
+        "B": "Un croisement monohybride produit une seule progéniture, alors qu'un croisement dihybride en produit deux ;",
+        "C": "Un croisement monohybride implique des organismes qui sont différents par un seul caractère, alors qu'un croisement dihybride implique des organismes qui sont différents par deux caractères ;",
+        "D": "Un croisement monohybride est réalisé une seule fois, alors qu'un croisement dihybride est réalisé deux fois ;",
+        "E": "Un croisement monohybride donne un rapport 9:3:3:1 alors qu'un croisement dihybride donne un rapport 3:1."
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "component": "sciences_vie",
+      "question_text": "Il était important que Mendel examine non seulement la génération F1 dans ses expériences de reproduction, mais aussi la génération F2, car :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/7.png",
+      "options": {
+        "A": "il a obtenu très peu de descendants F1, ce qui rendait l'analyse statistique difficile ;",
+        "B": "les caractères parentaux qui n'ont pas été observés dans la F1 sont réapparus dans la F2, ce qui suggère que les facteurs héréditaires n'ont pas vraiment disparu dans la F1 ;",
+        "C": "l'analyse de la descendance F1 lui aurait permis de découvrir la loi de disjonction, mais pas la loi d'assortiment indépendant ;",
+        "D": "les phénotypes dominants étaient visibles dans la génération F2, mais pas dans la F1 ;",
+        "E": "l'analyse de la descendance F1 lui aurait permis de découvrir la loi de disjonction, mais pas la loi d'homogénéité des hybrides."
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "component": "sciences_vie",
+      "question_text": "L'explication la plus probable d'un taux élevé de crossing-over entre deux gènes est la suivante :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/8.png",
+      "options": {
+        "A": "Les deux gènes sont sur des chromosomes différents ;",
+        "B": "Les deux gènes sont tous deux situés près du centromère ;",
+        "C": "Les deux gènes sont liés au sexe ;",
+        "D": "Les deux gènes codent pour la même protéine ;",
+        "E": "Les deux gènes sont éloignés l'un de l'autre sur le même chromosome."
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "component": "sciences_vie",
+      "question_text": "Un homme porteur d'un allèle lié au chromosome X le transmettra à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/9.png",
+      "options": {
+        "A": "tous ses enfants ;",
+        "B": "la moitié de ses filles ;",
+        "C": "tous ses fils ;",
+        "D": "la moitié de ses fils ;",
+        "E": "toutes ses filles."
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "component": "sciences_vie",
+      "question_text": "Les principes de l'équilibre de Hardy Weinberg sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/10.png",
+      "options": {
+        "A": "population de petite taille, accouplement aléatoire, pas de sélection, pas de migration et pas de mutations ;",
+        "B": "population de grande taille, accouplement aléatoire, pas de sélection, pas de migration et pas de mutations ;",
+        "C": "population de grande taille, accouplement aléatoire, les hétérozygotes survivent le mieux, pas de migration et pas de mutations ;",
+        "D": "population de petite taille, les individus semblables s'accouplent, pas de sélection, pas de migration et pas de mutations ;",
+        "E": "population de grande taille, accouplement aléatoire, pas de sélection, migration en provenance d'autres populations et pas de mutations."
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "component": "sciences_vie",
+      "question_text": "Le tableau suivant présente les caractéristiques de trois types de fibres musculaires (capacité oxydative, capacité glycolytique, densité des capillaires, diamètre de la fibre, force produite pour les types I, IIa et IIb). Les fibres musculaires les plus adaptées aux efforts de longue durée sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/11.png",
+      "options": {
+        "A": "les fibres de type I car elles contiennent moins de capillaires et ont une capacité anaérobie plus élevée que les fibres de type IIb ;",
+        "B": "les fibres de type IIb car elles contiennent moins de capillaires et ont une capacité anaérobie plus faible que les fibres de type I ;",
+        "C": "Les fibres de type IIb car elles contiennent plus de capillaires et ont une capacité aérobie plus importante que les fibres de type IIa ;",
+        "D": "Les fibres de type IIa car elles contiennent moins de capillaires que les fibres de type I et ont une capacité anaérobie moins importante que les fibres de type IIb ;",
+        "E": "Les fibres de type I car elles contiennent plus de capillaires et ont une capacité aérobie plus importante que les fibres de type IIb."
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "component": "sciences_vie",
+      "question_text": "La séquence d'ARNm transcrite à partir de la séquence d'ADN 5'-G-T-T-C-G-T-T-G-A-3' (brin transcrit) est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/12.png",
+      "options": {
+        "A": "ARNm : 5'-A-C-U-G-C-A-C-A-A-3'",
+        "B": "ARNm : 5'-T-C-A-A-C-G-A-A-C-3'",
+        "C": "ARNm : 5'-C-A-A-G-C-A-A-C-U-3'",
+        "D": "ARNm : 5'-U-C-A-A-C-G-A-A-C-3'",
+        "E": "ARNm : 5'-A-A-C-A-C-G-U-C-A-3'"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "component": "sciences_vie",
+      "question_text": "Un animal se reproduisant sexuellement possède deux gènes non liés, l'un pour la forme de la tête (H) et l'autre pour la longueur de la queue (T). Son génotype est (H//h, T//t). Lequel des génotypes suivants est possible dans un gamète de cet organisme ?",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/13.png",
+      "options": {
+        "A": "(H/, T/)",
+        "B": "(H/, h/)",
+        "C": "(H/, h/, T/, t/)",
+        "D": "(T/)",
+        "E": "(t/, t/)"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "component": "sciences_vie",
+      "question_text": "On croise deux variétés de plantes de pois, l'une à fleurs axiales rouges et l'autre à fleurs terminales blanches. Tous les individus F1 ont des fleurs axiales rouges. Supposant un assortiment indépendant, sur 64 individus de la génération F2, combien d'entre eux devraient avoir des fleurs terminales rouges ?",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/14.png",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "12",
+        "D": "24",
+        "E": "36"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "component": "sciences_vie",
+      "question_text": "Certaines plantes peuvent résister à des froids extrêmes. Documents : deux chaînes respiratoires (Cytochrome c oxydase CCO et Oxydase alternative AOX) intervenant dans la réduction du dioxygène en eau, et couplage énergétique montrant que la chaîne avec CCO produit beaucoup d'ATP et peu de chaleur, alors que la chaîne avec AOX produit peu d'ATP et beaucoup de chaleur. Pour résister au froid extrême :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/15.png",
+      "options": {
+        "A": "l'AOX s'exprime et la plante produit moins d'ADP + Pi et plus d'eau ;",
+        "B": "le cytochrome c oxydase s'exprime et la plante produit moins d'ADP + Pi et moins d'eau ;",
+        "C": "l'AOX s'exprime et l'ATP synthase devient moins active ;",
+        "D": "le cytochrome c oxydase s'exprime et l'ATP synthase devient plus active ;",
+        "E": "l'AOX s'exprime, l'ATP synthase devient plus active et la production de chaleur augmente."
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "component": "sciences_vie",
+      "question_text": "La digestion d'un ADN par une enzyme de restriction a permis d'obtenir 4 fragments A, B, C et D de tailles différentes selon leur position sur l'ADN (A le plus petit, puis B, puis C, puis D le plus grand). Le profil attendu lors de la séparation de ces fragments par électrophorèse sur gel d'agarose, est le :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/16.png",
+      "options": {
+        "A": "profil 1",
+        "B": "profil 2",
+        "C": "profil 3",
+        "D": "profil 4",
+        "E": "profil 5"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "component": "sciences_vie",
+      "question_text": "Chez les oiseaux, le sexe est déterminé par le couple chromosomique ZW. Les mâles sont ZZ et les femelles sont ZW. Un allèle récessif létal qui provoque la mort de l'embryon est parfois présent sur le chromosome Z chez les pigeons. Quel serait le rapport des sexes dans la progéniture d'un croisement entre un mâle hétérozygote portant l'allèle létal et une femelle normale ?",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/17.png",
+      "options": {
+        "A": "2 mâles / 1 femelle ;",
+        "B": "1 mâle / 2 femelles ;",
+        "C": "1 mâle / 1 femelle ;",
+        "D": "1 mâle / 4 femelles ;",
+        "E": "3 mâles / 1 femelle."
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "component": "sciences_vie",
+      "question_text": "L'emplacement relatif de quatre gènes sur un chromosome peut être cartographié à partir des données suivantes sur les fréquences de crossing-over. Fréquence de crossing-over entre les gènes : B et C 5% ; B et A 30% ; A et D 15% ; C et A 25% ; C et D 40%. Laquelle des propositions suivantes représentent les positions relatives de ces quatre gènes sur le chromosome ?",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/18.png",
+      "options": {
+        "A": "ABCD",
+        "B": "ADCB",
+        "C": "CABD",
+        "D": "BCAD",
+        "E": "DBAC"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "component": "sciences_vie",
+      "question_text": "L'arbre généalogique ci-dessous concerne une famille dont certains membres souffrent d'une anomalie de la structure du cuir chevelu appelée « cheveux laineux ». Sachant que l'individu I-1 est homozygote. On se basant sur cet arbre généalogique :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/19.png",
+      "options": {
+        "A": "la probabilité que la descendance de III-4 et III-5 ait des cheveux laineux est 0% et la probabilité que l'individu III-1 soit Ww est 100% ;",
+        "B": "la probabilité que la descendance de III-4 et III-5 ait des cheveux laineux est 25% et la probabilité que l'individu III-1 soit WW est 0% ;",
+        "C": "la probabilité que la descendance de III-4 et III-5 ait des cheveux laineux est 25% et la probabilité que l'individu III-1 soit Ww est 75% ;",
+        "D": "la probabilité que la descendance de III-4 et III-5 ait des cheveux laineux est 50% et la probabilité que l'individu III-1 soit Ww est 100% ;",
+        "E": "la probabilité que la descendance de III-4 et III-5 ait des cheveux laineux est 50% et la probabilité que l'individu III-1 soit WW est 50%."
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "component": "sciences_vie",
+      "question_text": "Dans une population en équilibre de Hardy-Weinberg, la fréquence d'un allèle récessif pour un caractère héréditaire donné est de 0,20. Le pourcentage des individus présentant le caractère dominant à la génération suivante est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/20.png",
+      "options": {
+        "A": "8%",
+        "B": "16%",
+        "C": "32%",
+        "D": "64%",
+        "E": "96%"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "component": "physique",
+      "question_text": "Une lame vibrante horizontale, fixée à l'extrémité S d'une corde élastique, génère le long de celle-ci une onde progressive sinusoïdale de célérité v. Le mouvement de S débute à l'instant t0=0. Les figures (1) et (2) représentent l'élongation d'un point M de la corde, situé à une distance d de S, et l'aspect de la corde à l'instant t1=0,16s. Le front d'onde se trouve à l'instant t1 à la distance SF=80 cm de S. Les valeurs de la longueur d'onde et de la célérité de propagation de l'onde le long de la corde sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/21.png",
+      "options": {
+        "A": "λ = 0,40 m ; v = 0,25 m.s⁻¹",
+        "B": "λ = 0,08 m ; v = 0,80 m.s⁻¹",
+        "C": "λ = 0,40 m ; v = 2,5 m.s⁻¹",
+        "D": "λ = 0,40 m ; v = 5,0 m.s⁻¹",
+        "E": "λ = 0,80 m ; v = 10 m.s⁻¹"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "component": "physique",
+      "question_text": "La valeur de la distance SM est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/22.png",
+      "options": {
+        "A": "d = 0,20 m",
+        "B": "d = 0,40 m",
+        "C": "d = 0,60 m",
+        "D": "d = 0,80 m",
+        "E": "d = 1,2 m"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "component": "physique",
+      "question_text": "L'élongation du point M de la corde par rapport à la source S est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/23.png",
+      "options": {
+        "A": "yM(t) = yS(t - 0,04)",
+        "B": "yM(t) = yS(t - 0,08)",
+        "C": "yM(t) = yS(t - 0,05)",
+        "D": "yM(t) = yS(t - 0,8)",
+        "E": "yM(t) = yS(t - 0,4)"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "component": "physique",
+      "question_text": "Deux sondes E1 et E2 émettent, au même instant, des ondes ultrasonores de même fréquence respectivement dans l'air et dans l'eau de mer. Le capteur R1 capte les ondes se propageant dans l'air et le capteur R2 capte les ondes se propageant dans l'eau de mer. Soit Δt le retard temporel des ondes reçues par R1 par rapport à celles reçues par R2, pour une valeur de d. Le retard temporel Δt a pour expression :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/24.png",
+      "options": {
+        "A": "Δt = d.(1/Va - 1/Ve)",
+        "B": "Δt = d.(1/Ve + 1/Va)",
+        "C": "Δt = d.(Ve - Va)",
+        "D": "Δt = d.(Ve + Va)",
+        "E": "Δt = 2d.(1/Va - 1/Ve)"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "component": "physique",
+      "question_text": "La valeur de la vitesse de propagation des ultrasons dans l'eau de mer est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/25.png",
+      "options": {
+        "A": "Ve = 670 m.s⁻¹",
+        "B": "Ve = 1210 m.s⁻¹",
+        "C": "Ve = 1340 m.s⁻¹",
+        "D": "Ve = 1492 m.s⁻¹",
+        "E": "Ve = 1767 m.s⁻¹"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "component": "physique",
+      "question_text": "On éclaire une fente de largeur a par une lumière monochromatique de fréquence N émise par un laser. La figure de diffraction est observée sur un écran placé à une distance D de la fente. La largeur de la tache centrale est notée L. Avec un laser émettant une lumière verte de fréquence Nv=5,36.10^14 Hz, on obtient une tache centrale de largeur Lv=8,6 mm. Avec un laser émettant une lumière rouge de fréquence Nr=4,74.10^14 Hz, on obtient une tache centrale de largeur Lr. La valeur de la largeur de la tache centrale obtenue avec la lumière rouge est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/26.png",
+      "options": {
+        "A": "Lr = 10 mm",
+        "B": "Lr = 9,7 mm",
+        "C": "Lr = 8,2 mm",
+        "D": "Lr = 7,7 mm",
+        "E": "Lr = 6,8 mm"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "component": "physique",
+      "question_text": "L'écart angulaire pour la lumière rouge et l'écart angulaire pour la lumière verte sont liés par la relation :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/27.png",
+      "options": {
+        "A": "θr = 1,13.θv",
+        "B": "θr = 0,88.θv",
+        "C": "θr = 11,3.θv",
+        "D": "θr = 1,90.θv",
+        "E": "θr = 2,26.θv"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "component": "physique",
+      "question_text": "Le plutonium 238/94 Pu est radioactif α. Un échantillon de plutonium contient à t0=0, N0 noyaux de plutonium 238/94 Pu. On note Nd le nombre de noyaux de 238/94 Pu désintégrés à l'instant t. La courbe ci-contre représente les variations de (dNd/dt) en fonction de Nd. Le noyau obtenu par désintégration du plutonium 238/94 Pu est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/28.png",
+      "options": {
+        "A": "234/92 U",
+        "B": "235/92 U",
+        "C": "238/92 U",
+        "D": "238/93 Np",
+        "E": "238/95 Am"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "component": "physique",
+      "question_text": "La valeur de la constante radioactive du plutonium 238/94 Pu est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/29.png",
+      "options": {
+        "A": "λ = 4,0.10⁻¹⁰ s⁻¹",
+        "B": "λ = 2,5.10⁻¹⁰ s⁻¹",
+        "C": "λ = 3,2.10⁻¹⁰ s⁻¹",
+        "D": "λ = 2,5.10⁻¹¹ s⁻¹",
+        "E": "λ = 4,2.10⁻¹¹ s⁻¹"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "component": "physique",
+      "question_text": "La valeur du nombre de noyaux de plutonium présents dans l'échantillon à t0=0 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/30.png",
+      "options": {
+        "A": "N0 = 6,2.10¹⁸",
+        "B": "N0 = 2,4.10¹⁸",
+        "C": "N0 = 3,0.10²⁰",
+        "D": "N0 = 2,4.10²⁰",
+        "E": "N0 = 6,2.10²⁰"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "component": "physique",
+      "question_text": "La durée nécessaire pour la désintégration de la moitié des noyaux de plutonium 238/94 Pu de l'échantillon est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/31.png",
+      "options": {
+        "A": "1,2.10¹⁰ s",
+        "B": "5,2.10¹⁰ s",
+        "C": "4,2.10¹⁰ s",
+        "D": "5,5.10⁹ s",
+        "E": "2,8.10⁹ s"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "component": "physique",
+      "question_text": "Lors d'une scintigraphie thyroïdienne, on injecte à t0=0, à un patient un échantillon d'iode 123 d'activité 7 MBq. L'iode 123 se répartie à 30% dans la thyroïde et 70% dans le reste de l'organisme. On néglige le temps de fixation des noyaux dans la thyroïde. Soit a0 l'activité dans la thyroïde à t0=0. L'expression du nombre de noyaux d'iode 123 présent dans la thyroïde à l'instant t=t1/2 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/32.png",
+      "options": {
+        "A": "N = 2.a0.t1/2 / ln2",
+        "B": "N = a0.t1/2 / ln2",
+        "C": "N = a0.t1/2 / (2.ln2)",
+        "D": "N = a0 / (2.ln2)",
+        "E": "N = t1/2 / (2.ln2)"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "component": "physique",
+      "question_text": "On considère que l'activité d'un échantillon radioactif devient négligeable (échantillon inactif) après une durée de 20 demi-vie. Après l'injection, la valeur de l'activité de l'échantillon lorsqu'il devient inactif est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/33.png",
+      "options": {
+        "A": "a = 5,6 Bq",
+        "B": "a = 1,4 Bq",
+        "C": "a = 3,4 Bq",
+        "D": "a = 4,1 Bq",
+        "E": "a = 2,1 Bq"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "component": "physique",
+      "question_text": "On considère le montage de la figure (1). À l'instant t0=0, on place l'interrupteur K en position (1). La courbe de la figure (2) représente l'évolution de la tension uc(t) aux bornes du condensateur. Donnée : I0=0,5 mA. La valeur de la capacité est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/34.png",
+      "options": {
+        "A": "C = 5 µF",
+        "B": "C = 20 µF",
+        "C": "C = 55 µF",
+        "D": "C = 120 µF",
+        "E": "C = 500 µF"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "component": "physique",
+      "question_text": "Les valeurs de A et R sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/35.png",
+      "options": {
+        "A": "A = 6 V, R=50 Ω",
+        "B": "A = 10 V, R=100 Ω",
+        "C": "A = 10 V, R=200 Ω",
+        "D": "A = 5 V, R=0,5 kΩ",
+        "E": "A = 10 V, R=1 kΩ"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "component": "physique",
+      "question_text": "L'intensité du courant électrique à l'instant t0=0 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/36.png",
+      "options": {
+        "A": "i0 = 320 mA",
+        "B": "i0 = -200 mA",
+        "C": "i0 = 250 mA",
+        "D": "i0 = 200 mA",
+        "E": "i0 = -10 mA"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "component": "physique",
+      "question_text": "L'énergie électrique emmagasinée dans le condensateur à un instant t s'exprime par la relation Ee = (1/2).C.uc². La valeur de Ee à l'instant t=0,25 s est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/37.png",
+      "options": {
+        "A": "Ee = 1,2 mJ",
+        "B": "Ee = 3,4 mJ",
+        "C": "Ee = 5,0 mJ",
+        "D": "Ee = 6,8 mJ",
+        "E": "Ee = 9,0 mJ"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "component": "physique",
+      "question_text": "Le montage de la figure (1) permet de charger en même temps deux condensateurs de capacité C1 et C2 tel que C1 < C2. Les deux conducteurs ohmiques ont la même résistance R1=R2=R. À l'instant t0=0, on ferme l'interrupteur K. Un système d'acquisition permet d'enregistrer l'évolution des tensions uC1(t) et uC2(t). Les valeurs des constantes de temps τ1 et τ2 des dipôles R1C1 et R2C2 sont :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/38.png",
+      "options": {
+        "A": "τ1 = 0,3 s, τ2 = 1,2 s",
+        "B": "τ1 = 0,3 s, τ2 = 0,6 s",
+        "C": "τ1 = 0,3 s, τ2 = 1,5 s",
+        "D": "τ1 = 0,6 s, τ2 = 1,5 s",
+        "E": "τ1 = 0,9 s, τ2 = 1,5 s"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "component": "physique",
+      "question_text": "Les capacités C1 et C2 des deux condensateurs sont liées par la relation :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/39.png",
+      "options": {
+        "A": "C2 = 5.C1",
+        "B": "C2 = 0,2.C1",
+        "C": "C2 = 0,5.C1",
+        "D": "C2 = 1,5.C1",
+        "E": "C2 = 2,3.C1"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "component": "physique",
+      "question_text": "À la fin du régime transitoire de la charge du condensateur de capacité C1, la tension aux bornes du condensateur de capacité C2 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/40.png",
+      "options": {
+        "A": "uC2 = 37%.E",
+        "B": "uC2 = 63%.E",
+        "C": "uC2 = 67%.E",
+        "D": "uC2 = 33%.E",
+        "E": "uC2 = 57%.E"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "component": "chimie",
+      "question_text": "Un mélange de volume V=100 mL contient initialement n1(H2O2)=3.10⁻³ mol d'eau oxygénée, n2(I⁻)=5.10⁻³ mol d'ions iodure et n3(H⁺)=4.10⁻³ mol d'ions hydrogène. La réaction chimique qui se produit est modélisée par l'équation : H2O2(aq) + 2I⁻(aq) + 2H⁺(aq) → I2(aq) + 2H2O(l). La valeur de l'avancement final de la réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/41.png",
+      "options": {
+        "A": "xf = 4.10⁻³ mol",
+        "B": "xf = 3.10⁻³ mol",
+        "C": "xf = 2,5.10⁻³ mol",
+        "D": "xf = 2.10⁻³ mol",
+        "E": "xf = 5.10⁻³ mol"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "component": "chimie",
+      "question_text": "La valeur du temps de demi-réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/42.png",
+      "options": {
+        "A": "t1/2 = 20 min",
+        "B": "t1/2 = 18 min",
+        "C": "t1/2 = 14 min",
+        "D": "t1/2 = 12 min",
+        "E": "t1/2 = 10 min"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "component": "chimie",
+      "question_text": "La valeur de la vitesse volumique de réaction à t0=0 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/43.png",
+      "options": {
+        "A": "v0 = 1 mmol.L⁻¹.min⁻¹",
+        "B": "v0 = 2 mmol.L⁻¹.min⁻¹",
+        "C": "v0 = 3,5 mmol.L⁻¹.min⁻¹",
+        "D": "v0 = 5 mmol.L⁻¹.min⁻¹",
+        "E": "v0 = 10 mmol.L⁻¹.min⁻¹"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "component": "chimie",
+      "question_text": "On introduit, à 25°C, dans un ballon une masse m de carbonate de calcium CaCO3(s) et on y verse à t0=0, le volume VA=158 mL d'une solution aqueuse d'acide lactique C3H6O3(aq) de concentration molaire CA=8,0.10⁻² mol.L⁻¹. La transformation chimique est modélisée par : CaCO3(s) + 2C3H6O3(aq) → CO2(g) + Ca²⁺(aq) + 2C3H5O3⁻(aq) + H2O(l). Données : temps de demi-réaction t1/2=18 s ; Vm=24 L.mol⁻¹ ; M(CaCO3)=100 g.mol⁻¹. La valeur de l'avancement final de la réaction est:",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/44.png",
+      "options": {
+        "A": "xf = 12,6 mmol",
+        "B": "xf = 6,32 mmol",
+        "C": "xf = 4,3 mmol",
+        "D": "xf = 3 mmol",
+        "E": "xf = 1,5 mmol"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "component": "chimie",
+      "question_text": "La valeur de la masse m est:",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/45.png",
+      "options": {
+        "A": "m = 30 g",
+        "B": "m = 3 g",
+        "C": "m = 0,3 g",
+        "D": "m = 3 mg",
+        "E": "m = 30 mg"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "component": "chimie",
+      "question_text": "La valeur du volume de dioxyde de carbone formé à l'instant t=t1/2 est:",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/46.png",
+      "options": {
+        "A": "v(CO2) = 151 mL",
+        "B": "v(CO2) = 72 mL",
+        "C": "v(CO2) = 51,6 mL",
+        "D": "v(CO2) = 18 mL",
+        "E": "v(CO2) = 36 mL"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "component": "chimie",
+      "question_text": "L'acide acétylsalicylique de formule C9H8O4, connu sous le nom d'aspirine, est utilisé dans de nombreux médicaments. On dissout un comprimé d'aspirine dans le volume V=100 mL d'eau pure pour obtenir une solution aqueuse (S). La conductivité de la solution (S) vaut σ=109 mS.m⁻¹. La transformation chimique est modélisée par: C8H7O2COOH(aq) + H2O(l) ⇌ C8H7O2COO⁻(aq) + H3O⁺(aq). Données : λ1=3,6.10⁻³ S.m².mol⁻¹ ; λ2=35,0.10⁻³ S.m².mol⁻¹. La valeur de la concentration molaire effective en ions oxonium dans la solution (S) est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/47.png",
+      "options": {
+        "A": "[H3O+] = 2,82.10⁻³ mol.L⁻¹",
+        "B": "[H3O+] = 1,41.10⁻³ mol.L⁻¹",
+        "C": "[H3O+] = 3,86.10⁻² mol.L⁻¹",
+        "D": "[H3O+] = 1,93.10⁻² mol.L⁻¹",
+        "E": "[H3O+] = 1,09.10⁻⁴ mol.L⁻¹"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "component": "chimie",
+      "question_text": "La valeur du pH de la solution (S) est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/48.png",
+      "options": {
+        "A": "pH = 2,10",
+        "B": "pH = 2,41",
+        "C": "pH = 2,55",
+        "D": "pH = 3,21",
+        "E": "pH = 3,96"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "component": "chimie",
+      "question_text": "On titre le volume VA=50 mL de la solution (S) par une solution aqueuse d'hydroxyde de sodium Na⁺(aq) + HO⁻(aq) de concentration molaire CB=5,0.10⁻² mol.L⁻¹. Le volume versé à l'équivalence est VB,E=27,8 mL. La constante d'équilibre associée à l'équation de la réaction du dosage est K=3,2.10¹⁰. La valeur de la masse d'aspirine contenue dans le comprimé étudié est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/49.png",
+      "options": {
+        "A": "m = 0,5 mg",
+        "B": "m = 125 mg",
+        "C": "m = 1000 mg",
+        "D": "m = 250 mg",
+        "E": "m = 500 mg"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "component": "chimie",
+      "question_text": "La valeur de la constante d'acidité KA du couple acide/base associé à l'acide acétylsalicylique est:",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/50.png",
+      "options": {
+        "A": "KA = 2,0.10⁻⁵",
+        "B": "KA = 6,3.10⁻⁵",
+        "C": "KA = 3,2.10⁻⁴",
+        "D": "KA = 6,3.10⁻⁶",
+        "E": "KA = 4,0.10⁻⁷"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "component": "chimie",
+      "question_text": "On considère une solution aqueuse (S), d'acide monochloroéthanoïque de formule ClCH2COOH, de volume V, de concentration molaire C=10⁻² mol.L⁻¹ et de pH=2,43. La valeur du taux d'avancement final de la réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/51.png",
+      "options": {
+        "A": "τ = 0,27",
+        "B": "τ = 0,37",
+        "C": "τ = 0,42",
+        "D": "τ = 0,47",
+        "E": "τ = 0,52"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "component": "chimie",
+      "question_text": "Les concentrations molaires des espèces ClCH2COOH(aq) et ClCH2COO⁻(aq) dans la solution (S) vérifient l'égalité :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/52.png",
+      "options": {
+        "A": "[ClCH2COOH] = 5.[ClCH2COO⁻]",
+        "B": "[ClCH2COOH] = 2,5.[ClCH2COO⁻]",
+        "C": "[ClCH2COOH] = 1,7.[ClCH2COO⁻]",
+        "D": "[ClCH2COOH] = 10.[ClCH2COO⁻]",
+        "E": "[ClCH2COOH] = 12,5.[ClCH2COO⁻]"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "component": "chimie",
+      "question_text": "On introduit initialement dans un bécher une solution aqueuse d'acide méthanoïque HCO2H(aq) et une solution aqueuse d'éthanoate de sodium Na⁺(aq) + CH3CO2⁻(aq). Les deux solutions ont même volume V et même concentration molaire C. La transformation chimique est modélisée par l'équation HCO2H(aq) + CH3CO2⁻(aq) ⇌ HCO2⁻(aq) + CH3CO2H(aq) de constante d'équilibre K=10. L'expression du taux d'avancement final à l'état d'équilibre du système est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/53.png",
+      "options": {
+        "A": "τ = (1+√K)/√K",
+        "B": "τ = √K/(1+√K)",
+        "C": "τ = √K/(1-√K)",
+        "D": "τ = (1-√K)/√K",
+        "E": "τ = (1-√K)/(1+√K)"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "component": "chimie",
+      "question_text": "La valeur du taux d'avancement final de la réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/54.png",
+      "options": {
+        "A": "τ = 0,45",
+        "B": "τ = 0,60",
+        "C": "τ = 0,55",
+        "D": "τ = 0,76",
+        "E": "τ = 0,20"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "component": "chimie",
+      "question_text": "La valeur de la constante d'acidité du couple (HCO2H(aq) / HCO2⁻(aq)) est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/55.png",
+      "options": {
+        "A": "KA2 = 4,5.10⁻⁵",
+        "B": "KA2 = 6,8.10⁻⁵",
+        "C": "KA2 = 7,2.10⁻⁵",
+        "D": "KA2 = 1,8.10⁻⁴",
+        "E": "KA2 = 2,9.10⁻⁴"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "component": "chimie",
+      "question_text": "Certains produits pharmaceutiques sont fabriqués à partir de l'éthanamine (l'éthylamine), de formule chimique C2H5NH2 qui est une base selon Brönsted. On prépare une solution aqueuse (SB) d'éthanamine de concentration molaire CB=2,0.10⁻² mol.L⁻¹ et de pH=11,5. La transformation chimique qui a eu lieu lors de la préparation de la solution (SB) est modélisée par l'équation:",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/56.png",
+      "options": {
+        "A": "C2H5NH2(aq) + H2O(l) ⇌ C2H5NH⁻(aq) + H3O⁺(aq)",
+        "B": "C2H5NH2(aq) + H2O(l) ⇌ C2H5NH3⁺(aq) + HO⁻(aq)",
+        "C": "C2H5NH2(aq) + H3O⁺(aq) ⇌ C2H5NH3⁺(aq) + H2O(l)",
+        "D": "C2H5NH2(aq) + H2O(l) ⇌ C2H5NH⁻(aq) + HO⁻(aq)",
+        "E": "C2H5NH2(aq) + HO⁻(aq) ⇌ C2H5NH⁻(aq) + H2O(l)"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "component": "chimie",
+      "question_text": "L'expression du taux d'avancement final de la réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/57.png",
+      "options": {
+        "A": "τ = 10⁻ᵖᴴ / CB",
+        "B": "τ = 10^(pH-pKe) / CB",
+        "C": "τ = 10^(pKe-pH) / CB",
+        "D": "τ = 10⁻ᵖᴴ / (CB.pKe)",
+        "E": "τ = pH / (CB.pKe)"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "component": "chimie",
+      "question_text": "La valeur du taux d'avancement final de la réaction est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/58.png",
+      "options": {
+        "A": "τ = 0,08",
+        "B": "τ = 0,10",
+        "C": "τ = 0,16",
+        "D": "τ = 0,30",
+        "E": "τ = 0,45"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "component": "chimie",
+      "question_text": "La valeur du quotient de réaction Qr,éq à l'état d'équilibre du système est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/59.png",
+      "options": {
+        "A": "Qr,éq = 6.10⁻⁴",
+        "B": "Qr,éq = 8.10⁻⁴",
+        "C": "Qr,éq = 3.10⁻⁴",
+        "D": "Qr,éq = 5.10⁻⁵",
+        "E": "Qr,éq = 8.10⁻⁵"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "component": "chimie",
+      "question_text": "La valeur de la constante d'acidité du couple (C2H5NH3⁺(aq) / C2H5NH2(aq)) est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/60.png",
+      "options": {
+        "A": "KA = 2,67.10⁻¹⁰",
+        "B": "KA = 3,25.10⁻¹¹",
+        "C": "KA = 3,25.10⁻¹⁰",
+        "D": "KA = 5,85.10⁻¹¹",
+        "E": "KA = 1,67.10⁻¹¹"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "component": "mathematiques",
+      "question_text": "lim x→0 [√(ln(e+x)-1) / √(x+1-1)] est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/61.png",
+      "options": {
+        "A": "1/(2e)",
+        "B": "1/e",
+        "C": "1",
+        "D": "e",
+        "E": "2e"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "component": "mathematiques",
+      "question_text": "Si f(x) = 1/(1-x) . ln(1+1/x) alors f'(x) est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/62.png",
+      "options": {
+        "A": "1/(1-x)² . ln(1+1/x) + 1/(x(1-x²))",
+        "B": "1/(1-x)² . ln(1+1/x) - 1/(x(1-x²))",
+        "C": "1/(1-x²) . ln(1+1/x) - 1/(x(1-x²))",
+        "D": "1/(1-x)² . ln(1+1/x) - 1/(x(1-x)²)",
+        "E": "1/(1-x)² . ln(1+1/x) - 1/(1-x²)"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "component": "mathematiques",
+      "question_text": "Le nombre complexe ((7-15i)/(15+7i))^2021 est égal à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/63.png",
+      "options": {
+        "A": "i",
+        "B": "-1",
+        "C": "7-15i",
+        "D": "-i",
+        "E": "7+15i"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "component": "mathematiques",
+      "question_text": "Si x ∈ ]0,1[, alors lim n→+∞ (1-x+x²-x³+.........+(-1)ⁿxⁿ) est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/64.png",
+      "options": {
+        "A": "1/(x-1)",
+        "B": "1/(1-x)",
+        "C": "1",
+        "D": "-1/(1+x)",
+        "E": "1/(1+x)"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "component": "mathematiques",
+      "question_text": "Dans R, le nombre de solutions de l'équation x⁵+x-1=0 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/65.png",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "5"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "component": "mathematiques",
+      "question_text": "Dans l'ensemble C, si |z|.z̄ = 15-20i alors |(1+i)z| est égal à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/66.png",
+      "options": {
+        "A": "√2",
+        "B": "2√2",
+        "C": "3√2",
+        "D": "4√2",
+        "E": "5√2"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "component": "mathematiques",
+      "question_text": "Si f est la fonction définie sur R* par f(x) = √(ln(1+x²))/x alors :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/67.png",
+      "options": {
+        "A": "lim x→0 f(x) = 1",
+        "B": "lim x→0 f(x) = -1",
+        "C": "lim x→0 f(x) = 1/2",
+        "D": "lim x→0 f(x) = 0",
+        "E": "La fonction f n'admet pas de limite en 0"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "component": "mathematiques",
+      "question_text": "(un)n≥0 est la suite définie par : u0=1 et pour tout n∈N, un+1 = un² + un. La limite de la suite (un)n≥0 si elle existe, est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/68.png",
+      "options": {
+        "A": "1",
+        "B": "+∞",
+        "C": "0",
+        "D": "-1",
+        "E": "Autre valeur"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "component": "mathematiques",
+      "question_text": "L'intégrale ∫0¹ x/(1+e^(-x²)) dx est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/69.png",
+      "options": {
+        "A": "√(ln((1+e)/2))",
+        "B": "ln√(1+e)",
+        "C": "ln(1+e)",
+        "D": "ln√((1+e)/2)",
+        "E": "√(ln(1+e))"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "component": "mathematiques",
+      "question_text": "Si f(1)=4 et (∀x∈R*+) ; f'(x)=2x+lnx alors f(e) est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/70.png",
+      "options": {
+        "A": "e²",
+        "B": "e+4",
+        "C": "e²+4",
+        "D": "e",
+        "E": "4"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "component": "mathematiques",
+      "question_text": "Dans l'ensemble C, si z=1+i(1+√2) alors :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/71.png",
+      "options": {
+        "A": "|z| = 2√2 cos(π/8) et arg z ≡ 3π/8 [2π]",
+        "B": "|z| = 2√2 cos(π/8) et arg z ≡ π/8 [2π]",
+        "C": "|z| = 2√2 cos(3π/8) et arg z ≡ 3π/8 [2π]",
+        "D": "|z| = 2√2 cos(3π/8) et arg z ≡ π/8 [2π]",
+        "E": "|z| = 2cos(π/8) et arg z ≡ 3π/8 [2π]"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "component": "mathematiques",
+      "question_text": "Si ∫1² f'(x)f''(x)dx=8 et f'(2)-f'(1)=2 alors f'(2)+f'(1) est égal à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/72.png",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10",
+        "E": "12"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "component": "mathematiques",
+      "question_text": "Soit q∈R. Pour tout n∈N* on pose Sn=Σ(k=1 à n) qᵏ. Si la suite (Sn)n∈N* est convergente et lim n→+∞ Sn=4, alors q est égal à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/73.png",
+      "options": {
+        "A": "2/3",
+        "B": "3/4",
+        "C": "4/5",
+        "D": "5/6",
+        "E": "6/7"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "component": "mathematiques",
+      "question_text": "L'intégrale I=∫(π/6 à π/3) sinx/(sinx+cosx) dx est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/74.png",
+      "options": {
+        "A": "π/3",
+        "B": "π/4",
+        "C": "π/6",
+        "D": "π/8",
+        "E": "π/12"
+      },
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "component": "mathematiques",
+      "question_text": "Dans l'ensemble C, si |z1|=|z2|=1 et |z1+z2|=√3 alors |z1-z2| est égal à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/75.png",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "√3",
+        "D": "2",
+        "E": "√2"
+      },
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "component": "mathematiques",
+      "question_text": "(un)n≥0 est la suite définie par : u0=0, u1=1 et pour tout n∈N*, un=√((u(n+1)²+u(n-1)²)/2). lim n→+∞ un est égale à :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/76.png",
+      "options": {
+        "A": "0",
+        "B": "+∞",
+        "C": "1",
+        "D": "√2",
+        "E": "√2/2"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "component": "mathematiques",
+      "question_text": "Soient (a;b)∈R² et f la fonction définie sur R par : f(x)=ax+b si x≤0, f(x)=1/(x+1) si x>0. La fonction f est dérivable en 0 si et seulement si :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/77.png",
+      "options": {
+        "A": "a=1 et b=1",
+        "B": "a=-1 et b=1",
+        "C": "a=2 et b=1",
+        "D": "a=-1 et b=-1",
+        "E": "a=-1 et b=0"
+      },
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "component": "mathematiques",
+      "question_text": "Soient (a;b)∈R² et f la fonction définie sur R par : f(x)=3x²+2ax+b. Si ∫(-1 à 1) f(x)dx<2 alors le nombre de solutions dans R de l'équation f(x)=0 est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/78.png",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "4"
+      },
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "component": "mathematiques",
+      "question_text": "Le plan complexe est rapporté à un repère orthonormé direct (O,u,v) et α∈]0;π/2[. Soient z1 et z2 les deux solutions de l'équation d'inconnue z (E): z²-sin(2α)z+sin²(α)=0. La valeur de α pour laquelle les points O, M(z1) et M(z2) sont les sommets d'un triangle équilatéral est :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/79.png",
+      "options": {
+        "A": "π/3",
+        "B": "π/4",
+        "C": "π/5",
+        "D": "π/6",
+        "E": "π/8"
+      },
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "component": "mathematiques",
+      "question_text": "Pour tout entier naturel non nul n et pour tout réel x on pose : fn(x)=e^(-x)-nx. On a :",
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2021/questions-exam2021/80.png",
+      "options": {
+        "A": "(∀n∈N*), (∃!an∈]0;1[) : fn(an)=0 et lim n→+∞ n.an=1",
+        "B": "(∀n∈N*), (∃!an∈]0;1[) : fn(an)=0 et lim n→+∞ n.an=0",
+        "C": "(∀n∈N*), (∃!an∈]0;1[) : fn(an)=0 et lim n→+∞ n.an=e",
+        "D": "(∀n∈N*), (∃!an∈]-1;0[) : fn(an)=0 et lim n→+∞ n.an=0",
+        "E": "(∀n∈N*), (∃!an∈]-1;0[) : fn(an)=0 et lim n→+∞ n.an=1"
+      },
+      "correct_answer": "A",
+      "points": 1
+    }
+  ]
+}
