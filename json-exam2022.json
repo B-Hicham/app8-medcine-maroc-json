@@ -1,0 +1,1190 @@
+{
+  "exam_id": "concours-fmp-fmd-med-french-2022",
+  "exam_title": "مباراة ولوج كليات الطب والصيدلة وكليتي طب الأسنان برسم السنة الجامعية 2022-2023 – يوليوز 2022 (الصيغة الفرنسية للاختبار)",
+  "language": "fr",
+  "duration_hours": 3,
+  "total_questions": 80,
+  "note": "correct_answer values were merged from the official corrigé/answer key sheet (bubble grid image) for this exam, cross-checked by independently solving the computable (physics/chemistry/math) questions and verifying the genetics logic. Each question is worth 1 point (uniform weighting).",
+  "instructions": [
+    "L'épreuve est constituée de quatre composantes d'une durée totale de 2 heures.",
+    "Chaque question comporte 5 propositions (A, B, C, D et E), une seule proposition est juste.",
+    "Chaque candidat(e) a le droit d'utiliser une seule feuille réponse non remplaçable.",
+    "Avec un stylo à bille (bleu ou noir) cochez sur la feuille réponse à l'intérieur de la case correspondante à chaque réponse juste.",
+    "L'utilisation de la calculatrice est INTERDITE.",
+    "L'utilisation du Blanco sur la feuille réponse est INTERDITE.",
+    "Toute réponse fausse vaut 0 à la question.",
+    "L'épreuve comporte 80 QCM réparties en quatre composantes."
+  ],
+  "grading_rules": "L'examen est noté sur 20 points (20/20) répartis entre les différentes matières. Le coefficient 1 est attribué à chaque composante : Sciences de la Vie, Physique, Chimie et Mathématiques. Les questions sont à choix multiples avec 5 propositions (A à E) pour chaque question. Le concours comprend 80 questions au total, réparties en quatre composantes : Sciences de la Vie (Q1-Q20), Physique (Q21-Q40), Chimie (Q41-Q60) et Mathématiques (Q61-Q80). L'examen est destiné aux candidats aux facultés de médecine, de pharmacie et de médecine dentaire pour l'année universitaire 2022-2023, session de juillet 2022 (version francophone).",
+  "components": [
+    {
+      "id": "sciences_vie",
+      "label_ar": "علوم الحياة",
+      "order": 1,
+      "range": [
+        1,
+        20
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "physique",
+      "label_ar": "الفيزياء",
+      "order": 2,
+      "range": [
+        21,
+        40
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "chimie",
+      "label_ar": "الكيمياء",
+      "order": 3,
+      "range": [
+        41,
+        60
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "mathematiques",
+      "label_ar": "الرياضيات",
+      "order": 4,
+      "range": [
+        61,
+        80
+      ],
+      "coefficient": 1
+    }
+  ],
+  "exam_pdf": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/pdf-exam2022/pdf-exam2022.pdf"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Au cours du cycle de la contraction musculaire, le Ca++ se fixe sur :",
+      "options": {
+        "A": "la troponine qui déplace la tropomyosine et la tête de myosine porteuse d'ATP se lie à l'actine.",
+        "B": "la tropomyosine qui déplace la troponine et la tête de myosine porteuse d'ADP se lie à l'actine.",
+        "C": "la troponine qui déplace la tropomyosine et la tête de myosine porteuse d'ADP se lie à l'actine.",
+        "D": "la troponine qui déplace la tropomyosine et l'actine porteuse d'ADP se lie à la tête de myosine.",
+        "E": "l'actine qui déplace la troponine et la tête de myosine porteuse d'ATP se lie à la tropomyosine."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/1.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "question_text": "Parmi les suggestions suivantes, il y a deux suggestions vraies concernant les voies les plus utilisées dans la régénération de l'ATP pendant un effort musculaire : 1. La fermentation lactique pour un effort long. 2. La respiration cellulaire pour un effort court. 3. L'ADP qui interagit avec la phosphocréatine pour un effort très rapide. 4. La phosphocréatine pour un effort plus long. 5. La respiration cellulaire pour un effort plus long. Les deux suggestions vraies sont :",
+      "options": {
+        "A": "1 et 2.",
+        "B": "2 et 5.",
+        "C": "3 et 4.",
+        "D": "3 et 5.",
+        "E": "4 et 5."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/2.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 3,
+      "question_text": "Le brassage intrachromosomique permet la combinaison entres les allèles :",
+      "options": {
+        "A": "d'un même gène disposés sur deux locus (loci) différents d'un même chromosome.",
+        "B": "d'un même gène disposés sur un même locus d'un chromosome déterminé.",
+        "C": "de deux gènes disposés sur deux locus différents des chromosomes homologues.",
+        "D": "de deux gènes disposés sur deux locus différents de deux chromosomes non homologues.",
+        "E": "de deux gènes disposés sur un même locus d'un chromosome déterminé."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/3.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 4,
+      "question_text": "Un plasmide est :",
+      "options": {
+        "A": "un ADN bactérien utilisé comme vecteur en génie génétique.",
+        "B": "un ARN bactérien utilisé comme vecteur en génie génétique.",
+        "C": "une enzyme bactérienne utilisée en génie génétique pour découper l'ADN au niveau de sites spécifiques.",
+        "D": "une enzyme bactérienne utilisée en génie génétique pour découper l'ARN au niveau de sites spécifiques.",
+        "E": "une protéine découverte chez les plantes et utilisée comme vecteur en génie génétique."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/4.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 5,
+      "question_text": "La réplication de l'ADN a lieu :",
+      "options": {
+        "A": "uniquement avant la mitose grâce à l'ARN polymérase qui copie l'ADN.",
+        "B": "uniquement avant la méiose grâce à l'ADN polymérase qui copie l'ADN.",
+        "C": "avant la première division de la méiose grâce à l'ARN polymérase qui copie l'ADN.",
+        "D": "grâce à l'ADN polymérase qui copie l'ADN durant l'interphase.",
+        "E": "juste avant la deuxième division de la méiose grâce à l'ADN polymérase qui copie l'ADN."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/5.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 6,
+      "question_text": "La carte factorielle est représentée par une droite avec les loci (locus) et la distance séparant les loci de deux gènes :",
+      "options": {
+        "A": "liés est exprimée en centimorgan (cM) dont 1 cM correspond à 1 % des types recombinés.",
+        "B": "indépendants est exprimée en centimorgan (cM) dont 1 cM correspond à 1 % des types recombinés.",
+        "C": "liés est exprimée en centimorgan (cM) dont 1 cM correspond à 10 % des types recombinés.",
+        "D": "liés est exprimée en centimorgan (cM) dont 1 cM correspond à 10 % des types parentaux.",
+        "E": "indépendants est exprimée en centimorgan (cM) dont 1 cM correspond à 1 % des types parentaux."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/6.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 7,
+      "question_text": "Dans le cas d'une maladie héréditaire récessive liée au chromosome X :",
+      "options": {
+        "A": "L'allèle responsable de la maladie se transmet du père vers ses fils.",
+        "B": "Un homme malade donne toujours des filles malades.",
+        "C": "Une femme saine porteuse de l'allèle morbide ne donne jamais des garçons malades.",
+        "D": "Une femme malade donne toujours des garçons malades.",
+        "E": "L'allèle responsable de la maladie ne se transmet pas du père vers ses filles."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/7.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 8,
+      "question_text": "Concernant le mécanisme de la dérive génétique, on peut affirmer que :",
+      "options": {
+        "A": "les effets de la dérive génétique sont d'autant plus marqués que la population ciblée par la dérive génétique est grande.",
+        "B": "les effets de la dérive génétique sont d'autant plus marqués au sein d'une population ayant subi un goulot d'étranglement.",
+        "C": "la dérive génétique ne peut pas agir en même temps que la sélection naturelle.",
+        "D": "la dérive génétique accroît la diversité génétique au sein d'une population donnée.",
+        "E": "la dérive génétique est liée à des phénomènes déterministes c'est-à-dire non-aléatoires."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/8.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 9,
+      "question_text": "Parmi les suggestions suivantes, il y a deux suggestions vraies concernant la reconnaissance de l'antigène : 1. LB reconnaît le déterminant antigénique après sa présentation par les CPA à travers le CMH-I. 2. LT4 reconnaît le déterminant antigénique après sa présentation par les CPA à travers le CMH-II. 3. LT8 reconnaît le déterminant antigénique après sa présentation par les CPA à travers le CMH-II. 4. LT4 reconnaît le déterminant antigénique après sa présentation par les CPA à travers le CMH-I. 5. LT8 reconnaît le déterminant antigénique après sa présentation par les CPA à travers le CMH-I. Les deux suggestions vraies sont :",
+      "options": {
+        "A": "1 et 3.",
+        "B": "3 et 4.",
+        "C": "4 et 5.",
+        "D": "1 et 5.",
+        "E": "2 et 5."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/9.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 10,
+      "question_text": "Dans la réponse allergique la phase de sensibilisation est liée à l'activation de :",
+      "options": {
+        "A": "LT8 qui se transforme en LTc secrétant la perforine et les granzymes qui détruisent les cellules dendritiques.",
+        "B": "LB qui se transforment en plasmocytes secrétant les IgE qui se fixent sur les mastocytes.",
+        "C": "LB qui se transforment en plasmocytes secrétant les IgE qui se fixent sur les cellules dendritiques.",
+        "D": "LT8 qui se transforme en LTc secrétant la perforine et les granzymes qui détruisent les mastocytes.",
+        "E": "LB qui se transforment en plasmocytes secrétant les IgG qui se fixent sur les cellules dendritiques."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/10.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 11,
+      "question_text": "On a mesuré la variation de la concentration d'ATP, de phosphocréatine au niveau du muscle et la concentration d'acide lactique dans le sang d'un sprinteur au cours d'un échauffement et d'une course de 10s environ. Le document présente les résultats obtenus. À partir des données du document et des connaissances, on peut déduire que la régénération de l'ATP chez le sprinteur est assurée essentiellement par la voie de :",
+      "options": {
+        "A": "phosphocréatine lors de l'échauffement et par la voie de fermentation lactique lors de la course. Ces deux voies se déroulent au niveau du hyaloplasme.",
+        "B": "phosphocréatine lors de l'échauffement et par la voie de fermentation lactique lors de la course. Ces deux voies se déroulent au niveau de la matrice.",
+        "C": "fermentation lactique, au niveau du hyaloplasme, lors de l'échauffement et par la voie de phosphocréatine, au niveau de la matrice, lors de la course.",
+        "D": "phosphocréatine, au niveau du hyaloplasme, lors de l'échauffement et par la voie de fermentation lactique, au niveau de la matrice, lors de la course.",
+        "E": "phosphocréatine, au niveau de la matrice, lors de l'échauffement et par la voie de fermentation lactique, au niveau du hyaloplasme, lors de la course."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/11.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 12,
+      "question_text": "Le tableau suivant présente les composantes de la chaîne respiratoire au niveau de la mitochondrie avec les valeurs de potentiel d'oxydoréduction de chaque composante (Flavine mononucléotide -300, Cytochrome a3 +385, Ubiquinone +2, Cytochrome b +30, Cytochrome a +310, Cytochrome c +235, Cytochrome c1 +225). Le sens de déplacement des électrons du NADH,H+ vers le dioxygène le long de quatre composantes de cette chaîne respiratoire est le suivant :",
+      "options": {
+        "A": "Cytochrome a3 → Cytochrome a → Cytochrome b → Flavine mononucléotide.",
+        "B": "Ubiquinone → Cytochrome b → Cytochrome a → Cytochrome a3.",
+        "C": "Flavine mononucléotide → Cytochrome c → Cytochrome c1 → Cytochrome a3.",
+        "D": "Ubiquinone → Cytochrome b → Cytochrome a3 → Cytochrome a.",
+        "E": "Cytochrome a3 → Cytochrome a → Cytochrome c → Cytochrome c1."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/12.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 13,
+      "question_text": "Le croisement d'un lapin gris à poils longs avec une lapine blanche à poils courts donne à la première génération F1 des lapereaux tachetés à poils longs. On croise ensuite les individus de la première génération entre eux, on obtient une deuxième génération F2. Sachant que les deux gènes étudiés sont indépendants, les proportions des phénotypes obtenus à la génération F2 sont :",
+      "options": {
+        "A": "gris long : 9/16 ; gris court : 3/16 ; blanc long : 3/16 ; blanc court : 1/16.",
+        "B": "blanc long : 9/16 ; blanc court : 3/16 ; gris long : 3/16 ; gris court : 1/16.",
+        "C": "tacheté long : 6/16 ; gris long : 3/16 ; blanc long : 3/16 ; tacheté court : 2/16 ; gris court : 1/16 ; blanc court : 1/16.",
+        "D": "tacheté long : 6/16 ; gris long : 3/16 ; blanc long : 3/16 ; tacheté court : 2/16 ; blanc court : 1/16 ; gris court : 1/16.",
+        "E": "tacheté long : 6/16 ; gris long : 3/16 ; blanc long : 3/16 ; tacheté court : 2/16 ; blanc long : 1/16 ; gris court : 1/16."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/13.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 14,
+      "question_text": "X, Y et Z sont trois gènes de la drosophile. Les fréquences de recombinaison pour deux de ces trois gènes sont indiquées ci-dessous. Paire de gène X-Y : 50% ; X-Z : 25% ; Y-Z : 50%. La fréquence des recombinaisons signifie que :",
+      "options": {
+        "A": "les gènes X, Y et Z sont portés par le même chromosome.",
+        "B": "les gènes X, Y et Z sont portés par des chromosomes différents.",
+        "C": "les gènes X et Y sont portés par le même chromosome et Z est porté par un chromosome différent.",
+        "D": "les gènes Y et Z sont portés par le même chromosome et X est porté par un chromosome différent.",
+        "E": "les gènes X et Z sont portés par le même chromosome et Y est porté par un chromosome différent."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/14.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "question_text": "Dans l'ADN de l'oursin qui est à double brin, 17% des bases se sont révélées être de la cytosine (C). Les pourcentages des trois autres bases censées être présentes dans cette ADN sont les suivants :",
+      "options": {
+        "A": "G : 34% ; A : 24.5% ; T : 24.5%",
+        "B": "G : 17% ; A : 16.5% ; T : 32.5%",
+        "C": "G : 17% ; A : 33% ; T : 33%",
+        "D": "G : 8.5% ; A : 50% ; T : 24.5%",
+        "E": "G : 24% ; A : 50% ; T : 34%"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/15.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 16,
+      "question_text": "Un allèle récessif sur le chromosome X est responsable du daltonisme rouge-vert chez l'Homme. Une femme ayant une vision normale et dont le père est daltonien se marie avec un homme daltonien. La probabilité pour que ce couple donne naissance à une fille et que cette fille soit daltonienne est :",
+      "options": {
+        "A": "0",
+        "B": "1/4",
+        "C": "1/2",
+        "D": "3/4",
+        "E": "1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/16.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 17,
+      "question_text": "La fourrure du mutant yellow [Y] de la souris est jaune. Le type sauvage est dit type agouti [+]. Afin de déterminer le mode de transmission de ce caractère, on propose les deux croisements suivants : Croisement 1 : entre une souris [Y] et une souris [+], on obtient une descendance constituée de 1/2 [Y] et 1/2 [+]. Croisement 2 : entre deux souris [Y], on obtient une descendance constituée de 2/3 [Y] et 1/3 [+]. Si l'on croise un individu [Y] issu du croisement 2 avec une souris [+], la descendance sera constituée d'individus avec les rapports suivants :",
+      "options": {
+        "A": "1/4 yellow ; 3/4 agouti.",
+        "B": "1/3 yellow ; 2/3 agouti.",
+        "C": "3/4 yellow ; 1/4 agouti.",
+        "D": "1/2 yellow ; 1/2 agouti.",
+        "E": "2/3 yellow ; 1/3 agouti."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/17.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 18,
+      "question_text": "Le Phénylthiocarbamide (PTC), a un goût très amer pour certaines personnes et aucun goût pour d'autres. Dans une population, soumise à la loi de Hardy Weinberg, on a 70% des individus sensibles au goût amer du PTC. Sachant que la sensibilité à la PTC est liée à un allèle dominant S et l'insensibilité à cette substance est liée à l'allèle récessif s. On donne : √0,20 = 0,45 ; √0,30 = 0,55 ; √0,70 = 0,83. Quelles sont les fréquences des allèles et des génotypes dans cette population ? Remarque : on considère deux chiffres après la virgule.",
+      "options": {
+        "A": "f(s) = 0.55 ; f(S) = 0.45 ; f(ss) = 0.30 ; f(Ss) = 0.49 ; f(SS) = 0.20.",
+        "B": "f(s) = 0.55 ; f(S) = 0.45 ; f(ss) = 0.30 ; f(Ss) = 0.20 ; f(SS) = 0.49.",
+        "C": "f(s) = 0.70 ; f(S) = 0.30 ; f(ss) = 0.30 ; f(Ss) = 0.20 ; f(SS) = 0.50.",
+        "D": "f(s) = 0.55 ; f(S) = 0.45 ; f(ss) = 0.30 ; f(Ss) = 0.68 ; f(SS) = 0.02.",
+        "E": "f(s) = 0.83 ; f(S) = 0.17 ; f(ss) = 0.70 ; f(Ss) = 0.44 ; f(SS) = 0.07."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/18.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 19,
+      "question_text": "Un laboratoire d'analyses effectue la réaction immunitaire suivante : 1ère étape : sur une lame de verre, on dépose une goutte de sérum dans chacune des cases : case 1 : sérum d'un animal atteint de la mononucléose infectieuse. case 2 : sérum d'un animal non atteint. case 3 : sérum de monsieur A. 2ème étape : on ajoute dans chacune de ces cases la même quantité d'hématies de cheval infectées par le virus de la mononucléose et présentant des antigènes du virus à leur surface. 3ème étape : on observe la lame afin de rechercher si les hématies de cheval ont été agglutinées par les anticorps du sérum. L'agglutination correspond à la formation de complexes immuns. Résultats : case 1 : Hématies agglutinées ; case 2 : Hématies non agglutinées ; case 3 : Hématies agglutinées. À partir des résultats précédents, on peut dire que :",
+      "options": {
+        "A": "l'agglutination des hématies de cheval dans la case 3 résulte d'une réaction immunitaire dont les cellules effectrices sont les lymphocytes T cytotoxiques.",
+        "B": "les hématies de cheval dans la case 3 ont été agglutinées suite à la fixation des antigènes du virus de la mononucléose par des anticorps spécifiques.",
+        "C": "monsieur A n'est pas atteint de mononucléose car son sérum réagit différemment du sérum de l'animal dans la case 2.",
+        "D": "dans le sérum de monsieur A, l'agglutination des hématies de cheval montre que ce monsieur n'est pas atteint de mononucléose.",
+        "E": "monsieur A n'est pas atteint de mononucléose car son sérum réagit de la même façon que le sérum de l'animal dans la case 1."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/19.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 20,
+      "question_text": "Le document ci-contre présente la réponse immunitaire contre le VIH (graphique : Nombre en UA en fonction du temps, avec courbes Lymphocytes T8, Charge virale, Lymphocytes T4, sur les périodes Semaines, 1 à 2 ans, années). Parmi les suggestions suivantes, il y a deux suggestions vraies concernant l'analyse de ce graphique : 1. L'augmentation du nombre de LT8 est la conséquence d'une immunité humorale. 2. Les LT8 sont des LTc détruisant les LT4 infectés. 3. Le VIH reste présent et inactif car le nombre de LT8 reste important. 4. La diminution du nombre de LT8 est la conséquence d'une immunodéficience. Les deux suggestions vraies sont :",
+      "options": {
+        "A": "1 et 2.",
+        "B": "1 et 4.",
+        "C": "1 et 3.",
+        "D": "3 et 4.",
+        "E": "2 et 4."
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/20.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 21,
+      "question_text": "Ondes à la surface de l'eau : Sur la surface de l'eau contenue dans une cuve à onde, on crée à l'instant t0 = 0, une onde progressive sinusoïdale de fréquence N, en un point S, à l'aide d'une pointe liée à un vibreur. Cette onde se propage sans amortissement et sans réflexion avec une vitesse constante. Le document ci-dessous représente une section de la surface de l'eau suivant un plan vertical passant par le point S à un instant t1. L'élongation de la source est yS(t) = 10^-2.sin(100.π.t) (m). Données : N = 50 Hz ; AB = 10 cm. La valeur de l'instant t1 est :",
+      "options": {
+        "A": "t1 = 0,6 ms",
+        "B": "t1 = 14 ms",
+        "C": "t1 = 21 ms",
+        "D": "t1 = 50 ms",
+        "E": "t1 = 100 ms"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/21.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 22,
+      "question_text": "On considère un point P de la surface de l'eau. À l'instant t, P appartient à la crête numéro 4. L'élongation du point P à l'instant t est :",
+      "options": {
+        "A": "yP(t) = 10^-2.sin(100.π.t)",
+        "B": "yP(t) = 10^-2.sin(100.π.t - π/2)",
+        "C": "yP(t) = 10^-2.sin(100.π.t + π/2)",
+        "D": "yP(t) = 10^-2.sin(100.π.t)",
+        "E": "yP(t) = 10^-2.sin(100.π.t - π)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/22.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 23,
+      "question_text": "Diffraction de la lumière par une fente : On réalise la diffraction de la lumière en utilisant le dispositif ci-contre. On réalise dans l'air, quatre expériences en utilisant deux lasers produisant deux radiations de longueurs d'onde respectives λ1 et λ2. Pour différentes valeurs de la largeur a de la fente, on obtient les résultats indiqués dans le tableau ci-dessous. Expérience 1 : λ1, a1 = a, D, L1 = 3,2 cm, θ1 = 10^-2 rad. Expérience 2 : λ2 = 632,8 nm, a2 = a, D, L2 = 5,0 cm, θ2. Expérience 3 : λ2 = 632,8 nm, a3 = a/2, D, L3 = 2.L2, θ3. Expérience 4 : λ2 = 632,8 nm, a4 = 2a, D, L4 = L2/2, θ4. Données : tanθ = θ(rad) ; 632,8×3,2 = 2.10^3. La valeur de la largeur de la fente est :",
+      "options": {
+        "A": "a = 10 μm",
+        "B": "a = 25 μm",
+        "C": "a = 40 μm",
+        "D": "a = 65 μm",
+        "E": "a = 100 μm"
+      },
+      "figure_url_1": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/23i1.png",
+      "figure_url_2": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/23i2.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 24,
+      "question_text": "Les écarts angulaires de diffraction dans les quatre expériences sont tels que :",
+      "options": {
+        "A": "θ1 > θ2 > θ3 > θ4",
+        "B": "θ3 > θ1 > θ2 > θ4",
+        "C": "θ4 > θ1 > θ2 > θ3",
+        "D": "θ3 > θ2 > θ1 > θ4",
+        "E": "θ3 > θ2 > θ4 > θ1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/24.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 25,
+      "question_text": "Radioactivité du thorium : Le noyau de thorium 230/90 Th subit une série de désintégrations successives de types α et β- qui conduisent à la formation du noyau de plomb 206/82 Pb, stable. L'équation globale des désintégrations subie par le thorium s'écrit : 230/90 Th → 206/82 Pb + x.α + y.β-. On dispose d'un échantillon contenant N0 noyaux de thorium à l'instant t0 = 0. L'échantillon contient à un instant t, après une série de désintégrations 0,25 mmol de thorium 230/90 Th et 0,75 mmol de plomb 206/82 Pb. Données : constante radioactive du thorium : λ = 8,7.10^-6 an^-1 ; Ln2 = 0,7. Les valeurs de x et y sont :",
+      "options": {
+        "A": "x = 4 ; y = 6",
+        "B": "x = 2 ; y = 4",
+        "C": "x = 4 ; y = 4",
+        "D": "x = 6 ; y = 4",
+        "E": "x = 4 ; y = 2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/25.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 26,
+      "question_text": "La valeur de la demi-vie du thorium est :",
+      "options": {
+        "A": "t1/2 = 1,4.10^4 ans",
+        "B": "t1/2 = 5,5.10^4 ans",
+        "C": "t1/2 = 8,0.10^4 ans",
+        "D": "t1/2 = 4.10^5 ans",
+        "E": "t1/2 = 8.10^5 ans"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/26.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 27,
+      "question_text": "L'âge de l'échantillon est :",
+      "options": {
+        "A": "t = 2,7.10^4 ans",
+        "B": "t = 1,6.10^5 ans",
+        "C": "t = 1,6.10^4 ans",
+        "D": "t = 2,4.10^5 ans",
+        "E": "t = 2,2.10^6 ans"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/27.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "question_text": "Charge et décharge d'un condensateur : On considère le montage schématisé sur la figure suivante. À l'instant t0 = 0, on place l'interrupteur K en position (1). Un système d'acquisition donne l'expression numérique de l'intensité du courant qui circule dans le circuit : i(t) = 6.10^-3 . e^(-1000/33 . t) (A). Données : E = 6,0 V ; R = 0,95 kΩ. Les valeurs de la résistance r et de la capacité C sont :",
+      "options": {
+        "A": "r = 50 Ω ; C = 10 μF",
+        "B": "r = 20 Ω ; C = 33 μF",
+        "C": "r = 10 Ω ; C = 55 μF",
+        "D": "r = 50 Ω ; C = 33 μF",
+        "E": "r = 50 Ω ; C = 50 μF"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/28.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 29,
+      "question_text": "La valeur de l'énergie électrique Ee emmagasinée dans le condensateur quand uC = 75%.E est :",
+      "options": {
+        "A": "Ee = 0,33 mJ",
+        "B": "Ee = 2,64 mJ",
+        "C": "Ee = 5,02 mJ",
+        "D": "Ee = 8,65 mJ",
+        "E": "Ee = 9,27 mJ"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/29.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 30,
+      "question_text": "Lorsque le condensateur devient totalement chargé, on bascule K en position (2), à un instant pris comme nouvelle origine des dates (t0 = 0). L'expression numérique de la tension aux bornes du condensateur est :",
+      "options": {
+        "A": "uc(t) = 6. e^(-1000/31,35 . t)",
+        "B": "uc(t) = 6. (1-e^(-1000/31,35 . t))",
+        "C": "uc(t) = 4. e^(-1000/50 . t)",
+        "D": "uc(t) = 4.(1-e^(-1000/55,35 . t))",
+        "E": "uc(t) = 6. e^(-1000/25 . t)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/30.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 31,
+      "question_text": "La valeur de la tension aux bornes du conducteur ohmique de résistance R à t0 = 0 est :",
+      "options": {
+        "A": "uR = 6 V",
+        "B": "uR = -6 V",
+        "C": "uR = 0",
+        "D": "uR = 4,5 V",
+        "E": "uR = -4,5 V"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/31.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 32,
+      "question_text": "Réponse d'un dipôle RL : On réalise un circuit électrique série comportant une bobine d'inductance L et de résistance r, un conducteur ohmique de résistance R = 50 Ω, un générateur de tension de f.é.m E et un interrupteur K. À l'instant t0 = 0, on ferme K. Un système d'acquisition donne l'évolution de la tension uR(t) aux bornes du conducteur ohmique et l'énergie magnétique Em(t) emmagasinée dans la bobine (voir document). L'équation différentielle vérifiée par l'intensité du courant qui traverse le circuit est :",
+      "options": {
+        "A": "di/dt + L/(R+r).i = E/L",
+        "B": "di/dt + (R+r)/L.i = L/E",
+        "C": "di/dt + L/(R+r).i = 0",
+        "D": "di/dt + (R+r)/L.i = E/L",
+        "E": "di/dt + (R+r)/L.i = 0"
+      },
+      "figure_url_1": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/32i1.png",
+      "figure_url_2": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/32i2.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 33,
+      "question_text": "La valeur de la f.é.m est :",
+      "options": {
+        "A": "E = 4,5 V",
+        "B": "E = 6 V",
+        "C": "E = 10 V",
+        "D": "E = 12 V",
+        "E": "E = 24 V"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/33.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 34,
+      "question_text": "Les valeurs des caractéristiques de la bobine sont :",
+      "options": {
+        "A": "r = 10 Ω ; L = 0,2 H",
+        "B": "r = 10 Ω ; L = 0,3 H",
+        "C": "r = 8 Ω ; L = 0,3 H",
+        "D": "r = 8 Ω ; L = 0,2 H",
+        "E": "r = 4 Ω ; L = 0,4 H"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/34.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 35,
+      "question_text": "Sauts à ski : Un skieur de masse m désire franchir l'espace entre deux tremplins symétriques ABI et CDJ. Pour cela, il aborde le premier tremplin en A avec une vitesse vA tangente à (AB). Tous les frottements sont négligeables au cours de son mouvement. Données : g = 10 m.s^-2 ; vA = 20 m.s^-1 ; α = 30° ; sin60 = 0,866 ; BI = h = 10 m. La valeur de la vitesse du skieur en B est :",
+      "options": {
+        "A": "vB = 8,2 m.s^-1",
+        "B": "vB = 10,1 m.s^-1",
+        "C": "vB = 12,4 m.s^-1",
+        "D": "vB = 14,1 m.s^-1",
+        "E": "vB = 18,2 m.s^-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/35.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 36,
+      "question_text": "Le skieur chute sur le deuxième tremplin dans la position C avec une vitesse vC tangente à (CD). Le mouvement est étudié dans le repère (I,i,j) supposé galiléen. La valeur de la distance BC entre les deux tremplins est :",
+      "options": {
+        "A": "BC = 7,2 m",
+        "B": "BC = 10,5 m",
+        "C": "BC = 13,2 m",
+        "D": "BC = 17,3 m",
+        "E": "BC = 28,6 m"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/36.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 37,
+      "question_text": "L'expression de l'ordonnée du sommet S de la trajectoire du skieur est :",
+      "options": {
+        "A": "yS = vB².sin²α/g",
+        "B": "yS = vB².sin²α/(2g) + h",
+        "C": "yS = vB².sin²α/(2g)",
+        "D": "yS = vB.sin²α/g + h",
+        "E": "yS = vB.sinα/(2g)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/37.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 38,
+      "question_text": "Étude d'un oscillateur mécanique : On considère l'oscillateur {solide (S) - ressort} représenté sur la figure. Le ressort est à spires non jointives, d'axe horizontal, de masse négligeable et de raideur K. On étudie le mouvement du centre d'inertie G du solide (S) de masse m dans un repère (O,i) lié à la Terre supposé galiléen. On écarte (S) de sa position d'équilibre et on l'abandonne sans vitesse initiale. À l'instant t0 = 0, choisi comme origine des dates, l'abscisse de G est x0G = -2 cm et la coordonnée de sa vitesse dans le repère (O,i) est v0G = 0,2 m.s^-1. On choisit l'état où le ressort n'est pas déformé comme référence de l'énergie potentielle élastique Epe et le plan horizontal contenant G comme état de référence de l'énergie potentielle de pesanteur Epp. Données : m = 100 g ; K = 10 N.m^-1 ; les frottements sont négligeables. La valeur de l'énergie mécanique de l'oscillateur est :",
+      "options": {
+        "A": "E = 20 mJ",
+        "B": "E = 15 mJ",
+        "C": "E = 12 mJ",
+        "D": "E = 7 mJ",
+        "E": "E = 4 mJ"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/38.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 39,
+      "question_text": "L'expression numérique de l'équation horaire de mouvement du solide (S) en mètre (m) est :",
+      "options": {
+        "A": "x(t) = 2√2.10^-2.cos(10.t - 5π/2)",
+        "B": "x(t) = 2√2.10^-2.cos(10.t + 5π/4)",
+        "C": "x(t) = √2.10^-2.cos(10.π.t + 5π/2)",
+        "D": "x(t) = √2.10^-2.cos(10.π.t)",
+        "E": "x(t) = 2√2.10^-2.cos(10.t + π/3)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/39.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 40,
+      "question_text": "La valeur de la vitesse de passage de G par la position d'équilibre dans le sens positif est :",
+      "options": {
+        "A": "vé q = 2,82 m.s^-1",
+        "B": "vé q = 1,78 m.s^-1",
+        "C": "vé q = 1,20 m.s^-1",
+        "D": "vé q = 0,52 m.s^-1",
+        "E": "vé q = 0,28 m.s^-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/40.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "question_text": "Suivi temporel d'une transformation chimique : On verse dans un bécher le volume V = 2.10^-4 m³ d'une solution (SB) d'hydroxyde de sodium de concentration molaire CB = 10 mol.m^-3, et on y ajoute, à l'instant t0 = 0, une quantité de matière nE de méthanoate de méthyle égale à la quantité de matière nB d'hydroxyde de sodium dans la solution (SB). On suppose que le volume de la solution reste constant (V = 2.10^-4 m³). On modélise la transformation qui se produit dans le milieu réactionnel par l'équation chimique HCO2CH3(l) + HO-(aq) → HCO2-(aq) + CH3OH(l). La courbe représente les variations de la conductivité σ du mélange au cours du temps. L'expression de la conductivité σ à l'instant t est : σ = -72.x + 0,25 (S.m^-1), avec x l'avancement de la réaction. Données : Conductivités molaires ioniques λi des ions présents : Na+ = 5,01 ; HO- = 19,9 ; HCO2- = 5,46 (mS.m².mol^-1). On néglige l'effet des ions H3O+ sur la conductivité du mélange ; 75÷52 = 1,44. La valeur de l'avancement maximal de la réaction est :",
+      "options": {
+        "A": "xmax = 2.10^-4 mol",
+        "B": "xmax = 2.10^-3 mol",
+        "C": "xmax = 1.10^-4 mol",
+        "D": "xmax = 1.10^-3 mol",
+        "E": "xmax = 3.10^-4 mol"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/41.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 42,
+      "question_text": "La valeur du temps de demi-réaction est :",
+      "options": {
+        "A": "t1/2 = 36 min",
+        "B": "t1/2 = 32 min",
+        "C": "t1/2 = 20 min",
+        "D": "t1/2 = 12 min",
+        "E": "t1/2 = 10 min"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/42.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 43,
+      "question_text": "L'expression de la vitesse volumique de la réaction est :",
+      "options": {
+        "A": "v = -1/(72.V) . dσ/dt",
+        "B": "v = -1/(36.V) . dσ/dt",
+        "C": "v = -1/V . dσ/dt",
+        "D": "v = -1/(32.V) . dσ/dt",
+        "E": "v = -1/(42.V) . dσ/dt"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/43.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 44,
+      "question_text": "La valeur de la vitesse volumique de la réaction à l'instant t0 = 0 est :",
+      "options": {
+        "A": "v = 1,23 mol.m^-3.min^-1",
+        "B": "v = 0,82 mol.m^-3.min^-1",
+        "C": "v = 1,05 mol.m^-3.min^-1",
+        "D": "v = 0,52 mol.m^-3.min^-1",
+        "E": "v = 0,32 mol.m^-3.min^-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/44.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 45,
+      "question_text": "Solution aqueuse d'acide éthanoïque : Une solution aqueuse (S) d'acide éthanoïque de concentration molaire C = 1.10^-3 mol.L^-1 a une conductivité σ = 5,2 mS.m^-1. Données : Conductivités molaires ioniques : λ(H3O+) = λ1 = 35,0 mS.m².mol^-1 ; λ(CH3CO2-) = λ2 = 4,1 mS.m².mol^-1. On néglige l'effet des ions HO- sur la conductivité de la solution. 52÷391 = 0,133 ; 10^0,63 = 4,26. La valeur de la concentration molaire effective de l'ion oxonium en solution (S) est :",
+      "options": {
+        "A": "[H3O+] = 1,33.10^-3 mol.L^-1",
+        "B": "[H3O+] = 1,33.10^-2 mol.L^-1",
+        "C": "[H3O+] = 1,33.10^-6 mol.L^-1",
+        "D": "[H3O+] = 1,33.10^-4 mol.L^-1",
+        "E": "[H3O+] = 1,33.10^-5 mol.L^-1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/45.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 46,
+      "question_text": "On dilue 10 fois la solution (S) pour obtenir une solution (S1) de concentration molaire C1 et de pH = 4,37. La valeur du taux d'avancement final de la réaction qui a eu lieu dans la solution (S1) est :",
+      "options": {
+        "A": "τ1 = 0,133",
+        "B": "τ1 = 0,042",
+        "C": "τ1 = 0,260",
+        "D": "τ1 = 0,013",
+        "E": "τ1 = 0,426"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/46.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 47,
+      "question_text": "Solution aqueuse d'acide méthanoïque : Soit une solution aqueuse d'acide méthanoïque HCOOH de concentration molaire C. On note KA la constante d'acidité du couple (HCOOH(aq) / HCOO-(aq)). Le taux d'avancement final de la réaction entre l'acide méthanoïque et l'eau a pour expression :",
+      "options": {
+        "A": "τ = 1/(1+10^(pH-pKA))",
+        "B": "τ = 1/(1-10^(pKA-pH))",
+        "C": "τ = 1/(1+10^(pKA-pH))",
+        "D": "τ = 1/(1+10^-(pKA+pH))",
+        "E": "τ = 1/(1+10^(pKA+pH))"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/47.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 48,
+      "question_text": "L'expression de la concentration molaire C est :",
+      "options": {
+        "A": "C = 10^-pH + 10^(pKA+2pH)",
+        "B": "C = 10^-pH + 10^(pKA-2pH)",
+        "C": "C = 10^-pH + 10^-2pH",
+        "D": "C = 10^-pH + 10^(2pH-pKA)",
+        "E": "C = 10^-2pH + 10^(pKA-pH)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/48.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 49,
+      "question_text": "Réaction entre l'acide éthanoïque et l'ammoniaque : On mélange un volume d'une solution aqueuse d'acide éthanoïque contenant la quantité de matière initiale ni(CH3COOH), avec un volume d'une solution aqueuse d'ammoniaque contenant la même quantité de matière initiale ni(NH3) = ni(CH3COOH). L'équation modélisant la réaction entre l'acide CH3COOH et la base NH3 s'écrit : CH3COOH(aq) + NH3(aq) ⇌ CH3COO-(aq) + NH4+(aq). Données : pKA(CH3COOH(aq)/CH3COO-(aq)) = pKA1 ; pKA(NH4+(aq)/NH3(aq)) = pKA2. L'expression de la constante d'équilibre associée à l'équation de la réaction étudiée est :",
+      "options": {
+        "A": "K = 10^(pKA2+pKA1)",
+        "B": "K = 10^(pKA1-pKA2)",
+        "C": "K = KA2/KA1",
+        "D": "K = KA1.KA2",
+        "E": "K = 10^(pKA2-pKA1)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/49.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 50,
+      "question_text": "L'expression de l'avancement final de cette réaction est :",
+      "options": {
+        "A": "xf = ni.√K/(1+√K)",
+        "B": "xf = ni.(1+√K)/√K",
+        "C": "xf = ni.√K/(1-√K)",
+        "D": "xf = (1+√K)/(ni.√K)",
+        "E": "xf = √K/(ni.(1+√K))"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/50.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 51,
+      "question_text": "Critère d'évolution d'un système chimique : On considère un système chimique obtenu en mélangeant : le volume V1 = 15,0 mL de solution d'acide borique H3BO3 de concentration molaire C1 = 1,10×10^-2 mol.L^-1 ; le volume V2 = 15,0 mL de solution de borate de sodium Na+(aq) + H2BO3-(aq) de concentration molaire C2 = 1,20×10^-2 mol.L^-1 ; le volume V3 = 10,0 mL de solution de méthylamine CH3NH2 de concentration molaire C3 = 2,00×10^-2 mol.L^-1 ; le volume V4 = 10,0 mL de solution de chlorure de méthylammonium, CH3NH3+(aq) + Cl-(aq), de concentration molaire C4 = 1,50×10^-2 mol.L^-1. L'équation la réaction modélisant la transformation qui se produit dans le mélange est : H3BO3(aq) + CH3NH2(aq) ⇌ H2BO3-(aq) + CH3NH3+(aq). Données : pKA(H3BO3(aq)/H2BO3-(aq)) = pKA1 = 9,20 ; pKA(CH3NH3+(aq)/CH3NH2(aq)) = pKA2 = 10,7 ; 10^0,5 = 3,16 ; log(725/2775) = -0,58 ; log(3075/375) = 0,9. La valeur du quotient de réaction à l'état initial du système est :",
+      "options": {
+        "A": "Qr,i = 0,918",
+        "B": "Qr,i = 1,22",
+        "C": "Qr,i = 1,318",
+        "D": "Qr,i = 0,818",
+        "E": "Qr,i = 1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/51.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 52,
+      "question_text": "L'avancement final de la réaction est xf = 1,275.10^-4 mol. La valeur du pH du mélange est :",
+      "options": {
+        "A": "pH = 10,1",
+        "B": "pH = 11,1",
+        "C": "pH = 9,95",
+        "D": "pH = 8,1",
+        "E": "pH = 5,1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/52.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 53,
+      "question_text": "Pile (Cadmium/Argent) : On réalise la pile (Cadmium/Argent) en utilisant une lame d'argent Ag(s) plongée dans une solution aqueuse de nitrate d'argent Ag+(aq) + NO3-(aq) de concentration molaire initiale C1 = 0,4 mol.L^-1 et une lame de cadmium Cd(s) plongée dans une solution aqueuse de nitrate de cadmium Cd2+(aq) + 2NO3-(aq) de concentration molaire initiale C2 = 0,2 mol.L^-1. Les deux solutions sont reliées par un pont salin. On branche entre les deux électrodes de la pile un conducteur ohmique montée en série avec un ampèremètre et un interrupteur. On ferme l'interrupteur à un instant t0 = 0. Un courant électrique d'intensité constante circule dans le circuit. Données : Les deux solutions ont le même volume V = 250 mL ; M(Ag) = 107,87 g.mol^-1 ; La valeur de la constante d'équilibre associée à l'équation chimique : 2Ag+(aq) + Cd(s) ⇌ 2Ag(s) + Cd2+(aq) est : K = 5.10^40 à 25°C ; La quantité de matière de la partie immergée de l'électrode consommable est en excès ; F constante de Faraday. L'expression de l'avancement de la réaction lors du fonctionnement la pile à un instant t est :",
+      "options": {
+        "A": "x = F/(I.t)",
+        "B": "x = 2F/(I.t)",
+        "C": "x = I.t/F",
+        "D": "x = I.t/(2F)",
+        "E": "x = I.t/F"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/53.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 54,
+      "question_text": "À un instant t1, les concentrations molaires effectives des ions Ag+(aq) et Cd2+(aq) sont : [Ag+]1 = 8.10^-2 mol.L^-1 et [Cd2+]1 = 0,36 mol.L^-1. La valeur du quotient de réaction à l'instant t1 est :",
+      "options": {
+        "A": "Qr,1 = 1,25",
+        "B": "Qr,1 = 45,6",
+        "C": "Qr,1 = 56,2",
+        "D": "Qr,1 = 4,56",
+        "E": "Qr,1 = 5,62"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/54.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 55,
+      "question_text": "La valeur de la masse d'argent déposé sur l'électrode d'argent lorsque la pile sera usée est:",
+      "options": {
+        "A": "m(Ag) = 5,398 g",
+        "B": "m(Ag) = 1,078 mg",
+        "C": "m(Ag) = 1,078 g",
+        "D": "m(Ag) = 10,787 mg",
+        "E": "m(Ag) = 10,787 g"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/55.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 56,
+      "question_text": "Méthode de contrôle de l'évolution d'un système chimique : On réalise un mélange équimolaire contenant n0 = 0,12 mol d'un acide (A) et n0 = 0,12 mol d'un alcool (B). On ajoute au mélange quelques gouttes d'acide sulfurique concentré et quelques grains de pierre ponce. Le dispositif expérimentale utilisée est représenté sur la figure ci-contre. À la fin de la transformation on obtient la masse m(E) = 12,64 g d'un ester (E). Données : 79÷39 = 2. L'alcool (B) : CH3-CH(CH3)-CH2-CH2-OH. L'ester (E) : CH3-CH2-CH2-C(=O)-O-CH2-CH2-CH(CH3)-CH3, M(E) = 158 g.mol^-1. Le dispositif utilisé pour préparer cet ester s'appelle:",
+      "options": {
+        "A": "montage de distillation fractionnée",
+        "B": "montage de chauffage à reflux",
+        "C": "montage d'hydrodistillation",
+        "D": "montage d'extraction par solvant",
+        "E": "montage de chauffage sous vide"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/56.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 57,
+      "question_text": "L'acide (A) utilisé est :",
+      "options": {
+        "A": "L'acide butanoïque",
+        "B": "L'acide 3-méthyl butanoïque",
+        "C": "L'acide pentanoïque",
+        "D": "L'acide propanoïque",
+        "E": "L'acide 2-méthyl butanoïque"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/57.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 58,
+      "question_text": "La valeur de la constante d'équilibre associée à l'équation de la réaction qui s'est produite est :",
+      "options": {
+        "A": "K = 3,85",
+        "B": "K = 4,5",
+        "C": "K = 4,2",
+        "D": "K = 3,8",
+        "E": "K = 4"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/58.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 59,
+      "question_text": "La valeur du rendement de cette réaction est :",
+      "options": {
+        "A": "65%",
+        "B": "69%",
+        "C": "67%",
+        "D": "64%",
+        "E": "68%"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/59.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 60,
+      "question_text": "Lors de la synthèse industrielle de l'ester (E), on préfère utiliser un autre réactif (D) à la place de l'acide (A), pour que la réaction soit rapide et totale. La formule semi-développée du réactif (D) est :",
+      "options": {
+        "A": "CH3-CH2-CH2-C(=O)-O-C(=O)-CH2-CH2-CH3 (anhydride symétrique de l'acide butanoïque)",
+        "B": "CH3-CH2-CH2-C(=O)-O-CH2-CH2-CH3 (ester)",
+        "C": "anhydride de l'acide 3-méthylbutanoïque (avec ramification CH3 sur chaîne)",
+        "D": "anhydride mixte avec ramification CH3-CH2-CH(CH3)-",
+        "E": "CH3-CH2-CH2-CH2-C(=O)-O-C(=O)-CH2-CH2-CH2-CH3 (anhydride de l'acide pentanoïque)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/60.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 61,
+      "question_text": "Dans C, l'ensemble des solutions de l'équation (2z-1)/(z+1) = z est :",
+      "options": {
+        "A": "{-1 ; 1/2}",
+        "B": "{1+i√3 ; 1-i√3}",
+        "C": "{(1+i√3)/2 ; (1-i√3)/2}",
+        "D": "{i√3 ; -i√3}",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/61.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 62,
+      "question_text": "Si f est une solution sur R de l'équation différentielle y'' + 2y' + 4y = 0, alors la fonction g = 2f est une solution sur R de l'équation différentielle :",
+      "options": {
+        "A": "y'' + 2y' + 4y = 0",
+        "B": "y'' + y' + y = 0",
+        "C": "y'' + 4y' + 4y = 0",
+        "D": "2y'' + 4y' + y = 0",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/62.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 63,
+      "question_text": "Si z = e^(-iθ) - e^(iθ) avec θ ∈ ]0;π[, alors |z| est égal à :",
+      "options": {
+        "A": "2",
+        "B": "2cosθ",
+        "C": "2cos(θ/2)",
+        "D": "2sinθ",
+        "E": "2sin(θ/2)"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/63.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 64,
+      "question_text": "lim(n→+∞) n - √(n²-n) est égale à :",
+      "options": {
+        "A": "-∞",
+        "B": "0",
+        "C": "1/2",
+        "D": "1",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/64.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 65,
+      "question_text": "Dans l'espace rapporté à un repère orthonormé, on considère les deux points A(1;2;3) et B(2;0;1). L'ensemble des points M(x;y;z) équidistants des points A et B est :",
+      "options": {
+        "A": "Le plan : x+y+z = 6",
+        "B": "Le plan : 2x-4y-4z = -9",
+        "C": "Le plan : 2x-4y-4z = 9",
+        "D": "La droite : {x+y+z=6 ; 2x-4y-4z=-9}",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/65.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 66,
+      "question_text": "Dans l'ensemble C, si arg(iz) ≡ 7π/6 [2π] et |z| = √2 alors la partie imaginaire de z³ est égale à :",
+      "options": {
+        "A": "0",
+        "B": "2√2",
+        "C": "√2",
+        "D": "-√2",
+        "E": "-2√2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/66.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 67,
+      "question_text": "Soit a ∈ R*. Si ∫[0,1] e^(ax)/(1+e^(ax)) dx = 1/a alors a est égal à :",
+      "options": {
+        "A": "ln(e-1)",
+        "B": "2e-1",
+        "C": "ln(2e+1)",
+        "D": "ln(2e-1)",
+        "E": "2e+1"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/67.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 68,
+      "question_text": "Le plan complexe est rapporté à un repère orthonormé direct. Soit z un nombre complexe et Ω, M et M' les points d'affixes respectivement -√3/3, z et z' tel que : z' = (1+i√3)z + i, alors une mesure de l'angle (ΩM, ΩM') est :",
+      "options": {
+        "A": "2π/3 [2π]",
+        "B": "π/3 [2π]",
+        "C": "-2π/3 [2π]",
+        "D": "-π/3 [2π]",
+        "E": "π/6 [2π]"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/68.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 69,
+      "question_text": "ABCD est un carré de coté 1. On place les points E et F respectivement sur les cotés [AB] et [BC] tels que BE = CF = x. La valeur de x pour laquelle l'aire du triangle EFD est minimale est :",
+      "options": {
+        "A": "0",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "1/2",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/69.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 70,
+      "question_text": "Dans l'ensemble C, si |z| - z = 3 - i√3, alors |z| est égal à :",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "2√3",
+        "D": "3√2",
+        "E": "7√2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/70.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 71,
+      "question_text": "Le plan complexe est rapporté à un repère orthonormé direct. Soient A et B les points d'affixes respectives -i et i. L'ensemble des points M d'affixe z tel que |(iz-1)/(z̄+i)| = 1 est :",
+      "options": {
+        "A": "La médiatrice du segment [AB]",
+        "B": "La droite (AB)",
+        "C": "La droite (AB) privée du point B",
+        "D": "Le cercle de diamètre [AB]",
+        "E": "Le cercle de diamètre [AB] privé du point B"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/71.png",
+      "correct_answer": "E",
+      "points": 1
+    },
+    {
+      "id": 72,
+      "question_text": "Soit x ∈ R*. Si lim(n→+∞) (1 + x/(7n))^(29n) = 2022 alors x est égal à :",
+      "options": {
+        "A": "(29/7) ln2022",
+        "B": "2022 ln(7/29)",
+        "C": "2022 ln(29/7)",
+        "D": "(7/29) ln2022",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/72.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 73,
+      "question_text": "Dans l'espace rapporté à un repère orthonormé, on considère le plan (P) d'équation 3x - 2z + 3 = 0. On dispose d'un dé régulier dont les faces sont numérotées de 1 à 6. On lance le dé et on obtient ainsi de manière équiprobable un nombre a (1≤a≤6). La probabilité que le point A(a²;2a;6a-3) appartient au plan (P) est :",
+      "options": {
+        "A": "1/6",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "2/3",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/73.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 74,
+      "question_text": "Soit f la fonction définie sur R par f(x) = 2e^(3x) - 6. La primitive F de la fonction f sur R dont la courbe représentative coupe l'axe des ordonnées au point d'ordonnée 3 est définie par :",
+      "options": {
+        "A": "F(x) = (2/3)e^(3x) - 6x - 2/3",
+        "B": "F(x) = (2/3)e^(3x) - 6x + 7/3",
+        "C": "F(x) = (2/3)e^(3x) - 6x - 7/3",
+        "D": "F(x) = (2/3)e^(3x) - 6x + 2/3",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/74.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 75,
+      "question_text": "L'intégrale ∫[0,3] (x²+2)/√(x³+6x+4) dx est égale à :",
+      "options": {
+        "A": "1/3",
+        "B": "8/3",
+        "C": "10/3",
+        "D": "14/3",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/75.png",
+      "correct_answer": "C",
+      "points": 1
+    },
+    {
+      "id": 76,
+      "question_text": "Si (vn)n∈N* est une suite telle que : (∀n ∈ N*) ; v1 + v2 + ... + vn = 2n² + n, alors v8 est égal à :",
+      "options": {
+        "A": "31",
+        "B": "53",
+        "C": "54",
+        "D": "62",
+        "E": "64"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/76.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 77,
+      "question_text": "Soit f une fonction numérique dérivable sur R. Si (∀x ∈ R) ; f(2x-1) = x² + 3x alors f(1) + f'(1) est égal à :",
+      "options": {
+        "A": "5/2",
+        "B": "4",
+        "C": "9/2",
+        "D": "13/2",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/77.png",
+      "correct_answer": "D",
+      "points": 1
+    },
+    {
+      "id": 78,
+      "question_text": "Si pour tout entier naturel n, In = ∫[1,e] x(lnx)^n dx alors (∀n ∈ N*) 2In+1 + (n+1)In est égal à :",
+      "options": {
+        "A": "e",
+        "B": "e²",
+        "C": "1",
+        "D": "(e-1)/2",
+        "E": "(e+1)/2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/78.png",
+      "correct_answer": "B",
+      "points": 1
+    },
+    {
+      "id": 79,
+      "question_text": "Soit f la fonction définie sur R par : f(x) = Σ(k=0 à n) x^k = 1 + x + x² + ... + x^n et soit (C) sa courbe représentative dans un repère orthonormé. L'équation réduite de la tangente à (C) au point d'abscisse 1 est :",
+      "options": {
+        "A": "y = (n(n+1)/2)x - ((n-2)(n+1))/2",
+        "B": "y = (n(n-1)/2)x - ((n-2)(n+1))/2",
+        "C": "y = (n(n+1)/2)x + ((n-2)(n+1))/2",
+        "D": "y = (n(n-1)/2)x - (n²-1)/2",
+        "E": "y = (n(n+1)/2)x + (n²-1)/2"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/79.png",
+      "correct_answer": "A",
+      "points": 1
+    },
+    {
+      "id": 80,
+      "question_text": "On considère la suite (un)n∈N définie par : u0 ∈ ]0,1[ et (∀n ∈ N) ; un+1 = f(un). Où f est la fonction définie sur [0,1] par : f(x) = √x/(√x + √(1-x)). On a alors :",
+      "options": {
+        "A": "lim(n→+∞) un = 0",
+        "B": "lim(n→+∞) un = 1/3",
+        "C": "lim(n→+∞) un = 1",
+        "D": "lim(n→+∞) un = +∞",
+        "E": "Autre réponse"
+      },
+      "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2022/questions-exam2022/80.png",
+      "correct_answer": "B",
+      "points": 1
+    }
+  ]
+}
