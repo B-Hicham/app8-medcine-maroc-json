@@ -1,0 +1,852 @@
+{
+  "exam_id": "concours-fmp-fmd-med-french-2024",
+  "exam_title": "مباراة ولوج كليات الطب والصيدلة وكليتي طب الأسنان برسم السنة الجامعية 2024-2025 – غشت 2024 (الصيغة الفرنسية للاختبار)",
+  "language": "fr",
+  "duration_hours": 2,
+  "total_questions": 56,
+  "note": "correct_answer values were merged from the official corrigé/answer key sheet (bubble grid image) for this exam, cross-checked by independently solving the computable (physics/chemistry/math) questions and verifying the genetics logic. Each question is worth 1 point (uniform weighting).",
+  "instructions": [
+    "L'épreuve est constituée de quatre composantes d'une durée totale de 2 heures.",
+    "Chaque question comporte 5 propositions (A, B, C, D et E), une seule proposition est juste.",
+    "Chaque candidat(e) a le droit d'utiliser une seule feuille réponse non remplaçable.",
+    "Avec un stylo à bille (bleu ou noir) cochez sur la feuille réponse à l'intérieur de la case correspondante à chaque réponse juste de la manière suivante : ☒ ou la remplissez de la manière suivante : ■.",
+    "L'utilisation de la calculatrice est INTERDITE.",
+    "L'utilisation du Blanco sur la feuille réponse est INTERDITE.",
+    "Toute réponse fausse vaut 0 à la question.",
+    "L'épreuve comporte 56 QCM réparties en quatre composantes."
+  ],
+  "grading_rules": "L'examen est noté sur 20 points (20/20) répartis entre les différentes matières. Le coefficient 1 est attribué à chaque composante : Sciences de la Vie, Physique, Chimie et Mathématiques. Les questions sont à choix multiples avec 5 propositions (A à E) pour chaque question. Le concours comprend 56 questions au total, réparties en quatre composantes : Sciences de la Vie (Q1-Q14), Physique (Q15-Q28), Chimie (Q29-Q42) et Mathématiques (Q43-Q56). L'examen est destiné aux candidats aux facultés de médecine, de pharmacie et de médecine dentaire pour l'année universitaire 2024-2025, session d'août 2024 (version francophone).",
+  "components": [
+    {
+      "id": "sciences_vie",
+      "label_ar": "علوم الحياة",
+      "order": 1,
+      "range": [
+        1,
+        14
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "physique",
+      "label_ar": "الفيزياء",
+      "order": 2,
+      "range": [
+        15,
+        28
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "chimie",
+      "label_ar": "الكيمياء",
+      "order": 3,
+      "range": [
+        29,
+        42
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "mathematiques",
+      "label_ar": "الرياضيات",
+      "order": 4,
+      "range": [
+        43,
+        56
+      ],
+      "coefficient": 1
+    }
+  ],
+  "exam_pdf": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/pdf-exam2024/pdf-exam2024.pdf"
+    }
+  ],
+  "questions": [
+  {
+    "id": 1,
+    "question_text": "Consommation de la matière organique et flux d'énergie :",
+    "options": {
+      "A": "Le cycle de Krebs produit : NADH,H+, FADH2, CO2 et l'Acétyl CoA.",
+      "B": "La fermentation lactique produit : l'Acide lactique, le CO2 et l'ATP.",
+      "C": "Dans la mitochondrie, les processus d'oxydo-réduction permettent la régénération de l'ATP.",
+      "D": "La chaîne respiratoire permet la réduction du NAD+ et du FAD+.",
+      "E": "Au cours du transfert des électrons par la chaîne respiratoire, il y a un pompage des protons H+ de l'espace intermembranaire vers la matrice mitochondriale."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/1.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 2,
+    "question_text": "Lors du catabolisme aérobie, la plus grande partie du CO2 est libérée pendant :",
+    "options": {
+      "A": "La glycolyse.",
+      "B": "Le cycle de Krebs.",
+      "C": "La fermentation lactique.",
+      "D": "Le transport d'électrons.",
+      "E": "La phosphorylation oxydative."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/2.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "question_text": "Lors d'un exercice physique intense et de courte durée, l'utilisation de la glycolyse anaérobie pour produire de l'ATP par les muscles conduit à :",
+    "options": {
+      "A": "La production d'une grande quantité d'ATP et d'acide lactique ; ce dernier sera immédiatement utilisé pour resynthétiser du glucose.",
+      "B": "La production d'une faible quantité d'ATP et d'acide lactique ; ce dernier s'accumule dans les muscles et contribue à la fatigue musculaire.",
+      "C": "La production de l'acide pyruvique, qui va se convertir en acétyl-CoA ; ce dernier va entrer dans le cycle de Krebs pour augmenter la production d'ATP.",
+      "D": "La production de l'acide lactique, qui va se transformer en dioxyde de carbone et en eau au niveau de la chaîne respiratoire.",
+      "E": "L'augmentation de la production d'ATP et de l'acide lactique ; ce dernier sera utilisé pour la synthèse de protéines musculaires."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/3.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 4,
+    "question_text": "L'insuline :",
+    "options": {
+      "A": "Correspond à une hormone synthétisée par les cellules α des îlots de Langerhans du pancréas.",
+      "B": "Correspond à une hormone hyperglycémiante.",
+      "C": "Est constituée de 15 acides aminés.",
+      "D": "La production de l'insuline repose sur le principe de la transcription de l'ARNm en ADNc par la transcriptase inverse.",
+      "E": "La production de l'insuline est réalisée en synthétisant 3 chaînes peptidiques."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/4.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 5,
+    "question_text": "L'ADN polymérase :",
+    "options": {
+      "A": "Correspond à une enzyme qui sépare les deux brins de la double hélice d'ADN.",
+      "B": "Correspond à une protéine de déstabilisation de l'hélice.",
+      "C": "Permet de synthétiser un nouveau brin d'ADN à partir du brin matrice.",
+      "D": "Permet la transcription de l'ADN en ARN.",
+      "E": "Permet de casser les liaisons hydrogène."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/5.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 6,
+    "question_text": "En ce qui concerne la Galle du Collet :",
+    "options": {
+      "A": "La maladie est provoquée par la chaleur élevée.",
+      "B": "La maladie est due à Agrobacterium tumefaciens.",
+      "C": "La maladie est due à une tuméfaction inflammatoire.",
+      "D": "Les opines sont des substances sécrétées par la cellule pour se défendre contre l'agent pathogène.",
+      "E": "Après la mort des cellules infectées, les agents pathogènes subissent une nécrose."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/6.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 7,
+    "question_text": "Le caryotype standard :",
+    "options": {
+      "A": "Est un examen qui permet de détecter les anomalies chromosomiques de structure de grande taille.",
+      "B": "Est un examen qui met en évidence une mutation d'un gène.",
+      "C": "Correspond à l'examen de référence pour confirmer la myopathie de Duchenne.",
+      "D": "Repose sur le principe de complémentarité pour révéler les anomalies.",
+      "E": "Correspond à la génération de quantités importantes d'une séquence donnée d'ADN à partir de l'ADN total d'une cellule."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/7.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 8,
+    "question_text": "La mucoviscidose :",
+    "options": {
+      "A": "Est une maladie polygénique.",
+      "B": "Est une maladie autosomique dominante.",
+      "C": "Ses manifestations sont dues à une viscosité trop basse du mucus.",
+      "D": "La maladie peut se manifester par des troubles digestifs.",
+      "E": "La maladie résulte de différentes mutations d'un gène localisé sur le chromosome 17."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/8.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 9,
+    "question_text": "Avec quel mode de transmission l'arbre généalogique suivant est-il compatible ?",
+    "options": {
+      "A": "Mode autosomique récessif.",
+      "B": "Mode autosomique dominant.",
+      "C": "Mode dominant lié au chromosome X.",
+      "D": "Mode récessif lié au chromosome X.",
+      "E": "Mode lié au chromosome Y."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/9.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 10,
+    "question_text": "En ce qui concerne la molécule de l'hémoglobine :",
+    "options": {
+      "A": "Les gènes qui codent pour β globine et α globine sont localisés tous les deux sur le chromosome 16.",
+      "B": "Au niveau du globule rouge, on note la présence de 2 globines β et une globine α.",
+      "C": "L'hémoglobine est constituée uniquement de groupement protéique.",
+      "D": "La synthèse incomplète de la β globine donne la β-thalassémie.",
+      "E": "La globine est constituée de 476 acides aminés."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/10.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 11,
+    "question_text": "A propos de l'hémophilie :",
+    "options": {
+      "A": "C'est une maladie récessive liée à l'X.",
+      "B": "C'est une maladie récessive liée à l'Y.",
+      "C": "Le gène responsable est présent sur le chromosome 8.",
+      "D": "Chez les filles porteuses de la mutation du gène en question, une simple blessure entraîne toujours une hémorragie mortelle.",
+      "E": "Les garçons porteurs de la mutation du gène en question ne manifestent pas les symptômes de la maladie."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/11.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 12,
+    "question_text": "A propos des organes lymphoïdes et de l'origine des cellules immunitaires :",
+    "options": {
+      "A": "La maturation des lymphocytes B a lieu dans le thymus.",
+      "B": "La maturation des lymphocytes T a lieu dans la moelle osseuse.",
+      "C": "La formation des lymphocytes T a lieu dans le thymus.",
+      "D": "La formation des lymphocytes B a lieu dans la moelle osseuse.",
+      "E": "Seuls les lymphocytes T regagnent les ganglions lymphatiques après leur formation et maturation."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/12.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 13,
+    "question_text": "Le rejet d'une greffe :",
+    "options": {
+      "A": "Est une réaction immunitaire non spécifique.",
+      "B": "Est facilitée par une injection de sérum provenant d'un individu ayant déjà rejeté la même greffe.",
+      "C": "Ne peut pas se produire en l'absence du complément.",
+      "D": "Se produit lorsque le CMH du donneur et du receveur sont différents.",
+      "E": "Est une réaction immunitaire à médiation humorale."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/13.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 14,
+    "question_text": "La réponse immunitaire spécifique à médiation cellulaire :",
+    "options": {
+      "A": "Repose essentiellement sur l'activation des lymphocytes B.",
+      "B": "Nécessite une coopération entre les macrophages, les lymphocytes LT4 et les lymphocytes B.",
+      "C": "Nécessite la différenciation des lymphocytes B en plasmocytes.",
+      "D": "Met en jeu l'interleukine IL2 sécrétée par les lymphocytes LT4 et les lymphocytes T cytotoxiques.",
+      "E": "Met en jeu la différenciation des lymphocytes LT4 en LTh (helpers)."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/14.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 15,
+    "question_text": "Ondes : Une source laser monochromatique S de longueur d'onde λ dans le vide est placée devant un écran E. Un fil de diamètre a est placé entre l'écran et la source à une distance D=5,5m de l'écran. L'expression de λ en fonction de D, L et a s'écrit :",
+    "options": {
+      "A": "λ=L/2D",
+      "B": "λ=L/2a",
+      "C": "λ=L.D/2a",
+      "D": "λ=L.a/2D",
+      "E": "λ=D/2L"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/15.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 16,
+    "question_text": "On constate que L est proportionnelle à 1/a avec un coefficient P=7.10^-6 m². (35/55=0,63). La longueur d'onde λ est ici :",
+    "options": {
+      "A": "λ=P/D",
+      "B": "λ=2P/D",
+      "C": "λ=6,3.10^-7m",
+      "D": "λ=6,3.10^7m",
+      "E": "λ=63.10^-7m"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/16.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 17,
+    "question_text": "Pour un poil de diamètre d, la mesure de la tache centrale donne L=35mm. Le calcul du diamètre du poil donne :",
+    "options": {
+      "A": "d=0,2mm",
+      "B": "d=2mm",
+      "C": "d=5mm",
+      "D": "d=0,5mm",
+      "E": "d=5.10^-7mm"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/17.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 18,
+    "question_text": "Transformations nucléaires : Le Molybdène Mo99 (Z=42) est radioactif β- de demi-vie physique T1=66h. Le noyau fils obtenu est radioactif γ de constante λ2=32.10^-6 s^-1. Le noyau fils est :",
+    "options": {
+      "A": "Mo98 (Z=42)",
+      "B": "Tc99m (Z=43)",
+      "C": "Mo100 (Z=42)",
+      "D": "Tc98 (Z=43)",
+      "E": "Tc100 (Z=43)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/18.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 19,
+    "question_text": "La demi-vie physique du fils est T2 égale à :",
+    "options": {
+      "A": "60 jours",
+      "B": "60 heures",
+      "C": "6 jours",
+      "D": "6 heures",
+      "E": "6 minutes"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/19.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 20,
+    "question_text": "Le nombre de noyaux du radioélément fils administrés à t=0 est :",
+    "options": {
+      "A": "2.10^10",
+      "B": "2.10^11",
+      "C": "2.10^12",
+      "D": "0,2.10^14",
+      "E": "0,2.10^15"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/20.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 21,
+    "question_text": "Juste à la fin de l'examen, l'activité mesurée chez le patient injecté est égale à 70% de sa valeur mesurée à 8h du matin. Il en découle que l'examen s'est terminé à :",
+    "options": {
+      "A": "10h",
+      "B": "11h",
+      "C": "12h",
+      "D": "13h",
+      "E": "14h"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/21.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 22,
+    "question_text": "L'activité A2max calculée, à l'instant tmax est égale à :",
+    "options": {
+      "A": "780 MBq",
+      "B": "78 MBq",
+      "C": "A2max≠A1tmax",
+      "D": "A2max<A1tmax",
+      "E": "A2max>A1tmax"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/22.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 23,
+    "question_text": "Mécanique : Un corps solide (S) glisse sans frottement sur un plan incliné d'angle α=24°. Les coordonnées du vecteur d'accélération aG dans le repère R(A,i,j) sont :",
+    "options": {
+      "A": "ax=g.sinα, ay=0",
+      "B": "ax=0, ay=g.sinα",
+      "C": "ax=g.cosα, ay=0",
+      "D": "ax=0, ay=-g.cosα",
+      "E": "ax=g.sinα, ay=-g.cosα"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/23.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 24,
+    "question_text": "La vitesse VB au point B est égale à :",
+    "options": {
+      "A": "1,99 m.s-1",
+      "B": "4 m.s-1",
+      "C": "7,98 m.s-1",
+      "D": "15,96 m.s-1",
+      "E": "17,84 m.s-1"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/24.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 25,
+    "question_text": "L'intensité de la force R exercée par le plan AB sur le solide (S) est :",
+    "options": {
+      "A": "0,88 N",
+      "B": "8,82 N",
+      "C": "90 N",
+      "D": "882 N",
+      "E": "961 N"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/25.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 26,
+    "question_text": "Électricité : Dans un circuit électrique, si l'on applique une tension de 12V à une résistance de 6Ω, quelle est l'intensité du courant ?",
+    "options": {
+      "A": "3 A",
+      "B": "6 A",
+      "C": "9 A",
+      "D": "12 A",
+      "E": "Les propositions ABCD sont incorrectes"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/26.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 27,
+    "question_text": "Un condensateur (C=10µF) en série avec R=2kΩ, E=4V. A t=0, on ferme K. L'intensité i(t) du courant électrique circulant dans le circuit s'écrit :",
+    "options": {
+      "A": "i(t)=(R/E)e^(-t/RC)",
+      "B": "i(t)=(E/R)e^(-t/RC)",
+      "C": "i(t)=2.10^-3 e^(-50t)",
+      "D": "i(t)=4,5.10^-5 e^(-RC.t)",
+      "E": "i(t)=5,7.10^-5 e^(-RC.t)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/27.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 28,
+    "question_text": "L'intensité du courant électrique à l'instant t=0 et la charge maximale dans le condensateur sont :",
+    "options": {
+      "A": "i=2µA, Qmax=4.10^-5 C",
+      "B": "i=0, Qmax=7.10^-6 C",
+      "C": "i=20µA, Qmax=7.10^-6 C",
+      "D": "i=2mA, Qmax=40µC",
+      "E": "i=1,5mA, Qmax=20µC"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/28.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 29,
+    "question_text": "Parmi les affirmations suivantes, laquelle est INCORRECTE concernant les transformations rapides et lentes d'un système chimique ?",
+    "options": {
+      "A": "Une transformation rapide est une transformation dont la durée est courte.",
+      "B": "Une transformation lente est une transformation dont la durée est observable.",
+      "C": "La température n'a aucun effet sur la vitesse des réactions chimiques.",
+      "D": "Un catalyseur peut accélérer une transformation chimique lente.",
+      "E": "Toutes les affirmations ci-dessus sont correctes."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/29.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 30,
+    "question_text": "La combustion du papier est un exemple de :",
+    "options": {
+      "A": "Transformation physique",
+      "B": "Transformation chimique rapide",
+      "C": "Transformation chimique lente",
+      "D": "Transformation nucléaire",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/30.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 31,
+    "question_text": "La rouille du fer est un exemple de :",
+    "options": {
+      "A": "Transformation physique",
+      "B": "Transformation chimique rapide",
+      "C": "Transformation chimique lente",
+      "D": "Transformation nucléaire",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/31.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 32,
+    "question_text": "Parmi les facteurs suivants, lequel a peu d'effet sur la vitesse d'une transformation chimique ?",
+    "options": {
+      "A": "Concentration des réactants",
+      "B": "Nature des réactants",
+      "C": "Température",
+      "D": "Pression",
+      "E": "Lumière"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/32.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 33,
+    "question_text": "Un catalyseur est une substance qui :",
+    "options": {
+      "A": "Augmente la vitesse d'une transformation chimique sans être consommée.",
+      "B": "Diminue la vitesse d'une transformation chimique sans être consommée.",
+      "C": "Est consommée au cours de la transformation chimique.",
+      "D": "N'a aucun effet sur la vitesse d'une transformation chimique.",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/33.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 34,
+    "question_text": "Une transformation chimique non totale est une transformation dans laquelle :",
+    "options": {
+      "A": "Tous les réactants sont transformés en produits.",
+      "B": "Une partie des réactants reste à l'état initial.",
+      "C": "La réaction est irréversible.",
+      "D": "La réaction est réversible.",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/34.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 35,
+    "question_text": "La constante d'équilibre (Kc) d'une transformation non totale est :",
+    "options": {
+      "A": "Une quantité sans dimension.",
+      "B": "Dépend des concentrations des réactants et des produits à l'équilibre.",
+      "C": "Augmente avec la température.",
+      "D": "Diminue avec la température.",
+      "E": "Toutes les affirmations ci-dessus sont correctes."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/35.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 36,
+    "question_text": "Pour une transformation non totale exothermique, l'augmentation de la température :",
+    "options": {
+      "A": "Favorise la réaction directe.",
+      "B": "Favorise la réaction inverse.",
+      "C": "N'a aucun effet sur le sens de la réaction.",
+      "D": "Déplace l'équilibre vers la formation des réactants.",
+      "E": "Déplace l'équilibre vers la formation des produits."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/36.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 37,
+    "question_text": "Supposons la transformation suivante : A+B ⇌ C+D, Kc=10 à 25°C. On introduit une quantité supplémentaire de A. L'équilibre se déplacera :",
+    "options": {
+      "A": "Vers la droite (formation de C et D).",
+      "B": "Vers la gauche (formation de A et B).",
+      "C": "Ne se déplacera pas.",
+      "D": "Les informations données ne sont pas suffisantes pour le déterminer.",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/37.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 38,
+    "question_text": "Un mélange réactionnel est à l'équilibre pour A+2B ⇌ C+D, Kc=4. On retire une partie du produit C. L'équilibre se déplacera :",
+    "options": {
+      "A": "Vers la droite (formation de C et D).",
+      "B": "Vers la gauche (formation de A et B).",
+      "C": "Ne se déplacera pas.",
+      "D": "Les informations données ne sont pas suffisantes pour le déterminer.",
+      "E": "Aucune des affirmations ci-dessus n'est correcte"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/38.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 39,
+    "question_text": "Pour une transformation chimique donnée, la variation d'enthalpie standard (ΔH°) est négative. Cela signifie que la transformation est :",
+    "options": {
+      "A": "Exothermique",
+      "B": "Endothermique",
+      "C": "Spontanée dans tous les cas",
+      "D": "Non spontanée dans tous les cas",
+      "E": "Les informations données ne sont pas suffisantes pour le déterminer."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/39.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 40,
+    "question_text": "Pour une transformation chimique donnée, la variation d'entropie standard (ΔS°) est positive. Cela signifie que :",
+    "options": {
+      "A": "Le désordre du système augmente.",
+      "B": "Le désordre du système diminue.",
+      "C": "La transformation est spontanée dans tous les cas.",
+      "D": "La transformation est non spontanée dans tous les cas.",
+      "E": "Les informations données ne sont pas suffisantes."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/40.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 41,
+    "question_text": "Supposons la transformation suivante : A+B ⇌ C+D, ΔH°=-20kJ/mol et ΔS°=10J/mol.K. La transformation est-elle spontanée à 25°C (T=298K) ?",
+    "options": {
+      "A": "Oui, car ΔH° est négatif et ΔS° est positif.",
+      "B": "Oui, car ΔH° et ΔS° sont tous deux positifs.",
+      "C": "Non, car ΔH° est négatif et ΔS° est positif.",
+      "D": "Non, car ΔH° est négatif et ΔS° est négatif.",
+      "E": "Les informations données ne sont pas suffisantes."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/41.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 42,
+    "question_text": "Supposons la réaction suivante : 2A+B ⇌ C+D. [A]=0,1 mol/L, [B]=0,2 mol/L, [C]=0,3 mol/L, [D]=0,1 mol/L. Kc=2. La réaction est-elle à l'équilibre ?",
+    "options": {
+      "A": "Oui, car les concentrations des réactants et des produits sont égales.",
+      "B": "Oui, car le rapport des concentrations des produits aux concentrations des réactants est égal à Kc.",
+      "C": "Non, car les concentrations des réactants et des produits ne sont pas égales.",
+      "D": "Non, car le rapport des concentrations des produits aux réactants n'est pas égal à Kc.",
+      "E": "Les informations données ne sont pas suffisantes pour le déterminer."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/42.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 43,
+    "question_text": "On considère la fonction f définie par : f(x)=x-(ln(x))²/x",
+    "options": {
+      "A": "f'=1+[2ln(x)-(ln(x))²]/x²",
+      "B": "f'=1-[2ln(x)-(ln(x))²]/x²",
+      "C": "f'=-1+[2ln(x)-(ln(x))²]/x²",
+      "D": "f'=-1-[2ln(x)-(ln(x))²]/x²",
+      "E": "f'=1+[2ln(x)+(ln(x))²]/x²"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/43.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 44,
+    "question_text": "La fonction f: f(x)=2ln((e^x+2)/√(1+e^x)) admet une asymptote horizontale ou oblique lorsque x tend vers -∞ ou +∞. Quelle est l'équation de cette asymptote ?",
+    "options": {
+      "A": "y=2x",
+      "B": "y=x",
+      "C": "y=0",
+      "D": "y=-2ln(2)",
+      "E": "y=-2x"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/44.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 45,
+    "question_text": "On considère la fonction g définie par: g(x)=(x²+1)/(x+1). Déterminer le point x0 où la tangente à Cg est parallèle à la droite d'équation y=x.",
+    "options": {
+      "A": "x0=0",
+      "B": "x0=-1",
+      "C": "x0=1",
+      "D": "x0=2",
+      "E": "x0=∅ (ensemble vide)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/45.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 46,
+    "question_text": "Soit z=(1-i)^10/(1+i√3)^4. Quelle est la bonne réponse ?",
+    "options": {
+      "A": "|z|=4",
+      "B": "|z|=1/2",
+      "C": "arg z=π/6 [2π]",
+      "D": "arg z=3π/6 [2π]",
+      "E": "arg z=π/2 [2π]"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/46.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 47,
+    "question_text": "Soient z1, z2, z3 trois nombres complexes distincts ayant le même cube, c'est-à-dire (z1)³=(z2)³=(z3)³. Quelles sont les valeurs possibles de z1, z2, z3 ?",
+    "options": {
+      "A": "z1=1, z2=i, z3=-i",
+      "B": "z1=1, z2=ω, z3=ω² où ω=e^(2πi/3)",
+      "C": "z1=1, z2=1/2+i√3/2, z3=-1/2-i√3/2",
+      "D": "z1=2, z2=-1, z3=1",
+      "E": "z1=1, z2=-ω, z3=-ω² où ω=e^(2πi/3)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/47.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 48,
+    "question_text": "Soit dans l'espace muni d'un repère orthonormé direct (O,i,j,k) les points A(0;3;1), B(-1;3;0) et C(0;5;0). La sphère (S) a pour équation: x²+y²+z²-4x-5=0. Quelles sont les coordonnées du point de tangence H du plan (ABC) et de la sphère (S) ?",
+    "options": {
+      "A": "(2;2;√5)",
+      "B": "(2;3;1)",
+      "C": "(2;2;1)",
+      "D": "(0;1;2)",
+      "E": "(0;-1;2)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/48.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 49,
+    "question_text": "2000 personnes ont envoyé un SMS. La société sélectionne 30 SMS au hasard parmi les 2000. On note Ω l'ensemble de tous les sous-ensembles de 30 SMS (distincts). Combien d'éléments contient-il ?",
+    "options": {
+      "A": "A^30_2000",
+      "B": "C^30_2000",
+      "C": "1970",
+      "D": "2000!/30!",
+      "E": "2000"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/49.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 50,
+    "question_text": "On considère maintenant que vous faites partie des personnes qui ont envoyé un SMS. Quelle est la probabilité que vous soyez sélectionné(e) parmi les 2000 participants ?",
+    "options": {
+      "A": "0,12",
+      "B": "0,03",
+      "C": "0,015",
+      "D": "0,02",
+      "E": "0,3"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/50.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 51,
+    "question_text": "Soit Un=ln(1+ne^-n), n∈N. Quelle est la bonne réponse ?",
+    "options": {
+      "A": "La suite (Un) est bornée.",
+      "B": "lim Un (n→+∞) = +∞",
+      "C": "lim Un (n→+∞) = 1",
+      "D": "La suite (Un) est divergente.",
+      "E": "lim Un (n→+∞) = 0"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/51.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 52,
+    "question_text": "Soit la suite w(n) définie par w0=1 et w(n+1)=(wn+3)/(2wn+4) et on pose yn=4/(2+wn). yn+1 vérifie quelle relation ?",
+    "options": {
+      "A": "yn+1=23/(6+yn)",
+      "B": "yn+1=32/(6+yn)",
+      "C": "yn+1=-6/(32+yn)",
+      "D": "yn+1=6/(32+yn)",
+      "E": "yn+1=32/(20+yn)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/52.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 53,
+    "question_text": "Soit (E) l'équation x^x=(√x)^(x+1). Quelle est la bonne réponse ?",
+    "options": {
+      "A": "x=1 est une solution.",
+      "B": "x=2 est une solution.",
+      "C": "x=0 est une solution.",
+      "D": "x=e est une solution.",
+      "E": "L'équation (E) n'admet pas de solution."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/53.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 54,
+    "question_text": "Calculer l'intégrale suivante : ∫ cosx/(2+sinx) dx",
+    "options": {
+      "A": "1/2 ln|2+sinx|+C",
+      "B": "ln|2+sinx|+C",
+      "C": "-ln|2+sinx|+C",
+      "D": "ln|2+cosx|+C",
+      "E": "1/2 ln|2+cosx|+C"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/54.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 55,
+    "question_text": "Soit f(x)=(1+1/x)^x. Quelle est la bonne réponse ?",
+    "options": {
+      "A": "Df=]0,+∞[",
+      "B": "Df=R*",
+      "C": "Df=]-∞,0[∪]0,+∞[",
+      "D": "Df=]-1,1[",
+      "E": "Df=[-1,1]"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/55.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 56,
+    "question_text": "Soit f(x)=xsin(πx)-ln(x)-1 définie sur ]0,1]. Quelle est la bonne réponse ?",
+    "options": {
+      "A": "f est majorée",
+      "B": "Il existe c∈]0,1] tel que f(c)=0",
+      "C": "lim f(x) (x→0+) = -∞",
+      "D": "f est croissante",
+      "E": "lim f(x) (x→1-) = -1"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2024/questions-exam2024/56.png",
+    "correct_answer": "E",
+    "points": 1
+  }
+]
+}
