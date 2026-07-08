@@ -1,0 +1,852 @@
+{
+  "exam_id": "concours-fmp-fmd-med-french-2023",
+  "exam_title": "مباراة ولوج كليات الطب والصيدلة وكليتي طب الأسنان برسم السنة الجامعية 2023-2024 – يوليوز 2023 (الصيغة الفرنسية للاختبار)",
+  "language": "fr",
+  "duration_hours": 2,
+  "total_questions": 56,
+  "note": "correct_answer values were merged from the official corrigé/answer key sheet (bubble grid image) for this exam, cross-checked by independently solving the computable (physics/chemistry/math) questions and verifying the genetics logic. Each question is worth 1 point (uniform weighting).",
+  "instructions": [
+    "L'épreuve est constituée de quatre composantes d'une durée totale de 2 heures.",
+    "Chaque question comporte 5 propositions (A, B, C, D et E), une seule proposition est juste.",
+    "Chaque candidat(e) a le droit d'utiliser une seule feuille réponse non remplaçable.",
+    "Avec un stylo à bille (bleu ou noir) cochez sur la feuille réponse à l'intérieur de la case correspondante à chaque réponse juste de la manière suivante : ☒ ou la remplissez de la manière suivante : ■.",
+    "L'utilisation de la calculatrice est INTERDITE.",
+    "L'utilisation du Blanco sur la feuille réponse est INTERDITE.",
+    "Toute réponse fausse vaut 0 à la question.",
+    "L'épreuve comporte 56 QCM réparties en quatre composantes."
+  ],
+  "grading_rules": "L'examen est noté sur 20 points (20/20) répartis entre les différentes matières. Le coefficient 1 est attribué à chaque composante : Sciences de la Vie, Physique, Chimie et Mathématiques. Les questions sont à choix multiples avec 5 propositions (A à E) pour chaque question. Le concours comprend 56 questions au total, réparties en quatre composantes : Sciences de la Vie (Q1-Q14), Physique (Q15-Q28), Chimie (Q29-Q42) et Mathématiques (Q43-Q56). L'examen est destiné aux candidats aux facultés de médecine, de pharmacie et de médecine dentaire pour l'année universitaire 2023-2024, session de juillet 2023 (version francophone).",
+  "components": [
+    {
+      "id": "sciences_vie",
+      "label_ar": "علوم الحياة",
+      "order": 1,
+      "range": [
+        1,
+        14
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "physique",
+      "label_ar": "الفيزياء",
+      "order": 2,
+      "range": [
+        15,
+        28
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "chimie",
+      "label_ar": "الكيمياء",
+      "order": 3,
+      "range": [
+        29,
+        42
+      ],
+      "coefficient": 1
+    },
+    {
+      "id": "mathematiques",
+      "label_ar": "الرياضيات",
+      "order": 4,
+      "range": [
+        43,
+        56
+      ],
+      "coefficient": 1
+    }
+  ],
+  "exam_pdf": [
+    {
+      "link": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/pdf-exam2022/pdf-exam2023.pdf"
+    }
+  ],
+  "questions": [
+  {
+    "id": 1,
+    "question_text": "A propos du cycle de Krebs :",
+    "options": {
+      "A": "Ce cycle peut se dérouler en milieu aérobie et anaérobie.",
+      "B": "Ce cycle comporte des réactions d'hydrolyse.",
+      "C": "Le cycle de Krebs produit NADH,H+, FADH2, CO2 et l'AcétylCoA.",
+      "D": "Au cours de ce cycle, les transporteurs d'hydrogène passent de la forme oxydée à la forme réduite.",
+      "E": "Les réactions du cycle de Krebs se déroulent dans la membrane interne mitochondriale."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/1.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 2,
+    "question_text": "Au sujet de la chaîne respiratoire :",
+    "options": {
+      "A": "Il y a un transfert d'électrons du couple O2/H2O au couple NADH,H+/NAD+.",
+      "B": "Le dioxygène est oxydé en tant que récepteur final des électrons.",
+      "C": "Il y a augmentation de la concentration des protons dans la matrice.",
+      "D": "Il y a diminution du pH dans la matrice.",
+      "E": "Il y a augmentation de la concentration des protons dans l'espace intermembranaire."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/2.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 3,
+    "question_text": "A propos de l'exercice physique et de la contraction musculaire :",
+    "options": {
+      "A": "La chaleur initiale est totalement libérée au cours de la phase de contraction musculaire.",
+      "B": "Au début de l'exercice physique prolongé, le muscle insuffisamment fourni en dioxygène, produit de l'acide lactique.",
+      "C": "Suite à l'excitation de la fibre musculaire, le calcium libéré par le réticulum sarcoplasmique se fixe sur la tropomyosine.",
+      "D": "Dans la fibre musculaire squelettique, la fermentation cellulaire est une voie lente de régénération de l'ATP.",
+      "E": "L'ATP est nécessaire à la formation du complexe actomyosine et non pas à la rupture de ce complexe."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/3.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 4,
+    "question_text": "A propos de la glycolyse :",
+    "options": {
+      "A": "C'est une voie commune à la respiration et à la fermentation.",
+      "B": "La glycolyse comporte deux étapes essentielles.",
+      "C": "Elle se déroule dans la matrice mitochondriale.",
+      "D": "C'est une voie spécifique à la respiration.",
+      "E": "Une molécule de glucose produit une molécule d'Acide Pyruvique."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/4.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 5,
+    "question_text": "Les étapes successives de la mitose sont :",
+    "options": {
+      "A": "Prophase -Anaphase -Métaphase -Télophase.",
+      "B": "Prophase-Métaphase-Télophase-Anaphase.",
+      "C": "Prophase -Métaphase -Anaphase -Télophase.",
+      "D": "Anaphase -Métaphase -Prophase -Télophase.",
+      "E": "Métaphase -Prophase -Télophase -Anaphase."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/5.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 6,
+    "question_text": "Le génome chez les eucaryotes :",
+    "options": {
+      "A": "est exclusivement nucléaire.",
+      "B": "peut être dupliqué grâce à l'ARN polymérase.",
+      "C": "insère des plasmides pour lutter contre les maladies bactériennes chez l'homme.",
+      "D": "est haploïde au niveau des cellules germinales.",
+      "E": "possède une seule origine (oeil) de réplication."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/6.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 7,
+    "question_text": "Concernant la double hélice d'ADN :",
+    "options": {
+      "A": "Les bases azotées successives sont reliées entre elles par une liaison phosphodiester entre deux riboses.",
+      "B": "Il y a deux liaisons hydrogène entre la Guanine et la Cytosine.",
+      "C": "Le nucléofilament subit un enroulement très dense lors de la mitose.",
+      "D": "Les deux brins sont dits parallèles.",
+      "E": "Les liaisons hydrogène permettent de lier deux riboses."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/7.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 8,
+    "question_text": "Exercice : Le Favisme ou déficit en Glucose-6-Phosphate Déshydrogénase (G6PD), est caractérisé par une anémie hémolytique. Le gène responsable de cette pathologie est muté dans la famille représentée par l'arbre généalogique. En se basant sur l'arbre généalogique :",
+    "options": {
+      "A": "Cette maladie se transmet selon le mode autosomique dominant.",
+      "B": "Cette maladie se transmet selon le mode dominant lié à l'X.",
+      "C": "Si la maladie est due à une mutation ponctuelle du gène responsable, le diagnostic peut être fait grâce au caryotype.",
+      "D": "Aucun des enfants de l'individu 1 n'est porteur du gène muté.",
+      "E": "Le fœtus de l'individu 2 a un risque d'être malade si c'est un garçon."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/8.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 9,
+    "question_text": "A propos de la méiose :",
+    "options": {
+      "A": "Une double réplication de l'ADN précède les deux divisions méiotiques.",
+      "B": "Après la première division méiotique, on note la séparation des chromatides sœurs de chaque chromosome.",
+      "C": "Après la division équationnelle, on note la séparation des chromosomes homologues.",
+      "D": "Lors de l'anaphase 1, les centromères se scindent en deux afin de permettre la migration des chromosomes.",
+      "E": "Lors de la prophase 1, les bivalents sont constitués chacun de 4 chromatides (tétrades)."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/9.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 10,
+    "question_text": "Parmi les propositions suivantes, quelle est la réponse juste :",
+    "options": {
+      "A": "Le brassage interchromosomique s'effectue pendant la prophase 1.",
+      "B": "Un nucléosome est formé de plusieurs protéines histones qui s'enroulent autour de la molécule d'ADN.",
+      "C": "La réplication de l'ADN est conservative.",
+      "D": "Il faut plus d'énergie pour rompre les liaisons entre G et C, que pour rompre les liaisons entre A et T.",
+      "E": "La traduction de l'ADN se passe à l'intérieur du noyau."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/10.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 11,
+    "question_text": "A propos du code génétique :",
+    "options": {
+      "A": "Il assure la correspondance entre 20 acides aminés et 64 codons.",
+      "B": "Un codon code toujours pour un acide aminé.",
+      "C": "Pour initier la transcription, il est nécessaire d'avoir une amorce d'ARN.",
+      "D": "Le codon AUG correspond à la Méthionine.",
+      "E": "UCC correspond à un codon stop."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/11.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 12,
+    "question_text": "A propos des anomalies chromosomiques et diagnostic prénatal :",
+    "options": {
+      "A": "Le diagnostic prénatal chromosomique est obligatoire chez toutes les femmes enceintes au Maroc.",
+      "B": "Quand l'un des deux parents présente une translocation équilibrée, il a 100% de chance d'avoir un enfant normal à chaque grossesse.",
+      "C": "Afin de réaliser un diagnostic prénatal, on peut faire une amniocentèse à partir de la 10ème semaine de grossesse.",
+      "D": "Le syndrome de Turner ne peut pas être diagnostiqué en prénatal.",
+      "E": "En diagnostic prénatal, la clarté nucale peut être révélée par échographie."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/12.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 13,
+    "question_text": "Au cours des réactions immunitaires causées par un allergène :",
+    "options": {
+      "A": "Il y a libération de l'histamine au cours de la phase de sensibilisation.",
+      "B": "Les symptômes de l'allergie apparaissent avant le premier contact avec l'allergène.",
+      "C": "Les IgE se fixent sur les mastocytes.",
+      "D": "Les IgE se fixent sur les monocytes.",
+      "E": "Les allergies sont des maladies contagieuses."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/13.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 14,
+    "question_text": "A propos des réponses immunitaires non spécifiques : La succession correcte des évènements en réponse à l'inflammation est :",
+    "options": {
+      "A": "Lésion tissulaire- Vasodilatation- Inflammation-Libération de médiateurs chimiques par les basophiles et mastocytes- Attraction des cellules immunitaires au site de l'inflammation- Phagocytose.",
+      "B": "Lésion tissulaire-Vasodilatation- Libération de médiateurs chimiques par les basophiles et mastocytes- Inflammation- Attraction des cellules immunitaires au site de l'inflammation- Phagocytose.",
+      "C": "Lésion tissulaire- Libération de médiateurs chimiques par les basophiles et mastocytes- Vasodilatation - Inflammation- Attraction des cellules immunitaires au site de l'inflammation- Phagocytose.",
+      "D": "Lésion tissulaire - Attraction des cellules immunitaires au site de l'inflammation- Libération de médiateurs chimiques par les basophiles et mastocytes - Vasodilatation - Phagocytose-Inflammation.",
+      "E": "Lésion tissulaire - Inflammation- Vasodilatation- Libération de médiateurs chimiques par les basophiles et mastocytes- Attraction des cellules immunitaires au site de l'inflammation- Phagocytose"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/14.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 15,
+    "question_text": "Diffraction de la lumière : On étudie la diffraction d'un rayonnement LASER de longueur d'onde λ=405nm en utilisant une fente de largeur a=40µm et un écran placé à une distance D=2,5m de la fente. Ce rayonnement LASER est :",
+    "options": {
+      "A": "Polychromatique",
+      "B": "Monochromatique",
+      "C": "De couleur dans le domaine du jaune - vert",
+      "D": "De couleur dans le domaine du rouge –orange",
+      "E": "Invisible"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/15.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 16,
+    "question_text": "La largeur L de la tache centrale sur l'écran est égale à :",
+    "options": {
+      "A": "2D.λ/a",
+      "B": "2a.λ/D",
+      "C": "D.λ/a",
+      "D": "λ/a",
+      "E": "2D/a"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/16.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 17,
+    "question_text": "La largeur L de la tache centrale mesure :",
+    "options": {
+      "A": "5mm",
+      "B": "5cm",
+      "C": "5dm",
+      "D": "1,5cm",
+      "E": "1,5dm"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/17.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 18,
+    "question_text": "Radioactivité : L'uranium U238 (Z=92) est radioactif α de constante radioactive λ1, radioactif β-. A partir de l'U238 et après une première désintégration α et 2 désintégrations β- successives, le noyau fils obtenu est l'uranium U234 radioactif. Pour l'U234 le nombre Z est :",
+    "options": {
+      "A": "88",
+      "B": "90",
+      "C": "91",
+      "D": "92",
+      "E": "94"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/18.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 19,
+    "question_text": "L'U234 se désintègre par émission α pour donner du Thorium Th230 radioactif de constante radioactive λ2. A l'équilibre séculaire, les activités de l'U238 et du Th230 sont égales. A cet équilibre, le rapport r = N(Th230)/N(U238) est égal à :",
+    "options": {
+      "A": "230/238",
+      "B": "λ1/λ2",
+      "C": "λ2/λ1",
+      "D": "t½1/t½2",
+      "E": "1"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/19.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 20,
+    "question_text": "Les demi-vies t½1 ≈ 4,5.10^9 années et t½2 ≈ 75000 années. On donne 75/45≈1,6. Le rapport r est égal à :",
+    "options": {
+      "A": "1,6.10^5",
+      "B": "1,6.10^6",
+      "C": "16.10^-5",
+      "D": "1,6.10^-5",
+      "E": "1,6.10^-6"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/20.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 21,
+    "question_text": "Le Th230 est radioactif α. Il donne du Radium Ra226. Le nombre de noyaux initiaux du Th230 est N0. Après un temps t=x.t½, il ne reste plus que Nt=N0/16 de noyaux thorium actif. Dans ce cas, le coefficient x est :",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "32"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/21.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 22,
+    "question_text": "A partir de l'U238, après x désintégrations α et y désintégrations β-, le noyau obtenu est le Pb206 (Z=82) stable. Les valeurs de x et y calculées sont :",
+    "options": {
+      "A": "x=20, y=10",
+      "B": "x=16, y=8",
+      "C": "x=8, y=6",
+      "D": "x=4, y=2",
+      "E": "x=10, y=20"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/22.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 23,
+    "question_text": "Mécanique I : Au temps t=0, on lance vers le haut une petite boule (B) à la vitesse initiale v0=8m.s-1. La boule B monte verticalement pour atteindre le point le plus haut situé H puis retombe. g=10m.s-2, frottements négligeables. Le temps tH (en secondes) mis par B pour atteindre le point H est :",
+    "options": {
+      "A": "1",
+      "B": "0,8",
+      "C": "0,6",
+      "D": "0,4",
+      "E": "0,2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/23.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 24,
+    "question_text": "Le point H se trouve à la hauteur h égale à :",
+    "options": {
+      "A": "2,5m",
+      "B": "3m",
+      "C": "3,2m",
+      "D": "3,5m",
+      "E": "4,2m"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/24.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 25,
+    "question_text": "II. Un corps S1 est lâché, à t=0, d'une hauteur h par rapport au sol, à la vitesse v=0. Après 2 secondes, un 2ème corps S2 est lâché dans les mêmes conditions que le premier, du même endroit et sans vitesse initiale. g=10m.s-2. Quatre secondes après le lâchage de S1, la distance qui sépare S1 de S2 est égale à :",
+    "options": {
+      "A": "30cm",
+      "B": "30m",
+      "C": "60m",
+      "D": "60dm",
+      "E": "60cm"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/25.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 26,
+    "question_text": "Electricité : On considère une bobine (L=42,2mH, r=8,5Ω). La tension UL aux bornes de la bobine lorsqu'elle est traversée par un courant électrique d'intensité i=1,2A est :",
+    "options": {
+      "A": "10,2V",
+      "B": "1,02V",
+      "C": "102mV",
+      "D": "20,1V",
+      "E": "12V"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/26.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 27,
+    "question_text": "La tension UL aux bornes de la bobine à t=0 lorsque la bobine est traversée par un courant électrique variable i=1,5-200t (A), est :",
+    "options": {
+      "A": "12,75V",
+      "B": "1,275V",
+      "C": "4,3mV",
+      "D": "4,3V",
+      "E": "43V"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/27.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 28,
+    "question_text": "La tension UL s'annule à l'instant t1 égale à :",
+    "options": {
+      "A": "2,5.10^-3 s",
+      "B": "25.10^-3 ms",
+      "C": "25.10^-3 µs",
+      "D": "2,5.10^5 s",
+      "E": "2,5 ns"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/28.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 29,
+    "question_text": "Composante 3 : Chimie. Au cours d'une transformation chimique, on observe que la vitesse de la réaction :",
+    "options": {
+      "A": "augmente au cours du temps.",
+      "B": "diminue au cours du temps.",
+      "C": "reste constante au cours du temps.",
+      "D": "est minimale au début de la réaction.",
+      "E": "diminue si la température augmente."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/29.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 30,
+    "question_text": "Le temps de demi-réaction est :",
+    "options": {
+      "A": "la durée au bout de laquelle l'avancement atteint la moitié de sa valeur finale.",
+      "B": "la moitié de la durée pour laquelle disparait la moitié de la quantité du réactif limitant.",
+      "C": "la moitié de la durée totale de la transformation.",
+      "D": "d'autant plus grand que la concentration initiale des réactifs est grande.",
+      "E": "indépendant de la concentration initiale des réactifs."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/30.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 31,
+    "question_text": "Au cours du dosage d'un acide faible par une base forte :",
+    "options": {
+      "A": "avant l'équivalence, l'acide est un réactif limitant.",
+      "B": "avant l'équivalence, la base est un réactif limitant.",
+      "C": "à l'équivalence, le pH du milieu réactionnel est neutre.",
+      "D": "après l'équivalence, le pH du milieu réactionnel est acide.",
+      "E": "après l'équivalence, la base est un réactif limitant."
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/31.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 32,
+    "question_text": "Le pH d'une solution d'hydroxyde de sodium 0,1M à 25°C est :",
+    "options": {
+      "A": "pH=12,0",
+      "B": "pH=12,5",
+      "C": "pH=13,0",
+      "D": "pH=13,5",
+      "E": "pH=13,9"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/32.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 33,
+    "question_text": "Exercice 1 : Titrage de la polyvidone iodée. I2(aq) + 2S2O3^2-(aq) → 2I-(aq) + S4O6^2-(aq). Parmi les couples 'oxydant/réducteur' impliqués, on trouve :",
+    "options": {
+      "A": "S4O6^-(aq)/S2O3^2-(aq)",
+      "B": "S2O3^2-(aq)/S4O6^2-(aq)",
+      "C": "S2O3^-(aq)/S4O6^-(aq)",
+      "D": "I2(aq)/I-(aq)",
+      "E": "I-(aq)/I2(aq)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/33.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 34,
+    "question_text": "Données : Masse molaire de la polyvidone iodée = 2363 g.mol-1. Une molécule de polyvidone iodée libère une molécule de diiode. On prépare une solution S1 par dilution d'un facteur 10 de la solution commerciale de concentration C0. On dose 10,0 mL de S1 par une solution S2 de thiosulfate de sodium C2=0,01mol.L-1. Le volume versé à l'équivalence est Ve=8,0 mL. La concentration C0 en diiode de la solution commerciale est de :",
+    "options": {
+      "A": "0,004 mol.L-1",
+      "B": "0,04 mol.L-1",
+      "C": "0,4 mol.L-1",
+      "D": "4,0 mol.L-1",
+      "E": "Les réponses précédentes sont fausses"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/34.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 35,
+    "question_text": "Le pourcentage de polyvidone iodée dans la solution commerciale est de :",
+    "options": {
+      "A": "<9,5%",
+      "B": "9,5-9,9%",
+      "C": "10,0%",
+      "D": "10,0-10,5%",
+      "E": ">10,5%"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/35.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 36,
+    "question_text": "Exercice 2 : Pile nickel-cobalt. Ni2+(aq) + Co(s) ⇌ Ni(s) + Co2+(aq). Les solutions ont la même concentration initiale C=10^-2 mol.L-1, K=34. La borne positive de cette pile est constituée par :",
+    "options": {
+      "A": "l'électrode de cobalt",
+      "B": "l'électrode de nickel",
+      "C": "la solution de chlorure de nickel",
+      "D": "la solution de chlorure de cobalt",
+      "E": "la solution de chlorure de potassium"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/36.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 37,
+    "question_text": "Au cours de cette transformation chimique on a une augmentation de :",
+    "options": {
+      "A": "la masse de l'électrode de cobalt",
+      "B": "la masse de l'électrode de nickel",
+      "C": "la concentration des ions chlorure",
+      "D": "la concentration des ions nickel",
+      "E": "la concentration des ions potassium"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/37.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 38,
+    "question_text": "Exercice 3 : Dans un ballon de 250 mL, on introduit 1,50 mol d'acide 2,3-diméthylbutanoïque, 1,50 mol de 3-méthylbutan-2-ol et quelques gouttes d'acide sulfurique concentré, puis on chauffe à reflux 1 heure. Acide carboxylique + Alcool ⇌ X + Eau (K=4). La formule semi-développée de l'alcool (3-méthylbutan-2-ol) est :",
+    "options": {
+      "A": "structure A",
+      "B": "structure B",
+      "C": "structure C (CH3-CH(OH)-CH(CH3)-CH3)",
+      "D": "structure D",
+      "E": "structure E"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/38.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 39,
+    "question_text": "La formule semi-développée de l'acide carboxylique (acide 2,3-diméthylbutanoïque) est :",
+    "options": {
+      "A": "structure A (CH3-CH(CH3)-CH(CH3)-COOH)",
+      "B": "structure B",
+      "C": "structure C",
+      "D": "structure D",
+      "E": "structure E"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/39.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 40,
+    "question_text": "La formule semi-développée du produit X obtenu (ester) est :",
+    "options": {
+      "A": "structure A",
+      "B": "structure B",
+      "C": "structure C",
+      "D": "structure D",
+      "E": "structure E"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/40.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 41,
+    "question_text": "La nomenclature chimique du produit X obtenu est :",
+    "options": {
+      "A": "2,3-diméthylbutanoate de 2-méthylbut-3-yle",
+      "B": "2,3-diméthylbutanoate de 3-méthylbut-3-yle",
+      "C": "2,3-diméthylbutanoate de 3-méthylbut-2-yle",
+      "D": "2,3-diméthylbutanoate de 2-méthylbut-2-yle",
+      "E": "2,3-diméthylbutanoate de 1-méthylbut-2-yle"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/41.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 42,
+    "question_text": "Le taux d'avancement final de cette réaction est :",
+    "options": {
+      "A": "0,86",
+      "B": "0,77",
+      "C": "0,66",
+      "D": "0,60",
+      "E": "0,56"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/42.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 43,
+    "question_text": "Composante 4 : Mathématiques. Dans l'ensemble ℂ, si z=√5 e^(-iπ/8), alors :",
+    "options": {
+      "A": "z = (√(10+5√2))/2 - i(√(10-5√2))/2",
+      "B": "z = (√(2+√2))/2 - i(√(2-√2))/2",
+      "C": "z = (√(10+5√2))/2 + i(√(10-5√2))/2",
+      "D": "z = (√(2+√2))/2 + i(√(2-√2))/2",
+      "E": "z = (√(10+5√2))/2 - i(√(10+5√2))/2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/43.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 44,
+    "question_text": "Le nombre complexe z=(1/√2 (1-i√3))^18 est égal à :",
+    "options": {
+      "A": "z=-512",
+      "B": "z=√3/2 - i1/2",
+      "C": "z=512",
+      "D": "z=251",
+      "E": "z=1/2 - i√3/2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/44.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 45,
+    "question_text": "Pour z∈ℂ\\{1}, l'ensemble des points M d'affixes z tels que (z+1)/(z-1) ∈ iR est :",
+    "options": {
+      "A": "La droite (Ox) privée du point (1,0)",
+      "B": "La droite (Oy) privée du point (0,1)",
+      "C": "Le cercle de centre O et de rayon 1",
+      "D": "La droite (Ox)",
+      "E": "Le cercle de centre O et de rayon 1 privé du point (1,0)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/45.png",
+    "correct_answer": "E",
+    "points": 1
+  },
+  {
+    "id": 46,
+    "question_text": "(Un) n≥2 est la suite définie par Un=(1-1/2²)×(1-1/3²)×...×(1-1/n²), n≥2. lim (Un) (n→+∞) est égale à :",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "+∞",
+      "D": "1/2",
+      "E": "la limite n'existe pas"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/46.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 47,
+    "question_text": "(Un) n≥1 et (Vn) n≥1 sont deux suites définies par : Un=1/2+1/2²+1/2³+...+1/2^n ; ln(Vn)=Un ln(2)",
+    "options": {
+      "A": "lim Un=1 et lim Vn=ln(2)",
+      "B": "lim Un=1/2 et lim Vn=ln(2)",
+      "C": "lim Un=1 et lim Vn=2",
+      "D": "lim Un=1/2 et lim Vn=2",
+      "E": "lim Un=1 et lim Vn=2 (répété)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/47.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 48,
+    "question_text": "Soit f une fonction définie sur ℝ+* par : f(x)=√x/√(x+2√x). La lim f(x) (x→0+) est égale à :",
+    "options": {
+      "A": "+∞",
+      "B": "0",
+      "C": "1",
+      "D": "1/2",
+      "E": "f n'admet pas de limite en 0+"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/48.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 49,
+    "question_text": "Soit g une fonction définie sur ℝ+* : g(x)=(2x)^x/(x)^2x, pour tout x>0. La lim g(x) (x→+∞) est égale à :",
+    "options": {
+      "A": "+∞",
+      "B": "1",
+      "C": "2",
+      "D": "0",
+      "E": "g n'admet pas de limite en +∞"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/49.png",
+    "correct_answer": "D",
+    "points": 1
+  },
+  {
+    "id": 50,
+    "question_text": "f est une fonction réelle, sachant que f(1)=3 et f'(1)=-3. La courbe de la fonction f admet au point (1,3) une tangente d'équation :",
+    "options": {
+      "A": "y=3x-2",
+      "B": "y=3x-6",
+      "C": "y=-3x+6",
+      "D": "y=3x",
+      "E": "y=-3x+2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/50.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 51,
+    "question_text": "Soit f et g deux fonctions réelles telle que : f(x)=ln(x-1) et g(x)=√(x+1). Le domaine de définition de gof est :",
+    "options": {
+      "A": "[-1,+∞[",
+      "B": "]1,+∞[",
+      "C": "[1+1/e, +∞[",
+      "D": "]e,+∞[",
+      "E": "]-e,+∞["
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/51.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 52,
+    "question_text": "L'intégrale ∫ (de π/6 à π/4) 1/(sinx tanx) dx est égale à :",
+    "options": {
+      "A": "1/2 - √2/2",
+      "B": "2-√2",
+      "C": "√2-2",
+      "D": "√2/2 - 1/2",
+      "E": "1-√2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/52.png",
+    "correct_answer": "B",
+    "points": 1
+  },
+  {
+    "id": 53,
+    "question_text": "L'intégrale ∫ (de 0 à π/2) sin(2x)/(1+sin²x) dx est égale à :",
+    "options": {
+      "A": "0",
+      "B": "ln(2)+1",
+      "C": "ln(2)",
+      "D": "1",
+      "E": "-ln(2)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/53.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 54,
+    "question_text": "Soit (P) et (P') deux plans d'équations P: x-y-z+2=0 ; P': x+z-2=0 respectivement et (Δ) la droite telle que : x=1+t, y=2+2t, z=1-t (t∈ℝ).",
+    "options": {
+      "A": "(Δ)⊂P",
+      "B": "(Δ)⊥P",
+      "C": "(Δ)∩P'=∅",
+      "D": "(Δ)∩P'=∅ (bis)",
+      "E": "(Δ)⊥P'"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/54.png",
+    "correct_answer": "A",
+    "points": 1
+  },
+  {
+    "id": 55,
+    "question_text": "Soit f(x)={x+x²sin(1/x) si x≠0 ; 0 si x=0}",
+    "options": {
+      "A": "f n'est pas dérivable en 0",
+      "B": "f'(0)=0",
+      "C": "f'(0)=1",
+      "D": "Pour x≠0, f'(x)=1+2x sin(1/x)+cos(1/x)",
+      "E": "f est dérivable en 0 et f'(0)=2"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/55.png",
+    "correct_answer": "C",
+    "points": 1
+  },
+  {
+    "id": 56,
+    "question_text": "Soit une urne qui contient 5 boules bleues, 4 boules blanches et 3 boules noires, toutes indiscernables au toucher. On tire simultanément 3 boules au hasard de l'urne. On répète cette expérience n fois de suite (n≥5) en remettant dans l'urne les boules tirées après chaque tirage. Quelle est la probabilité d'obtenir 3 boules de couleurs 2 à 2 distinctes (n-1) fois exactement ?",
+    "options": {
+      "A": "8×3^n/11^n",
+      "B": "8n×3^n/11^n",
+      "C": "8n×3^(n-1)/11^n",
+      "D": "8^n×3^(n-1)/11^n",
+      "E": "8×3^n/11^(n-1)"
+    },
+    "figure_url": "https://scasylimokpgkgzxbfmx.supabase.co/storage/v1/object/public/app8-medicine/2023/questions-exam2023/56.png",
+    "correct_answer": "C",
+    "points": 1
+  }
+]
+}
